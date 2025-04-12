@@ -158,6 +158,12 @@
         <genreform source="aat" encodinganalog="655">translations (documents)</genreform>
       </controlaccess>
     </controlaccess>
+
+    <relatedmaterial encodinganalog="544 1">
+      <head>Related Material</head>
+      <p>Silvia Gonzalez S. Papers</p>
+      <p>Carlos Villalongin Dramatic Company Records</p>
+    </relatedmaterial>
     <dsc type="combined">
       <head>Box and Folder Inventory</head>
       <c01 level="series" id="ser1">
