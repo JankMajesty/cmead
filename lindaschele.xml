@@ -1,0 +1,963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <!-- Template for BLAC use. Incorporates elements added after the switch to Schema. Created by Carla Alvarez, 2016. -->
+  <eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" findaidstatus="edited-full-draft">
+    <eadid countrycode="US" mainagencycode="US-txula" url="https://txarchives.org/utlac/finding_aids/00501.xml">urn:taro:utexas.blac.00501</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Linda Schele Papers</titleproper>
+        <author encodinganalog="245$c">Nettie Lee Benson Latin American Collection</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Nettie Lee Benson Latin American Collection</publisher>
+        <date era="ce" calendar="gregorian" normal="2019">2019</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded by Rodrigo Leal, <date normal="2018-12">2018 December</date>
+      </creation>
+      <langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English.</language></langusage>
+      <descrules>Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date normal="2020-09">2020 September</date>
+        <item>Edited by Carla O. Alvarez to fix compliance check errors to prepare for the migration to new TARO website.</item>
+      </change>
+			<change>
+				<date normal="2021-11">2021 November</date>
+				<item>Edited by Devon Murphy to update control access terms and formatting based on the TARO Control Access List.</item>
+			</change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+    <did>
+      <head>Descriptive Summary</head>
+      <origination label="Creator:">
+        <persname source="lcnaf" encodinganalog="100">Schele, Linda.</persname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Linda Schele Papers</unittitle>
+      <unitdate label="Dates:" type="inclusive" encodinganalog="245$f" normal="1837/1988" era="ce" calendar="gregorian">1837-1988</unitdate>
+      <unitid label="Accession No.:" encodinganalog="099" countrycode="US" repositorycode="US-txula">2000-17</unitid>
+      <physdesc label="Extent:" encodinganalog="300$a">
+        <extent>7.5 linear feet</extent>
+      </physdesc>
+      <langmaterial label="Language:" encodinganalog="546$a">
+        <language langcode="eng" scriptcode="Latn">English, </language>
+        <language langcode="spa" scriptcode="Latn">Spanish</language>
+      </langmaterial> 
+      <repository label="Repository:" encodinganalog="852$a">
+        <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://www.lib.utexas.edu/about/locations/benson">
+          <corpname><subarea>Benson Latin American Collection,</subarea> The University of Texas at Austin</corpname>
+        </extref>
+      </repository>
+      <abstract label="Abstract:" encodinganalog="520$a">Personal papers of Linda Schele, expert of Maya epigraphy and iconography, and University of Texas graduate and professor. Included are materials from Schele’s graduate program, teaching materials, articles by and about Schele, and collected publications from Schele’s library.</abstract>
+    </did>
+    
+    <bioghist encodinganalog="545">
+      <head>Biographical Sketch</head>
+      <p>Linda Schele was born in Nashville, Tennessee on October 30, 1942, daughter to Ruby Richmond and sister to Tom Richmond. Her father-in-law was DeWayne Schele, and she had a sister-in-law Sandra Jane Quance. In 1964 Schele graduated from the University of Cincinnati with a bachelor’s degree in education. She would continue her education at Cincinnati, graduating in 1968 with a master’s degree in fine arts. That same year, Schele married David Schele, architect and fellow Cincinnati graduate, and started teaching studio art courses at the University of South Alabama in Mobile.</p>
+      <p>In 1970, Linda and David Schele would travel to the Mayan city of Palenque in the Yucatan Peninsula. During the course of the trip, Linda Schele developed a strong enthusiasm for Mayan art which would quickly translate into a new career focus on studying Mayan culture and history. Schele would soon after enroll at the University of Texas, earning her doctorate in Latin American studies in 1980 and subsequently becoming a professor in the Department of Art and Art History in 1981. Her dissertation entitled <title render="italic">Maya Glyphs: the Verbs</title> was published in 1982.</p>
+      <p>Schele was labeled widely as a pioneer in the field of Mayan studies, most of all for her work decoding and translating Mayan inscriptions, which in the 1970s, upended modern understanding of Mayan history and culture. Noted for her 1973 collaborative work with Peter Matthews and Floyd Lounsbury, the three studied the glyphs of Palenque, revealing hundreds of years of Mayan history. </p>
+      <p>In 1977, Schele and Nancy Troike would co-found the Maya Meetings (presently known as the Mesoamerica Meetings), an annual University of Texas conference centered on Maya archaeological research and discovery.</p>
+      <p>In 1986, Schele and Mary Miller would curate for The Kimbell Art Museum in Fort Worth, Texas, the exhibition and catalog of Maya art, <title render="doublequote">The Blood of Kings: A New Interpretation of Maya Art.</title> A landmark contribution, the works described the Mayan histories of warfare and ritual sacrifice, which stood in stark contrast with prior interpretations of the Mayans as a primarily peaceful people.</p>
+      <p>In 1988, Schele would collaborate with Nikolai Grube and Frederico Fahsen on a series of hieroglyphic workshops in both Mexico and Guatemala. Created specifically for modern day Mayan descendants, the workshops were intended to provide skills needed to decipher and understand the written language of their ancestors.</p>
+      <p>Linda Schele passed away on April 18, 1998, in a hospital near her home in Austin, Texas due to pancreatic cancer. Anticipating her death, Schele would continue to lecture, and established The Linda Schele Endowment in Maya and Pre Columbian Studies at UT Austin.</p>
+    </bioghist>
+    <scopecontent encodinganalog="520$b">
+      <head>Scope and Contents Note</head>
+      <p>This collection contains the personal library of Linda Schele, expert of Maya epigraphy and iconography, writer, and University of Texas graduate and professor. The materials document her as a student, containing class notes from her PhD program; her work as a University of Texas professor; and her career as a scholar of Mayan artwork and history, both in the works she produced and in the materials she used for research and reference. The collection is arranged in four series: Academic materials, Papers by Linda Schele, Magazines and journals, and Collected publications. Note that although many items were removed from their original bindings for preservation, they remain in the order in which they came. Additionally, the majority of items are reproductions of original materials.</p>
+      <p>Academic materials contains materials from Schele’s student career as well as her faculty position at the University of Texas at Austin. Within are class notes from a course Schele took with Floyd G. Lounsbury, a course packet for Maya Pottery Painting, taught by Schele, correspondence, and dissertation drafts that Schele was sent by students.</p>
+      <p>Papers by Linda Schele contains one bound collection of papers written by Linda Schele on Mayan hieroglyphics and culture.</p>
+      <p>Magazines and journals contains articles on Mayan studies, articles written by or about Linda Schele, and coverage of Schele’s co-curated exhibition and catalog of Maya art, <title render="doublequote">The Blood of Kings: A New Interpretation of Maya Art.</title></p>
+      <p>Collected publications is the majority of the collection and contains resources, research materials, and articles Schele kept in her personal library. These materials have been separated into five subseries based on topics covered. The ethnology subseries contains articles on ethnohistory as well as bound items that contain items that cover multiple content subjects. The astronomy subseries contains articles on Mayan astronomy as well as general astronomy resources and planispheres. The art, glyphs, and architecture subseries contains Mayan hieroglyphics studies, site surveys, and illustrations and photographs of Mayan artwork. Additionally, the subseries contains papers pertaining to one of Schele’s notable research partners, Peter Matthews. The linguistics papers subseries contains articles on Mayan grammar, vocabulary, phonetics, and additionally three volumes of the International Journal of American Linguistics. Lastly, the dictionaries, codices, vocabularies subseries contains comparative dictionaries in the languages of the Kaqchikel, Poqomchi', K'iche, Ch'orti', Tzeltal, Ch'ol, Jakaltek, Chuj, Nahua, and Totonac peoples.</p>
+    </scopecontent>
+
+    <accessrestrict encodinganalog="506">
+      <head>Access Restrictions</head>
+      <p>Unrestricted.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540">
+      <head>Use Restrictions</head>
+      <p>Standard copyright restrictions apply.</p>
+    </userestrict>
+
+    <controlaccess>
+      <head>Index Terms</head>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname source="lcnaf" encodinganalog="600">Schele, Linda</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname source="lcnaf" encodinganalog="610">University of Texas at Austin</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects</head>
+        <subject source="lcsh" encodinganalog="650">Inscriptions, Mayan</subject>
+        <subject source="lcsh" encodinganalog="650">Mayan languages</subject>
+        <subject source="lcsh" encodinganalog="650">Indigenous peoples--Languages</subject>
+        <subject source="lcsh" encodinganalog="650">Ethnology</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname source="lcnaf" encodinganalog="651">Palenque Site (Mexico)</geogname>
+      </controlaccess>
+    </controlaccess>
+
+    <relatedmaterial encodinganalog="544 1">
+      <head>Related Material</head>
+      <p>The Dolph Briscoe Center for American History's collection <archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://txarchives.org/utcah/finding_aids/00508.xml">A Guide to the UT KUT Longhorn Radio Network Records</archref> contains a radio program featuring Linda Schele.</p>
+    </relatedmaterial>
+    
+    <prefercite encodinganalog="524">
+      <head>Preferred Citation</head>
+      <p>Linda Schele Papers, Nettie Lee Benson Latin American Collection, University of Texas Libraries, The University of Texas at Austin.</p>
+    </prefercite>
+    <acqinfo encodinganalog="541">
+      <head>Acquisition Information</head>
+      <p>Donation.</p>
+      <p>Accession numbers: 2000-17</p>
+    </acqinfo>    
+    <processinfo encodinganalog="583">
+      <head>Processing Information</head>
+      <p>Collection processed by Rodrigo Leal, Special Collections GRA, December 2018.</p>
+		</processinfo>
+    <accruals encodinganalog="584">
+      <head>Additions</head>
+      <p>No further materials are expected for this collection.</p>
+    </accruals>
+ 
+    <dsc type="combined">
+      <head>Box and Folder Inventory</head>
+      <c01 level="series" id="ser1">
+        <did>
+          <unittitle>Academic materials, </unittitle>
+          <unitdate normal="1975/1998">1975-1998</unitdate>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Lounsbury class notes, </unittitle>
+            <unitdate normal="1975/1976">1975-1976</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Lounsbury class notes, </unittitle>
+            <unitdate normal="1976/1977">1976-1977</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>UT course packet: ARH 390 - Maya Pottery Painting, </unittitle>
+            <unitdate normal="1990" calendar="approximate">circa 1990</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4-5</container>
+            <unittitle>Heather Orr - Spiral bound xerox of the figures in her dissertation, sent to Schele, </unittitle>
+            <unitdate normal="1996" certainty="approximate">circa 1996</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Correspondence from Megan Biesele to Linda Schele, </unittitle>
+            <unitdate normal="1998-02-16">1998 February 16</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>“The Development of Political Rhetoric at Chichen Itza, Yucatan, Mexico” draft by Ruth Krochock, </unittitle>
+            <unitdate normal="1998-03-08">1998 March 8</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">1</container>
+            <unittitle>Dissertation draft by Calker, </unittitle>
+            <unitdate normal="1975/1998" certainty="approximate">undated</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="Map_Case">OV</container>
+            <container type="Folder">1</container>
+            <unittitle>Poster from The Workshops on Maya Hieroglyphic Writing at Texas, </unittitle>
+            <unitdate era="ce" calendar="gregorian" normal="1987">1987</unitdate>
+          </did>
+        </c02>
+        
+      </c01>
+      <c01 level="series" id="ser2">
+        <did>
+          <unittitle>Papers by Linda Schele, </unittitle>
+          <unitdate normal="1974/1979">1974-1979</unitdate>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">2-3</container>
+            <unittitle>Articles by Linda Schele, </unittitle>
+            <unitdate normal="1974/1979">1974-1979, </unitdate><unitdate normal="1974/1979" certainty="approximate">undated</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="ser3">
+        <did>
+          <unittitle>Magazines and journals</unittitle>
+          <unitdate normal="1963/1998">1963-1998</unitdate>
+        </did>
+        <c02 level="item">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">4</container>
+            <unitdate normal="1963/1986-05">1963 Fall-1986 May</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">5</container>
+            <unitdate normal="1986-05/1986-06">1986 May-1986 May/June</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">1</container>
+            <unitdate normal="1986-05/1991-04">1986 May/June-1991 April</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">2</container>
+            <unitdate normal="1991-09/1991-11">1991 September-1991 November</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">3</container>
+            <unitdate normal="1991-11/1991-12">1991 November-1991 December</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">4</container>
+            <unitdate normal="1993-07/1995-02">1993 July-1995 February</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">5</container>
+            <unitdate normal="1995-04/1996">1995 April-1996</unitdate>
+          </did>
+        </c02>
+        <c02 level="item">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">1</container>
+            <unitdate normal="1995-04/1998">1995 April-1998</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="ser4">
+        <did>
+          <unittitle>Collected publications, </unittitle>
+          <unitdate normal="1837/1998">1837-1998</unitdate>
+        </did>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">4</container>
+            <unittitle>Ethnology, </unittitle>
+            <unitdate normal="1904/1998">1904-1998</unitdate>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="Box">4</container>
+              <container type="Folder">2</container>
+              <unittitle>Bound ethnology articles, codices, dictionaries, </unittitle>
+              <unitdate normal="1904">1904, </unitdate><unitdate normal="1942/1954">1942-1954</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">4</container>
+              <container type="Folder">3-4</container>
+              <unittitle>Bound articles by J. Eric S. Thompson, </unittitle>
+              <unitdate normal="1934/1959">1934-1959, </unitdate><unitdate normal="1934/1959">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">4</container>
+              <container type="Folder">5</container>
+              <unittitle>Bound book of articles: ethnology, </unittitle>
+              <unitdate normal="1940/1983">1940-1983</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">4</container>
+              <container type="Folder">6</container>
+              <unittitle>Bound articles by Robert L. Rands, </unittitle>
+              <unitdate normal="1953">1953, </unitdate><unitdate normal="1977">1977</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">4</container>
+              <container type="Folder">7</container>
+              <unittitle>Bound articles on Mayan Mythology and Culture, </unittitle>
+              <unitdate normal="1965/1978">1965-1978</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">5</container>
+              <container type="Folder">1</container>
+              <unittitle>Bound articles by David H. Kelley, </unittitle>
+              <unitdate normal="1961/1980">1961-1980</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">5</container>
+              <container type="Folder">2</container>
+              <unittitle>Bound articles on Mayan mythology and culture, </unittitle>
+              <unitdate normal="1965/1978">1965-1978</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">5</container>
+              <container type="Folder">3</container>
+              <unittitle>"Chahula (Tzoltzil Proverbs; Neither Fish nor Fowl," by Gary H Gossen, </unittitle>
+              <unitdate normal="1971">1971</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">5</container>
+              <container type="Folder">4-5</container>
+              <unittitle>Bound articles on Mayan gods, maps, Chuj animal names, Tojolbal vocabulary, and Chilam Balam texts, </unittitle>
+              <unitdate normal="1980">1980</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">5</container>
+              <container type="Folder">6-7</container>
+              <unittitle>"Period ending Regalia of Late classic Maya Rulership" by Martin Diedrich, </unittitle>
+              <unitdate normal="1983-03">1983 June</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">5</container>
+              <container type="Folder">8</container>
+              <unittitle>(Part 1 of 2) Dissertation by John M.D. Pohl, UCLA, </unittitle>
+              <unitdate normal="1990" certainty="approximate">circa 1990</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">6</container>
+              <container type="Folder">1</container>
+              <unittitle>(Part 2 of 2) Dissertation by John M.D. Pohl, UCLA, </unittitle>
+              <unitdate normal="1990" certainty="approximate">circa 1990</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">6</container>
+              <container type="Folder">2</container>
+              <unittitle>From <emph render="italic">Archaeology</emph>: "A Mighty Maya Nation" by Arlen F. Chase and Diane Z. Chase, </unittitle>
+              <unitdate normal="1996">1996</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">6</container>
+            <unittitle>Astronomy, </unittitle>
+            <unitdate normal="1942/1996">1942-1996</unitdate>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="Box">6</container>
+              <container type="Folder">3</container>
+              <unittitle>Bound articles: Astronomy-Arithmetic, articles by J. Eric S. Thompson, Charles H. Smiley, and Herbert Joseph Spinden, </unittitle>
+              <unitdate normal="1942/1960">1942-1960</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">6</container>
+              <container type="Folder">4</container>
+              <unittitle><emph render="italic">Norton’s Star Atlas and Telescopic Handbook</emph> by Arthur P. Norton and J. Gall Inglis, </unittitle>
+              <unitdate normal="1959">1959</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">6</container>
+              <container type="Folder">5</container>
+              <unittitle>Two planispheres, </unittitle>
+              <unitdate normal="1977">1977, </unitdate><unitdate normal="1982">1982</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">6</container>
+              <container type="Folder">6</container>
+              <unittitle>“Lunar Eclipses Visible at Tikal, -1014 to +2038” and “Solar Eclipses Visible at Tikal, -1014 to +2038” by Manfred Kudlek, </unittitle>
+              <unitdate normal="1978-12-14">1978 December 14</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">6</container>
+              <container type="Folder">7</container>
+              <unittitle><emph render="italic">Astronomical Tables of the Sun, Moon, and Planets</emph> by Jean Meeus, </unittitle>
+              <unitdate normal="1983">1983</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">6</container>
+              <container type="Folder">8</container>
+              <unittitle><emph render="italic">Nightwatch, An Equinox Guide to Viewing the Universe</emph> by Terence Dickinson, </unittitle>
+              <unitdate normal="1983">1983</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">6</container>
+              <container type="Folder">9</container>
+              <unittitle><emph render="italic">Mirroring the Sky: A Postclassic Quiche-Maya Cosmology</emph> by Jose A. Fernandez Valbuena, </unittitle>
+              <unitdate normal="1996">1996</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">7</container>
+            <unittitle>Art, glyphs, and architecture, </unittitle>
+            <unitdate normal="1923/1992">1923-1992, </unitdate><unitdate normal="1923/1992" certainty="approximate">undated</unitdate>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="Box">7</container>
+              <container type="Folder">1</container>
+              <unittitle>Articles, excerpts, and maps on el Templo de las Inscripciones, </unittitle>
+              <unitdate normal="1923/1949">1923-1949</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">7</container>
+              <container type="Folder">2</container>
+              <unittitle>Articles on the palace of Palenque, </unittitle>
+              <unitdate normal="1929/1976">1929-1976</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">7</container>
+              <container type="Folder">3</container>
+              <unittitle>Articles by Heinrich Berlin and Miguel Angel Fernandez, </unittitle>
+              <unitdate normal="1944/1973">1944-1973</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">8</container>
+              <container type="Folder">1</container>
+              <unittitle>Articles by Heinrich Berlin and Miguel Angel Fernandez, </unittitle>
+              <unitdate normal="1954/1970">1954-1970</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">8</container>
+              <container type="Folder">2</container>
+              <unittitle><emph render="italic">Arqvitectvra Prehispanica</emph> by Ignacio Marqvina, </unittitle>
+              <unitdate normal="1951">1951</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">8</container>
+              <container type="Folder">3</container>
+              <unittitle>Bound book: Articles on Maya Hieroglyphic Writing by George H. Taack, Y. V. Knorozov, and David H. Kelley, </unittitle>
+              <unitdate normal="1958/1976">1958-1976</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">9</container>
+              <container type="Folder">1</container>
+              <unittitle>Articles by Barthel and Dütting on emblems, glyphs, </unittitle>
+              <unitdate normal="1968/1976">1968-1976</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">9</container>
+              <container type="Folder">2</container>
+              <unittitle>Articles on Mayan art by Dutting, Berger, Stone, and Faught, </unittitle>
+              <unitdate normal="1970">1970</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">9</container>
+              <container type="Folder">3</container>
+              <unittitle>Bound book: Articles on glyphs by Joyce Marcus, Gary W. Pahl, and Jon Erik Simpson, </unittitle>
+              <unitdate normal="1973/1976">1973-1976, </unitdate><unitdate normal="1923/1992" certainty="approximate">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">9</container>
+              <container type="Folder">4</container>
+              <unittitle><emph render="italic">Architectural Survey at Palenque - 1974</emph> by George Andrews, addressed to Linda Schele, </unittitle>
+              <unitdate normal="1974/1979" certainty="approximate">circa 1970s</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">9</container>
+              <container type="Folder">5-6</container>
+              <unittitle>Bound papers relating to Peter Matthews, </unittitle>
+              <unitdate normal="1976-11-30/1980-01-08">1976 November 30-1980 January 8</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">10</container>
+              <container type="Folder">1</container>
+              <unittitle><emph render="italic">Warefare and aggression in Pre-Colombian Andean art: an analytical study</emph> by Lorraine Elizabeth Briggs, </unittitle>
+              <unitdate normal="1982">1982</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">10</container>
+              <container type="Folder">2</container>
+              <unittitle>“Some thoughts and work-in-progress Summer ‘91” by Simon Martin, </unittitle>
+              <unitdate normal="1991" certainty="approximate">circa 1991</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">10</container>
+              <container type="Folder">3</container>
+              <unittitle>“A Monolith from Teopantecuanitlan, A New Omec Site in Guerrero” by F. Kent Reilly, III, </unittitle>
+              <unitdate normal="1985-03">1985 March</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">10</container>
+              <container type="Folder">4-5</container>
+              <unittitle>Photographs of Mayan artwork by Justin Kerr, </unittitle>
+              <unitdate normal="1989/1992">1989-1992</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">10</container>
+              <container type="Folder">6</container>
+              <unittitle>Danzantes: bound illustrations, </unittitle>
+              <unitdate normal="1923/1992" certainty="approximate">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">11</container>
+              <container type="Folder">1</container>
+              <unittitle>Dibujos de Carlos A Villacorta en la Biblioteca Nacional de París y la Biblioteca de Dresden, Alemania, and photos, </unittitle>
+              <unitdate normal="1923/1992">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">11</container>
+              <container type="Folder">2</container>
+              <unittitle>Dibujos de Carlos A Villacorta en el Museo Arqueológico Nacional de Madrid, </unittitle>
+              <unitdate normal="1923/1992">undated</unitdate>
+            </did>
+          </c03>          
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">11</container>
+            <unittitle>Linguistics papers, </unittitle>
+            <unitdate normal="1960/1996">1960-1996, </unitdate><unitdate normal="1960/1996" certainty="approximate">undated</unitdate>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="Box">11</container>
+              <container type="Folder">3</container>
+              <unittitle>Articles and Dictionaries on Mayan Languages, </unittitle>
+              <unitdate normal="1960/1978">1960-1978</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">11</container>
+              <container type="Folder">4</container>
+              <unittitle>“The origins and differentiation of the maya as inferred from the comparative study of maya languages Part I” by Norman A. McQuown, </unittitle>
+              <unitdate normal="1962">1962</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">11</container>
+              <container type="Folder">5</container>
+              <unittitle>“Phoneticism in the Maya Script” by David H. Kelley, </unittitle>
+              <unitdate normal="1962">1962</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">11</container>
+              <container type="Folder">6</container>
+              <unittitle><emph render="italic">A Grammar of Yucatec Maya</emph> by George E. Stuart, </unittitle>
+              <unitdate normal="1965">1965</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">11</container>
+              <container type="Folder">7</container>
+              <unittitle>Papers by Terrence Kaufman, </unittitle>
+              <unitdate normal="1968">1968, </unitdate><unitdate normal="1960/1996" certainty="approximate">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">11</container>
+              <container type="Folder">8</container>
+              <unittitle>(Part 1 of 2) Papers on Mayan vocabulary, translated Mayan tales, ethnohistory research, </unittitle>
+              <unitdate normal="1970/1979">1970-1979, </unitdate><unitdate normal="1960/1996" certainty="approximate">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">12</container>
+              <container type="Folder">1</container>
+              <unittitle>(Part 2 of 2) Papers on Mayan vocabulary, translated Mayan tales, ethnohistory research, </unittitle>
+              <unitdate normal="1970/1979">1970-1979, </unitdate><unitdate normal="1960/1996" certainty="approximate">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">12</container>
+              <container type="Folder">2</container>
+              <unittitle>Three volumes of the International Journal of American Linguistics, </unittitle>
+              <unitdate normal="1973/1979">1973-1979</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">12</container>
+              <container type="Folder">3</container>
+              <unittitle>Mayan Vocabulary Survey by Terrence Kaufman, </unittitle>
+              <unitdate normal="1978">1978</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">12</container>
+              <container type="Folder">4</container>
+              <unittitle>An Outline of Proto-Cholan, Phonology, Morphology, and Vocabulary by Terrence Kaufman and William Norman, </unittitle>
+              <unitdate normal="1978">1978</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">12</container>
+              <container type="Folder">5</container>
+              <unittitle>Bound papers on Mayan linguistics, </unittitle>
+              <unitdate normal="1978/1979">1978-1979</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">12</container>
+              <container type="Folder">6</container>
+              <unittitle>“Syllable and script: a typological study”  by John S. Justeson and Laurence D. Stephens, </unittitle>
+              <unitdate normal="1980">1980</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">12</container>
+              <container type="Folder">7</container>
+              <unittitle>“Chol Ritual Language - A Research Report to the Foundation for the Advancement of Mesoamerican Studies, Inc.” by J. Kathryn Josserand and Nicholas A. Hopkins, </unittitle>
+              <unitdate normal="1996-01">1996 January</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">12</container>
+              <container type="Folder">8</container>
+              <unittitle>“Informe sobre el Tzeltal del Sur” por Terry Kaufman, </unittitle>
+              <unitdate normal="1960/1996" certainty="approximate">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">13</container>
+              <container type="Folder">1</container>
+              <unittitle>Thesis by John Justeson on Lexical diffusion in Mesoamerica, </unittitle>
+              <unitdate normal="1960/1996" certainty="approximate">undated</unitdate>
+            </did>
+          </c03>          
+        </c02>
+        <c02 level="subseries">
+          <did>
+            <container type="Box">13</container>
+            <unittitle>Dictionaries, codices, vocabularies, </unittitle>
+            <unitdate normal="1837/1980">1837-1980, </unitdate><unitdate normal="1837/1980" certainty="approximate">undated</unitdate>
+          </did>
+          <c03 level="item">
+            <did>
+              <container type="Box">13</container>
+              <container type="Folder">2</container>
+              <unittitle>Dictionary Cakchiquel - Colonial: <emph render="italic">Vocabulario en lengua castellana y guatemalteca que se llama Cakchiquel</emph>, </unittitle>
+              <unitdate normal="1837">1837</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">13</container>
+              <container type="Folder">3</container>
+              <unittitle>Diccionario Pokomchi-Castellano y Castellano-Pokomchi de San Cristobal Cahcoh, </unittitle>
+              <unitdate normal="1875-02-24">1875 February 24</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">13</container>
+              <container type="Folder">4</container>
+              <unittitle>Vocabulario en Lengua Quiché by Fr. Domingo de Basseta, </unittitle>
+              <unitdate normal="1921">1921</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">13</container>
+              <container type="Folder">5</container>
+              <unittitle>Vocabulario de la Lengua Totonaca Según el manuscrito no.925, hecha por Rudolf Schuller, </unittitle>
+              <unitdate normal="1926-08">1926 August</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">13</container>
+              <container type="Folder">6</container>
+              <unittitle>Bound papers: Vocabularios comparativos Tzeltal by Schuller and Maya plant names and correspondence by Ralph L. Roys, </unittitle>
+              <unitdate normal="1837/1980" certainty="approximate">undated, </unitdate><unitdate normal="1926/1928">1926-1928</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">13</container>
+              <container type="Folder">7-8</container>
+              <unittitle><emph render="italic">Vocabulario del Idioma Cakchiquel, traducido al Español</emph> by Fernando Colop D.</unittitle>
+              <unitdate normal="1927">1927</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">14</container>
+              <container type="Folder">1</container>
+              <unittitle>From Peter Keeler to Schele, Chuy vocabulario survey, </unittitle>
+              <unitdate normal="1949-11-25">1949 November 25</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">14</container>
+              <container type="Folder">2-4</container>
+              <unittitle>Chorti dictionary by Charles Wisdom, </unittitle>
+              <unitdate normal="1950" certainty="approximate">circa 1950</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">14</container>
+              <container type="Folder">5</container>
+              <unittitle>Chorti-English Dictionary by Charles Wisdom, </unittitle>
+              <unitdate normal="1950" certainty="approximate">circa 1950</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">14</container>
+              <container type="Folder">6</container>
+              <unittitle>(Part 1 of 2) Chorti Dictionary part two by Charles Wisdom, </unittitle>
+              <unitdate normal="1950" certainty="approximate">circa 1950</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">15</container>
+              <container type="Folder">1</container>
+              <unittitle>(Part 2 of 2) Chorti Dictionary part two by Charles Wisdom,</unittitle>
+              <unitdate normal="1950" certainty="approximate">circa 1950</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">15</container>
+              <container type="Folder">2-4</container>
+              <unittitle>Bound Tzeltal dictionaries: Spanish-Tzeltal, Tzeltal-Spanish, monosyllabic,Tzeltal de Tenejapa, </unittitle>
+              <unitdate normal="1961/1962">1961-1962, </unitdate><unitdate normal="1837/1980" certainty="approximate">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">15</container>
+              <container type="Folder">5-7</container>
+              <unittitle>Dictionaries and works on the Chuj language by Nicholas Arthur Hopkins, </unittitle>
+              <unitdate normal="1967/1978">1967-1978</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">16</container>
+              <container type="Folder">1</container>
+              <unittitle>Un Diccionario de Jacalteco by Christopher Day, </unittitle>
+              <unitdate normal="1971">circa 1971</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">16</container>
+              <container type="Folder">2-3</container>
+              <unittitle><emph render="italic">A Morphosyntactic Root Dictionary of Yucatec Maya</emph> by Michael G. Owen, </unittitle>
+              <unitdate normal="1971">1971</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">16</container>
+              <container type="Folder">4-5</container>
+              <unittitle>Tumbala Chol Dictionary Sorted Backwards, </unittitle>
+              <unitdate normal="1980">1980</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">16</container>
+              <container type="Folder">6</container>
+              <unittitle>Chol Vocabulary by J. J. Attinasi, </unittitle>
+              <unitdate normal="1837/1980" certainty="approximate">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">16</container>
+              <container type="Folder">7</container>
+              <unittitle>“Arte y Vocabulario en Lengua Mame” by Fray Diego de Reynosa, </unittitle>
+              <unitdate normal="1837/1980" certainty="approximate">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">17</container>
+              <container type="Folder">1-2</container>
+              <unittitle>Vocabulario de la lengua Tzeltal segun el orden de Copanabastla by Ara/Guzman (copy 1), </unittitle>
+              <unitdate normal="1837/1980" certainty="approximate">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">17</container>
+              <container type="Folder">3-5</container>
+              <unittitle>Vocabulario de la lengua Tzeltal segun el orden de Copanabastla by Ara/Guzman (copy 2), </unittitle>
+              <unitdate normal="1837/1980" certainty="approximate">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">17</container>
+              <container type="Folder">6</container>
+              <unittitle>Nahatl notes by Gordon Whitaker, </unittitle>
+              <unitdate normal="1837/1980" certainty="approximate">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">17</container>
+              <container type="Folder">7-8</container>
+              <unittitle>Comparative vocabulary: Mayan-English-Spanish, </unittitle>
+              <unitdate normal="1837/1980" certainty="approximate">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">18</container>
+              <container type="Folder">1-2</container>
+              <unittitle>Motul Sp-Maya (Lounsbury) - Vocabulario en la Lengua de Maya, </unittitle>
+              <unitdate normal="1837/1980" certainty="approximate">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">18</container>
+              <container type="Folder">3-4</container>
+              <unittitle><emph render="italic">Vocabulario de la lengua Cakchiquel, con advertencia de los vocablos de las lenguas quiché y tzutohil, se trasladó de la obra compuesta por el ilmo Padre el venerable Fr. Domingo de Vico</emph>, </unittitle>
+              <unitdate normal="1837/1980" certainty="approximate">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">18</container>
+              <container type="Folder">5-6</container>
+              <unittitle>Kekchi-German dictionary by Wirsing, </unittitle>
+              <unitdate normal="1837/1980" certainty="approximate">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">19</container>
+              <container type="Folder">1</container>
+              <unittitle>Kekchi-German dictionary by Wirsing, </unittitle>
+              <unitdate normal="1837/1980" certainty="approximate">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="item">
+            <did>
+              <container type="Box">19</container>
+              <container type="Folder">2-4</container>
+              <unittitle>German-Kekchi dictionary by Wirsing, </unittitle>
+              <unitdate normal="1837/1980" certainty="approximate">undated</unitdate>
+            </did>
+          </c03>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
