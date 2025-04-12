@@ -50,6 +50,7 @@
       <unitdate label="Dates:" encodinganalog="245$f" type="inclusive" normal="1960/2020" era="ce" calendar="gregorian">1960-2020</unitdate>
       <langmaterial label="Language:" encodinganalog="546$a">
         <language langcode="eng" scriptcode="Latn">English</language>
+        <language langcode="spa" scriptcode="Latn">Spanish</language>
       </langmaterial>
       <unitid label="Call No.:" encodinganalog="099" countrycode="US" repositorycode="US-txula">BENSON-MS MORTON, CARLOS</unitid>
       <unitid label="OCLC Record No.:" encodinganalog="001" countrycode="US" repositorycode="US-txula">23353329</unitid>
