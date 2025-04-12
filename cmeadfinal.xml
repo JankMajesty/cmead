@@ -112,13 +112,50 @@
       <controlaccess>
         <head>Subjects (Persons)</head>
         <subject source="local" encodinganalog="650">Morton, Carlos--Archives</subject>
+        <persname source="lcnaf" encodinganalog="600">Morton, Carlos</persname>
         <persname source="lcnaf" encodinganalog="600">Morales, Richard</persname>
+        <persname source="lcnaf" encodinganalog="600">Acosta, Oscar Zeta</persname>
+        <persname source="lcnaf" encodinganalog="600">Huerta, Jorge A.</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname source="lcnaf" encodinganalog="610">Arizona Theatre Company</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Denver Center Theatre Company</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Guadalupe Cultural Arts Center (San Antonio, Tex.)</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Fulbright Program in Poland</corpname>
+        <corpname source="lcnaf" encodinganalog="610">New York Shakespeare Festival Production</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of California, Santa Barbara</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of California, Riverside</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Texas at Austin</corpname>
+        <corpname source="lcnaf" encodinganalog="610">University of Texas at El Paso</corpname>
       </controlaccess>
       <controlaccess>
         <head>Subjects</head>
         <subject source="lcsh" encodinganalog="650">American literature--Mexican American authors</subject>
         <subject source="lcsh" encodinganalog="650">Mexican American theater</subject>
         <subject source="lcsh" encodinganalog="650">Mexican Americans--Civil rights</subject>
+        <subject source="lcsh" encodinganalog="650">Mexican American dramatists</subject>
+        <subject source="lcsh" encodinganalog="650">Police brutality</subject>
+      </controlaccess>
+      <controlaccess>
+        <head>Genres</head>
+        <genreform source="aat" encodinganalog="655">45 rpm records</genreform>
+        <genreform source="aat" encodinganalog="655">audiocassettes</genreform>
+        <genreform source="aat" encodinganalog="655">awards</genreform>
+        <genreform source="aat" encodinganalog="655">CD-Rs</genreform>   
+        <genreform source="aat" encodinganalog="655">comics (documents)</genreform>
+        <genreform source="aat" encodinganalog="655">contracts</genreform>   
+        <genreform source="aat" encodinganalog="655">correspondence</genreform>
+        <genreform source="aat" encodinganalog="655">drama (literary genre)</genreform>   
+        <genreform source="aat" encodinganalog="655">fliers (printed matter)</genreform>
+        <genreform source="aat" encodinganalog="655">photographs</genreform>   
+        <genreform source="aat" encodinganalog="655">playbills</genreform>
+        <genreform source="aat" encodinganalog="655">plays (performing arts compositions)</genreform>   
+        <genreform source="aat" encodinganalog="655">posters</genreform>
+        <genreform source="aat" encodinganalog="655">programs (documents)</genreform>   
+        <genreform source="aat" encodinganalog="655">scripts (documents)</genreform>
+        <genreform source="aat" encodinganalog="655">theater programs</genreform>   
+        <genreform source="aat" encodinganalog="655">translations (documents)</genreform>
       </controlaccess>
     </controlaccess>
     <dsc type="combined">
