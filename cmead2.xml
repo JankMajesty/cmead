@@ -10,11 +10,11 @@
       </titlestmt>
       <publicationstmt>
         <publisher encodinganalog="260$b">Nettie Lee Benson Latin American Collection</publisher>
-        <date encodinganalog="260$c" era="ce" calendar="gregorian" normal="2008">2008</date>
+        <date encodinganalog="260$c" era="ce" calendar="gregorian" normal="2025">2025</date>
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation encodinganalog="500">Finding aid encoded by Christian Kelleher, CA, <date>2008</date></creation>
+      <creation encodinganalog="500">Finding aid encoded by Christian Kelleher, CA, Lucas McGill <date>2025</date></creation>
       <langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English.</language></langusage>
     </profiledesc>
     <revisiondesc>
@@ -34,6 +34,10 @@
         <date normal="2023-09">2023 September</date>
         <item>Dates normalized by Carla O. Alvarez.</item>
       </change>
+      <change>
+        <date normal="2025-04">2024 April</date>
+        <item>Part two of the collection added to EAD by Lucas McGill, Charlene Mandimutsira, Ashton Jones, and Johnathan Leary</item>
+      </change>
     </revisiondesc>
   </eadheader>
   <archdesc level="collection" type="inventory" relatedencoding="MARC21">
@@ -43,14 +47,14 @@
         <persname source="lcnaf" encodinganalog="100">Morton, Carlos, 1947-</persname>
       </origination>
       <unittitle label="Title:" encodinganalog="245">Carlos Morton Papers</unittitle>
-      <unitdate label="Dates:" encodinganalog="245$f" type="inclusive" normal="1975/1984" era="ce" calendar="gregorian">1975-1984</unitdate>
+      <unitdate label="Dates:" encodinganalog="245$f" type="inclusive" normal="1960/2020" era="ce" calendar="gregorian">1960-2020</unitdate>
       <langmaterial label="Language:" encodinganalog="546$a">
         <language langcode="eng" scriptcode="Latn">English</language>
       </langmaterial>
       <unitid label="Call No.:" encodinganalog="099" countrycode="US" repositorycode="US-txula">BENSON-MS MORTON, CARLOS</unitid>
       <unitid label="OCLC Record No.:" encodinganalog="001" countrycode="US" repositorycode="US-txula">23353329</unitid>
       <physdesc label="Extent:" encodinganalog="300$a">
-        <extent>1 linear foot</extent><!-- 10 linear inches, 13 color slides, 7 posters  -->
+        <extent>10 linear foot</extent><!-- 10 linear inches, 13 color slides, 7 posters  -->
       </physdesc>
       <repository label="Repository:" encodinganalog="852$a">
         <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://www.lib.utexas.edu/about/locations/benson">
@@ -87,7 +91,7 @@
     </acqinfo>
     <processinfo encodinganalog="583">
       <head>Processing Information</head>
-      <p>Processing information not available.</p>
+      <p>Part of the collection was processed initially by Carla Alvarez in 2017. The 2020 accession was processed by Ashton Jones, Lucas McGill, Jonathan Leary, and Charlene Mandimutsira, 2025. </p>
 		</processinfo>
     
     <controlaccess>
