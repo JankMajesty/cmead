@@ -14,7 +14,7 @@
       </publicationstmt>
     </filedesc>
     <profiledesc>
-      <creation encodinganalog="500">Finding aid encoded by Christian Kelleher, CA, Lucas McGill, Charlene Mandimutsira, Ashton Jones, and Johnathan Leary<date>2025</date></creation>
+      <creation encodinganalog="500">Finding aid encoded by Christian Kelleher, CA, <date>2008</date></creation>
       <langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English.</language></langusage>
     </profiledesc>
     <revisiondesc>
@@ -36,7 +36,7 @@
       </change>
       <change>
         <date normal="2025-04">2025 April</date>
-        <item>Part two of the collection added to EAD by Lucas McGill, Charlene Mandimutsira, Ashton Jones, and Johnathan Leary</item>
+        <item>Part two of the collection added to EAD by Lucas McGill, Charlene Mandimutsira, Ashton Jones, and Johnathan Leary after processing additions.</item>
       </change>
     </revisiondesc>
   </eadheader>
@@ -105,7 +105,7 @@
     <processinfo encodinganalog="583">
       <head>Processing Information</head>
       <p>Previous processing work by Benson staff, before 1992.</p> 
-      <p>The 2020 accession was processed by Ashton Jones, Lucas McGill, Jonathan Leary, and Charlene Mandimutsira (UT School of Information interns), Spring, 2025.</p>
+      <p>Part 2 of the collection processed by Ashton Jones, Lucas McGill, Jonathan Leary, and Charlene Mandimutsira (UT School of Information interns), Spring, 2025.</p>
 		</processinfo>
     
     <controlaccess>
