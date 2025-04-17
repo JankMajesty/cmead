@@ -1,8 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd">
-  <!--Template for BLAC use. Incorporates elements added in editing of initial TARO files. Designed by Bob Stewart and Christian Kelleher. -->
-  <eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1" dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924" findaidstatus="edited-full-draft" relatedencoding="MARC21">
-    <eadid mainagencycode="US-txula" countrycode="US" encodinganalog="856$u" url="https://txarchives.org/utlac/finding_aids/00243.xml">urn:taro:utexas.blac.00243</eadid>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd">
+  <!--Template
+  for BLAC use. Incorporates elements added in editing of initial TARO files. Designed by Bob
+  Stewart and Christian Kelleher. -->
+  <eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1"
+    dateencoding="iso8601" repositoryencoding="iso15511" scriptencoding="iso15924"
+    findaidstatus="edited-full-draft" relatedencoding="MARC21">
+    <eadid mainagencycode="US-txula" countrycode="US" encodinganalog="856$u"
+      url="https://txarchives.org/utlac/finding_aids/00243.xml">urn:taro:utexas.blac.00243</eadid>
     <filedesc>
       <titlestmt>
         <titleproper encodinganalog="245$a">Carlos Morton Papers</titleproper>
@@ -24,11 +30,13 @@
       </change>
       <change>
         <date normal="2021-06">2021 June</date>
-        <item>Edited by Carla O. Alvarez to fix compliance check errors to prepare for the migration to new TARO website.</item>
+        <item>Edited by Carla O. Alvarez to fix compliance check errors to prepare for the migration
+          to new TARO website.</item>
       </change>
       <change>
         <date normal="2021-11">2021 November</date>
-        <item>Edited by Devon Murphy to update control access terms and formatting based on the TARO Control Access List.</item>
+        <item>Edited by Devon Murphy to update control access terms and formatting based on the TARO
+          Control Access List.</item>
       </change>
       <change>
         <date normal="2023-09">2023 September</date>
@@ -36,7 +44,8 @@
       </change>
       <change>
         <date normal="2025-04">2025 April</date>
-        <item>Part two of the collection added to EAD by Lucas McGill, Charlene Mandimutsira, Ashton Jones, and Johnathan Leary after processing additions.</item>
+        <item>Part two of the collection added to EAD by Lucas McGill, Charlene Mandimutsira, Ashton
+          Jones, and Johnathan Leary after processing additions.</item>
       </change>
     </revisiondesc>
   </eadheader>
@@ -47,46 +56,136 @@
         <persname source="lcnaf" encodinganalog="100">Morton, Carlos, 1947-</persname>
       </origination>
       <unittitle label="Title:" encodinganalog="245">Carlos Morton Papers</unittitle>
-      <unitdate label="Dates:" encodinganalog="245$f" type="inclusive" normal="1960/2020" era="ce" calendar="gregorian">1960-2020</unitdate>
+      <unitdate label="Dates:" encodinganalog="245$f" type="inclusive" normal="1960/2020" era="ce"
+        calendar="gregorian">1960-2020</unitdate>
       <langmaterial label="Language:" encodinganalog="546$a">
         <language langcode="eng" scriptcode="Latn">English, </language>
-        <language langcode="spa" scriptcode="Latn">Spanish</language>
+        <language langcode="spa"
+          scriptcode="Latn">Spanish</language>
       </langmaterial>
-      <unitid label="Call No.:" encodinganalog="099" countrycode="US" repositorycode="US-txula">BENSON-MS MORTON, CARLOS</unitid>
-      <unitid label="OCLC Record No.:" encodinganalog="001" countrycode="US" repositorycode="US-txula">23353329</unitid>
+      <unitid label="Call No.:" encodinganalog="099" countrycode="US" repositorycode="US-txula">BENSON-MS
+        MORTON, CARLOS</unitid>
+      <unitid label="OCLC Record No.:" encodinganalog="001" countrycode="US"
+        repositorycode="US-txula">23353329</unitid>
       <physdesc label="Extent:" encodinganalog="300$a">
         <extent>10 linear foot</extent>
       </physdesc>
       <repository label="Repository:" encodinganalog="852$a">
-        <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://www.lib.utexas.edu/about/locations/benson">
-          <corpname><subarea>Benson Latin American Collection,</subarea> The University of Texas at Austin</corpname>
+        <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new"
+          xlink:actuate="onRequest" xlink:href="https://www.lib.utexas.edu/about/locations/benson">
+          <corpname><subarea>Benson Latin American Collection,</subarea> The University of Texas at
+        Austin</corpname>
         </extref>
       </repository>
-      <abstract label="Abstract:" encodinganalog="520$a">
-        Papers of Dr. Carlos Morton, a Mexican American playwright and professor, includes scripts (published and unpublished), essays, production ephemera, correspondence, and other related materials created between 1960 and 2020. The collection represents Dr. Morton’s many published works, including <title render="italic">The Many Deaths of Danny Rosales</title> and <title render="italic">Johnny Tenorio</title>, as well as his education and positions at various academic and cultural arts institutions.
-      </abstract>
+      <abstract label="Abstract:" encodinganalog="520$a"> Papers of Dr. Carlos Morton, a Mexican
+        American playwright and professor, includes scripts (published and unpublished), essays,
+        production ephemera, correspondence, and other related materials created between 1960 and
+        2020. The collection represents Dr. Morton’s many published works, including <title
+          render="italic">The Many Deaths of Danny Rosales</title> and <title render="italic">Johnny
+        Tenorio</title>, as well as his education and positions at various academic and cultural
+        arts institutions. </abstract>
     </did>
     <bioghist encodinganalog="545">
       <head>Biographical Sketch</head>
-      <p>Dr. Carlos Morton, born October 15, 1947 in Chicago, Illinois, has over one hundred theatrical productions, both in the U.S. and abroad.  His professional credits include the San Francisco Mime Troupe, the New York Shakespeare Festival, the Denver Center Theatre, La Companía Nacional de México, the Puerto Rican Traveling Theatre, and the Arizona Theatre Company. He is the author of <title render="italic">The Many Deaths of Danny Rosales and Other Plays</title> (1983), <title render="italic">Johnny Tenorio and Other Plays</title> (1992), <title render="italic">The Fickle Finger of Lady Death</title> (1996), <title render="italic">Rancho Hollywood y Otras Obras del Teatro Chicano</title> (1999), <title render="italic">Dreaming on a Sunday in the Alameda</title> (2004), and <title render="italic">Children of the Sun: Scenes for Latino Youth </title> (2008). A former Mina Shaughnessy Scholar and Fulbright Lecturer to Mexico and Poland, Dr. Morton holds an M.F.A. in Drama from the University of California, San Diego (UC San Diego), and a Ph.D. in Theatre from the University of Texas at Austin (UT Austin). Dr. Morton has lived on the border between Mexico and the United States since 1981, teaching at universities in Texas, California and Mexico. Dr. Morton retired in 2020 from the University of California, Santa Barbara and holds Professor Emeritus of Theater status.</p>
+      <p>Dr. Carlos Morton, born October 15, 1947 in Chicago, Illinois, has over one hundred
+        theatrical productions, both in the U.S. and abroad. His professional credits include the
+        San Francisco Mime Troupe, the New York Shakespeare Festival, the Denver Center Theatre, La
+        Companía Nacional de México, the Puerto Rican Traveling Theatre, and the Arizona Theatre
+        Company. He is the author of <title render="italic">The Many Deaths of Danny Rosales and
+        Other Plays</title> (1983), <title render="italic">Johnny Tenorio and Other Plays</title>
+        (1992), <title render="italic">The Fickle Finger of Lady Death</title> (1996), <title
+          render="italic">Rancho Hollywood y Otras Obras del Teatro Chicano</title> (1999), <title
+          render="italic">Dreaming on a Sunday in the Alameda</title> (2004), and <title
+          render="italic">Children of the Sun: Scenes for Latino Youth </title> (2008). A former
+        Mina Shaughnessy Scholar and Fulbright Lecturer to Mexico and Poland, Dr. Morton holds an
+        M.F.A. in Drama from the University of California, San Diego (UC San Diego), and a Ph.D. in
+        Theatre from the University of Texas at Austin (UT Austin). Dr. Morton has lived on the
+        border between Mexico and the United States since 1981, teaching at universities in Texas,
+        California and Mexico. Dr. Morton retired in 2020 from the University of California, Santa
+        Barbara and holds Professor Emeritus of Theater status.</p>
     </bioghist>
     <scopecontent encodinganalog="520$b">
       <head>Scope and Contents Note</head>
-      <p>Part 1 of the collection is organized in three series: 1. Literary productions, 2. Research and notes, and 3. Materials about Carlos Morton and his works. Also includes a folder of uncataloged later additions to the collection.</p>
-      <p>Consists of plays and essays by Carlos Morton, the bulk of which date from 1979 to 1984, along with materials relating to his plays. Among the play titles included in the collection are <title render="italic">Rancho Hollywood,</title> <title render="italic">Johnny Tenorio,</title> <title render="italic">Espíritu</title>, and <title render="italic">La malinche.</title> Extensive research materials on the murder of Richard Morales (on which the play <title render="italic">The Many Deaths of Danny Rosales</title> was based) are also included. Also included are programs, posters, and articles about Morton's work.</p>
-      <p>Part 2: Additions</p> 
-      <p>Part 2: Additions is arranged into seven series: 1. Dramatic Works, 2. Written Works, 3. Multiple Works, 4. Educational/Professional Materials, 5. Personal Materials, 6. Audiovisual Material, and 7. Oversize Material.</p>
-      <p>The materials in this collection date from roughly 1960 - 2020 and primarily document Dr. Carlos Morton’s career as a playwright in Texas, California, and abroad. Among the play titles included in the collection are <title render="italic">Rancho Hollywood</title>, <title>El Jardín</title>, <title render="italic">Johnny Tenorio</title>, <title render="italic">The Many Deaths of Danny Rosales</title>, <title render="italic">La Malinche</title>, and <title render="italic">Dreaming on a Sunday in the Alameda</title>. The materials also document Dr. Morton’s positions in theaters, cultural organizations, and academic institutions, as well as his relationships with various performances of his work. The collection includes some material about Dr. Morton’s personal life that documents his bonds and relationships with fellow authors and scholars.</p>
-      <p>The documents consist primarily of playbills and promotional materials for Morton’s plays; scripts; research for plays; academic and freelance writing; poems; correspondence; and contracts for both his plays and professional career. The collection also includes articles, press, and academic writing about Dr. Morton and his work; photographs of performances of Dr. Morton’s plays; comics potentially written by Dr. Morton; event ephemera; compact cassette tapes; CDs; and a 7in. vinyl record.</p>
-      <p>Series 1, Dramatic Works, includes a subseries for the following plays by Dr. Morton: <title render="italic">The Many Deaths of Danny Rosales</title>, <title render="italic">El Jardín</title>, <title render="italic">Rancho Hollywood</title>, <title render="italic">Los Dorados</title>, <title render="italic">Johnny Tenorio</title>, <title render="italic">Pancho Diablo</title>, <title render="italic">The Savior</title>, <title render="italic">The Miser of Mexico</title>, <title render="italic">Dreaming on a Sunday in the Alameda</title>, <title render="italic">La Malinche</title>, <title render="italic">Esperanza</title>, <title render="italic">Lilith</title>, <title>Brown Baby</title>, and <title render="italic">Trumpus Caesar</title>. Additionally, there are also 3 separate subseries for Dr. Morton’s Minor Plays, Youth Theatre Initiatives, and Unpublished Works.</p>
-      <p>Series 2, Written Works, details Dr. Morton's engagement with cultural criticism and social commentary. His work as a reviewer of books, theater, and restaurants, alongside his political and social commentary, demonstrates his role as a cultural mediator and critic. The series also includes Morton’s translations of others’ work, including the The Fickle Finger of Lady Death, and comic adaptations of Morton’s works.</p>
-      <p>Series 3, Multiple Works, includes material related to two or more plays or other creative work by Dr. Morton. Though this series has a considerable degree of content overlap with Series 1 and 2, the folders were created in this manner by Dr. Morton and this arrangement preserves his organizational approach.</p>
-      <p>Series 4, Educational/Professional Materials, traces Dr. Morton's academic career, positions at cultural heritage institutions, and international scholarly engagement. These facets of his life were often intertwined, and as such have been grouped together. The materials document his work as a scholar and professor for institutions within the University of Texas and the University of California, as well as a Fulbright fellow in Poland in the mid-2000s. Other work documented includes his directorship of the Study Abroad Center for the University of California Education Abroad Program in San Jose, Costa Rica, and academic visits to Mexico, Vietnam, Nicaragua, Cuba, and China. His research and writing on Chicano and Tejano history and culture provide important context for understanding the history of Latina/os cultural heritage in the American southwest, while his international correspondence illustrates how his work helped build bridges between U.S. Latina/o theater and global audiences.</p>
-      <p>Of particular significance within this series is Dr. Morton's extensive work organizing and participating in theater festivals. Materials from the Festival Fronterizo, Windmill Playwrights Festival, and the University of California Los Angeles (UCLA) Chicano Theater Festival, among others, demonstrate his commitment to creating platforms for Latina/o theater and fostering cross-cultural dialogue.</p>
-      <p>Series 5, Personal Materials, while smaller in volume, provides valuable context into Morton’s life through correspondence, awards and accolades he received, and personal mementos he saved. Press and academic writing about Carlos Morton, as opposed to a specific play or performance, has been placed in this series.</p>
-      <p>Series 6, Audiovisual Material, documents Dr. Morton’s theatrical work, personal life, travel and historic research for his plays and academic papers through photographic prints and slides.</p>
-      <p>Series 7, Oversized Material, is comprised of a small amount of oversized promotional material for some of Dr. Morton’s plays.</p>
-      <!--<p>Organized in ten series: 1. Literary productions, 2. Research and notes, 3. Material about Carlos Morton and his works, 4. Dramatic Works, 5. Written Works, 6. Multiple Works, 7. Education/Professional Materials, 8. Personal Materials, 9. Audiovisual Materials, and 10. Oversized Materials.</p>-->
+      <p>Part 1 of the collection is organized in three series: 1. Literary productions, 2. Research
+        and notes, and 3. Materials about Carlos Morton and his works. Also includes a folder of
+        uncataloged later additions to the collection.</p>
+      <p>Consists of plays and essays by Carlos Morton, the bulk of which date from 1979 to 1984,
+        along with materials relating to his plays. Among the play titles included in the collection
+        are <title render="italic">Rancho Hollywood,</title> <title render="italic">Johnny Tenorio,</title> <title
+          render="italic">Espíritu</title>, and <title render="italic">La malinche.</title>
+        Extensive research materials on the murder of Richard Morales (on which the play <title
+          render="italic">The Many Deaths of Danny Rosales</title> was based) are also included.
+        Also included are programs, posters, and articles about Morton's work.</p>
+      <p>Part 2: Additions</p>
+      <p>Part 2: Additions is arranged into seven series: 1. Dramatic Works, 2. Written Works, 3.
+        Multiple Works, 4. Educational/Professional Materials, 5. Personal Materials, 6. Audiovisual
+        Material, and 7. Oversize Material.</p>
+      <p>The materials in this collection date from roughly 1960 - 2020 and primarily document Dr.
+        Carlos Morton’s career as a playwright in Texas, California, and abroad. Among the play
+        titles included in the collection are <title render="italic">Rancho Hollywood</title>, <title>El
+        Jardín</title>, <title render="italic">Johnny Tenorio</title>, <title render="italic">The
+        Many Deaths of Danny Rosales</title>, <title render="italic">La Malinche</title>, and <title
+          render="italic">Dreaming on a Sunday in the Alameda</title>. The materials also document
+        Dr. Morton’s positions in theaters, cultural organizations, and academic institutions, as
+        well as his relationships with various performances of his work. The collection includes
+        some material about Dr. Morton’s personal life that documents his bonds and relationships
+        with fellow authors and scholars.</p>
+      <p>The documents consist primarily of playbills and promotional materials for Morton’s plays;
+        scripts; research for plays; academic and freelance writing; poems; correspondence; and
+        contracts for both his plays and professional career. The collection also includes articles,
+        press, and academic writing about Dr. Morton and his work; photographs of performances of
+        Dr. Morton’s plays; comics potentially written by Dr. Morton; event ephemera; compact
+        cassette tapes; CDs; and a 7in. vinyl record.</p>
+      <p>Series 1, Dramatic Works, includes a subseries for the following plays by Dr. Morton: <title
+          render="italic">The Many Deaths of Danny Rosales</title>, <title render="italic">El Jardín</title>
+        , <title render="italic">Rancho Hollywood</title>, <title render="italic">Los Dorados</title>
+        , <title render="italic">Johnny Tenorio</title>, <title render="italic">Pancho Diablo</title>
+        , <title render="italic">The Savior</title>, <title render="italic">The Miser of Mexico</title>
+        , <title render="italic">Dreaming on a Sunday in the Alameda</title>, <title render="italic">La
+        Malinche</title>, <title render="italic">Esperanza</title>, <title render="italic">Lilith</title>
+        , <title>Brown Baby</title>, and <title render="italic">Trumpus Caesar</title>.
+        Additionally, there are also 3 separate subseries for Dr. Morton’s Minor Plays, Youth
+        Theatre Initiatives, and Unpublished Works.</p>
+      <p>Series 2, Written Works, details Dr. Morton's engagement with cultural criticism and social
+        commentary. His work as a reviewer of books, theater, and restaurants, alongside his
+        political and social commentary, demonstrates his role as a cultural mediator and critic.
+        The series also includes Morton’s translations of others’ work, including the The Fickle
+        Finger of Lady Death, and comic adaptations of Morton’s works.</p>
+      <p>Series 3, Multiple Works, includes material related to two or more plays or other creative
+        work by Dr. Morton. Though this series has a considerable degree of content overlap with
+        Series 1 and 2, the folders were created in this manner by Dr. Morton and this arrangement
+        preserves his organizational approach.</p>
+      <p>Series 4, Educational/Professional Materials, traces Dr. Morton's academic career,
+        positions at cultural heritage institutions, and international scholarly engagement. These
+        facets of his life were often intertwined, and as such have been grouped together. The
+        materials document his work as a scholar and professor for institutions within the
+        University of Texas and the University of California, as well as a Fulbright fellow in
+        Poland in the mid-2000s. Other work documented includes his directorship of the Study Abroad
+        Center for the University of California Education Abroad Program in San Jose, Costa Rica,
+        and academic visits to Mexico, Vietnam, Nicaragua, Cuba, and China. His research and writing
+        on Chicano and Tejano history and culture provide important context for understanding the
+        history of Latina/os cultural heritage in the American southwest, while his international
+        correspondence illustrates how his work helped build bridges between U.S. Latina/o theater
+        and global audiences.</p>
+      <p>Of particular significance within this series is Dr. Morton's extensive work organizing and
+        participating in theater festivals. Materials from the Festival Fronterizo, Windmill
+        Playwrights Festival, and the University of California Los Angeles (UCLA) Chicano Theater
+        Festival, among others, demonstrate his commitment to creating platforms for Latina/o
+        theater and fostering cross-cultural dialogue.</p>
+      <p>Series 5, Personal Materials, while smaller in volume, provides valuable context into
+        Morton’s life through correspondence, awards and accolades he received, and personal
+        mementos he saved. Press and academic writing about Carlos Morton, as opposed to a specific
+        play or performance, has been placed in this series.</p>
+      <p>Series 6, Audiovisual Material, documents Dr. Morton’s theatrical work, personal life,
+        travel and historic research for his plays and academic papers through photographic prints
+        and slides.</p>
+      <p>Series 7, Oversized Material, is comprised of a small amount of oversized promotional
+        material for some of Dr. Morton’s plays.</p>
+      <!--<p>Organized
+      in ten series: 1. Literary productions, 2. Research and notes, 3. Material about Carlos Morton
+      and his works, 4. Dramatic Works, 5. Written Works, 6. Multiple Works, 7.
+      Education/Professional Materials, 8. Personal Materials, 9. Audiovisual Materials, and 10.
+      Oversized Materials.</p>-->
     </scopecontent>
     <accessrestrict encodinganalog="506">
       <head>Access Restrictions</head>
@@ -98,7 +197,8 @@
     </userestrict>
     <prefercite encodinganalog="524">
       <head>Preferred Citation</head>
-      <p>Carlos Morton Papers, Nettie Lee Benson Latin American Collection, University of Texas Libraries, The University of Texas at Austin.</p>
+      <p>Carlos Morton Papers, Nettie Lee Benson Latin American Collection, University of Texas
+        Libraries, The University of Texas at Austin.</p>
     </prefercite>
     <acqinfo encodinganalog="541">
       <head>Acquisition Information</head>
@@ -107,10 +207,11 @@
     </acqinfo>
     <processinfo encodinganalog="583">
       <head>Processing Information</head>
-      <p>Previous processing work by Benson staff, before 1992.</p> 
-      <p>Part 2 of the collection processed by Ashton Jones, Lucas McGill, Jonathan Leary, and Charlene Mandimutsira (UT School of Information interns), Spring, 2025.</p>
-		</processinfo>
-    
+      <p>Previous processing work by Benson staff, before 1992.</p>
+      <p>Part 2 of the collection processed by Ashton Jones, Lucas McGill, Jonathan Leary, and
+        Charlene Mandimutsira (UT School of Information interns), Spring, 2025.</p>
+    </processinfo>
+
     <controlaccess>
       <head>Index Terms</head>
       <controlaccess>
@@ -125,7 +226,8 @@
         <head>Subjects (Organizations)</head>
         <corpname source="lcnaf" encodinganalog="610">Arizona Theatre Company</corpname>
         <corpname source="lcnaf" encodinganalog="610">Denver Center Theatre Company</corpname>
-        <corpname source="lcnaf" encodinganalog="610">Guadalupe Cultural Arts Center (San Antonio, Tex.)</corpname>
+        <corpname source="lcnaf" encodinganalog="610">Guadalupe Cultural Arts Center (San Antonio,
+          Tex.)</corpname>
         <corpname source="lcnaf" encodinganalog="610">Fulbright Program in Poland</corpname>
         <corpname source="lcnaf" encodinganalog="610">New York Shakespeare Festival Production</corpname>
         <corpname source="lcnaf" encodinganalog="610">University of California, Santa Barbara</corpname>
@@ -146,27 +248,31 @@
         <genreform source="aat" encodinganalog="655">45 rpm records</genreform>
         <genreform source="aat" encodinganalog="655">audiocassettes</genreform>
         <genreform source="aat" encodinganalog="655">awards</genreform>
-        <genreform source="aat" encodinganalog="655">CD-Rs</genreform>   
+        <genreform source="aat" encodinganalog="655">CD-Rs</genreform>
         <genreform source="aat" encodinganalog="655">comics (documents)</genreform>
-        <genreform source="aat" encodinganalog="655">contracts</genreform>   
+        <genreform source="aat" encodinganalog="655">contracts</genreform>
         <genreform source="aat" encodinganalog="655">correspondence</genreform>
-        <genreform source="aat" encodinganalog="655">drama (literary genre)</genreform>   
+        <genreform source="aat" encodinganalog="655">drama (literary genre)</genreform>
         <genreform source="aat" encodinganalog="655">fliers (printed matter)</genreform>
-        <genreform source="aat" encodinganalog="655">photographs</genreform>   
+        <genreform source="aat" encodinganalog="655">photographs</genreform>
         <genreform source="aat" encodinganalog="655">playbills</genreform>
-        <genreform source="aat" encodinganalog="655">plays (performing arts compositions)</genreform>   
+        <genreform source="aat" encodinganalog="655">plays (performing arts compositions)</genreform>
         <genreform source="aat" encodinganalog="655">posters</genreform>
-        <genreform source="aat" encodinganalog="655">programs (documents)</genreform>   
+        <genreform source="aat" encodinganalog="655">programs (documents)</genreform>
         <genreform source="aat" encodinganalog="655">scripts (documents)</genreform>
-        <genreform source="aat" encodinganalog="655">theater programs</genreform>   
+        <genreform source="aat" encodinganalog="655">theater programs</genreform>
         <genreform source="aat" encodinganalog="655">translations (documents)</genreform>
       </controlaccess>
     </controlaccess>
 
     <relatedmaterial encodinganalog="544 1">
       <head>Related Material</head>
-      <p><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://txarchives.org/utlac/finding_aids/00203.xml">Silvia Gonzalez S. Papers</archref></p>
-      <p><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://txarchives.org/utlac/finding_aids/00147.xml">Carlos Villalongin Dramatic Company Records</archref></p>
+      <p><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new"
+          xlink:actuate="onRequest" xlink:href="https://txarchives.org/utlac/finding_aids/00203.xml">Silvia
+        Gonzalez S. Papers</archref></p>
+      <p><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new"
+          xlink:actuate="onRequest" xlink:href="https://txarchives.org/utlac/finding_aids/00147.xml">Carlos
+        Villalongin Dramatic Company Records</archref></p>
     </relatedmaterial>
     <dsc type="combined">
       <head>Box and Folder Inventory</head>
@@ -236,7 +342,7 @@
           <did>
             <container type="Box">1</container>
             <container type="Folder">8</container>
-            <unittitle>Published articles,	</unittitle>
+            <unittitle>Published articles, </unittitle>
             <unitdate era="ce" calendar="gregorian" normal="1977/1981">1977-1981</unitdate>
           </did>
         </c02>
@@ -279,7 +385,8 @@
             <did>
               <container type="Box">1</container>
               <container type="Folder">13</container>
-              <unittitle><title render="italic">La Malinche,</title> </unittitle>
+              <unittitle><title render="italic">La Malinche,</title>
+              </unittitle>
               <unitdate era="ce" calendar="gregorian" normal="1984/1985">1984-1985</unitdate>
             </did>
           </c03>
@@ -309,7 +416,7 @@
             <did>
               <container type="Box">1</container>
               <container type="Folder">17</container>
-              <unittitle><title render="italic">Rancho Hollywood</title> - correspondence and notes,	</unittitle>
+              <unittitle><title render="italic">Rancho Hollywood</title> - correspondence and notes, </unittitle>
               <unitdate era="ce" calendar="gregorian" normal="1981/1982">1981-1982</unitdate>
             </did>
           </c03>
@@ -320,7 +427,8 @@
             <container type="Folder">18</container>
             <unittitle>Playbills, </unittitle>
             <unitdate era="ce" calendar="gregorian" normal="1984/1985">1984-1985, </unitdate>
-            <unitdate era="ce" calendar="gregorian" certainty="approximate" normal="1975/1984">undated</unitdate>
+            <unitdate era="ce" calendar="gregorian" certainty="approximate" normal="1975/1984">
+              undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
@@ -342,21 +450,21 @@
             <unittitle>State of Texas vs. Frank Hayes</unittitle>
           </did>
           <c03 level="file">
-              <did>
-                <container type="Box">2</container>
-                <container type="Folder">1</container>
-                <unittitle>Statement of facts, </unittitle>
-                <unitdate era="ce" calendar="gregorian" normal="1976">1976</unitdate>
-              </did>
-            </c03>
-            <c03 level="file">
-              <did>
-                <container type="Box">3</container>
-                <container type="Folder">1</container>
-                <unittitle>Competancy hearing, </unittitle>
-                <unitdate era="ce" calendar="gregorian" normal="1976">1976</unitdate>
-              </did>
-            </c03>
+            <did>
+              <container type="Box">2</container>
+              <container type="Folder">1</container>
+              <unittitle>Statement of facts, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="1976">1976</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">1</container>
+              <unittitle>Competancy hearing, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="1976">1976</unitdate>
+            </did>
+          </c03>
         </c02>
         <c02 level="file">
           <did>
@@ -380,7 +488,7 @@
             </did>
           </c03>
         </c02>
-     
+
         <c02 level="file">
           <did>
             <container type="Box">3</container>
@@ -390,7 +498,7 @@
             <did>
               <container type="Box">3</container>
               <container type="Folder">4</container>
-              <unittitle>Newsclippings,	</unittitle>
+              <unittitle>Newsclippings, </unittitle>
               <unitdate era="ce" calendar="gregorian" normal="1975/1977">1975-1977</unitdate>
             </did>
           </c03>
@@ -399,7 +507,8 @@
               <container type="Box">3</container>
               <container type="Folder">5</container>
               <unittitle>Notes, </unittitle>
-              <unitdate era="ce" calendar="gregorian" certainty="approximate" normal="1975/1984">undated</unitdate>
+              <unitdate era="ce" calendar="gregorian" certainty="approximate" normal="1975/1984">
+                undated</unitdate>
             </did>
           </c03>
         </c02>
@@ -409,7 +518,8 @@
             <container type="Folder">6</container>
             <unittitle>Research on California history for Rancho Hollywood, </unittitle>
             <unitdate era="ce" calendar="gregorian" normal="1983">circa 1983, </unitdate>
-            <unitdate era="ce" calendar="gregorian" certainty="approximate" normal="1975/1984">undated</unitdate>
+            <unitdate era="ce" calendar="gregorian" certainty="approximate" normal="1975/1984">
+              undated</unitdate>
           </did>
         </c02>
       </c01>
@@ -422,17 +532,21 @@
             <container type="Box">3</container>
             <container type="Folder">7</container>
             <unittitle>Photograph and slides, </unittitle>
-            <unitdate era="ce" calendar="gregorian" certainty="approximate" normal="1975/1984">undated</unitdate>
+            <unitdate era="ce" calendar="gregorian" certainty="approximate" normal="1975/1984">
+              undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
           <did>
             <container type="Box">3</container>
             <container type="Folder">8</container>
-            <unittitle><title render="italic">A Brief History of the Mexican in Austin and Travis County from 1730-1930</title> (draft), </unittitle>
+            <unittitle><title render="italic">A Brief History of the Mexican in Austin and Travis
+              County from 1730-1930</title> (draft), </unittitle>
             <unitdate era="ce" calendar="gregorian" normal="1992">1992</unitdate>
           </did>
-          <scopecontent><p>Typed manuscript donated in 1992.</p></scopecontent>
+          <scopecontent>
+            <p>Typed manuscript donated in 1992.</p>
+          </scopecontent>
         </c02>
       </c01>
       <c01 level="subgrp">
@@ -442,1497 +556,1934 @@
         <scopecontent>
           <p>Part 2 of this collection consists of material purchased in 2020 and processed in 2025 </p>
         </scopecontent>
-
-  <c02 level="series" id="ser4"> 
-    <did>
-      <unittitle>Dramatic Works</unittitle>
-    </did>
-    <c03 level="subseries">
-      <did>
-        <unittitle>The Many Deaths of Danny Rosales</unittitle>
-      </did>
-      <c04 level="file">
-        <did>
-          <container type="Box">4</container>
-          <container type="Folder">1</container>
-          <unittitle>Danny Rosales Photo Slides, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">4</container>
-          <container type="Folder">2</container>
-          <unittitle>Danny Rosales - Press, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1981-1986</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">4</container>
-          <container type="Folder">3</container>
-          <unittitle>The Many Deaths of Danny Rosales, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">4</container>
-          <container type="Folder">4</container>
-          <unittitle>The Many Deaths of Danny Rosales, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1978-1983</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">4</container>
-          <container type="Folder">5</container>
-          <unittitle>The Many Deaths of Danny Rosales, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1979-1993, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">4</container>
-          <container type="Folder">6</container>
-          <unittitle>The Many Deaths of Danny Rosales by Carlos Morton, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1993</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">4</container>
-          <container type="Folder">7</container>
-          <unittitle>Many Deaths of Danny Rosales Press, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1982-1994</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">4</container>
-          <container type="Folder">8</container>
-          <unittitle>Many Deaths of Danny Rosales Production Contract, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1981</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">4</container>
-          <container type="Folder">9</container>
-          <unittitle>The Many Deaths of Danny Rosales Reviews, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1983-1991</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">4</container>
-          <container type="Folder">10</container>
-          <unittitle>The Many Deaths of Danny Rosales University of Texas at Austin, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1982-1985, 2000, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">4</container>
-          <container type="Folder">11</container>
-          <unittitle>Playwriting, New York Shakespeare Festival, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1984-1986, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">4</container>
-          <container type="Folder">12</container>
-          <unittitle>Police Brutality, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1970-1979, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">4</container>
-          <container type="Folder">13</container>
-          <unittitle>Press and Research for The Many Deaths of Danny Rosales, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1976-1978, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">4</container>
-          <container type="Folder">14</container>
-          <unittitle>Press - Research for Play, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1976, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">4</container>
-          <container type="Folder">15</container>
-          <unittitle>Programs, Advertisements, and Audition Information for The Many Deaths of Danny Rosales, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2019, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">4</container>
-          <container type="Folder">16</container>
-          <unittitle>Publications for The Many Deaths of Danny Rosales, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1981, 1988</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">4</container>
-          <container type="Folder">17</container>
-          <unittitle>Research/Correspondence, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1985</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">5</container>
-          <container type="Folder">1</container>
-          <unittitle>Script for The Many Deaths of Danny Rosales, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1980</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">5</container>
-          <container type="Folder">2</container>
-          <unittitle>Scripts, Academic Writing, Press, and Research for The Many Deaths of Danny Rosales, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1980-1995, 2018, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">5</container>
-          <container type="Folder">3</container>
-          <unittitle>Scripts for The Many Deaths of Danny Rosales, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1976, 1994</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">5</container>
-          <container type="Folder">4</container>
-          <unittitle>Scripts, Press and Research for The Many Deaths of Danny Rosales, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1976, 1988-1989, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">5</container>
-          <container type="Folder">5</container>
-          <unittitle>Texas Papers/”FEK” Tradition, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1981-1985</unitdate>
-        </did>
-      </c04>
-    </c03> 
-    <c03 level="subseries">
-      <did>
-        <unittitle>El Jardín</unittitle>
-      </did>
-      <c04 level="file">
-        <did>
-          <container type="Box">5</container>
-          <container type="Folder">6</container>
-          <unittitle>Der Garten German and Polish Translations, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1989</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">5</container>
-          <container type="Folder">7</container>
-          <unittitle>El Jardín, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1976, 1985-1988, 1992-2009, 2017, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">5</container>
-          <container type="Folder">8</container>
-          <unittitle>El Jardín Español Adaptation by Elpida Carrillo, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1998-1999</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">5</container>
-          <container type="Folder">9</container>
-          <unittitle>El Jardín Press, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1980-1984, 1988, 1990-1994, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">5</container>
-          <container type="Folder">10</container>
-          <unittitle>El Jardín - Press, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2004</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">5</container>
-          <container type="Folder">11</container>
-          <unittitle>El Jardín Reviews, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1977</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">5</container>
-          <container type="Folder">12</container>
-          <unittitle>El Jardín - The Garden, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">5</container>
-          <container type="Folder">13</container>
-          <unittitle>El Jardín Version en Español, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">5</container>
-          <container type="Folder">14</container>
-          <unittitle>Photo Slides of Miscellaneous El Jardín Performances, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">5</container>
-          <container type="Folder">15</container>
-          <unittitle>Photo Slides of Puerto Rican Traveling Theater El Jardín Performances, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1988</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">5</container>
-          <container type="Folder">16</container>
-          <unittitle>Programs El Jardín, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">5</container>
-          <container type="Folder">17</container>
-          <unittitle>Programs El Jardín, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1970, 1983-1988, 1994, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">5</container>
-          <container type="Folder">18</container>
-          <unittitle>Puerto Rican Traveling Company El Jardín, Contracts and Correspondence, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1988-1989</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">6</container>
-          <container type="Folder">1</container>
-          <unittitle>Reviews and Newspaper Articles El Jardín, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1976-1977, 1988 undated</unitdate> 
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">6</container>
-          <container type="Folder">2</container>
-          <unittitle>Script for El Jardín, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">6</container>
-          <container type="Folder">3</container>
-          <unittitle>Sheet Music and Script for El Jardín, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-    </c03> 
-    <c03 level="subseries">
-      <did>
-        <unittitle>Rancho Hollywood</unittitle>
-      </did>
-      <c04 level="file">
-        <did>
-          <container type="Box">6</container>
-          <container type="Folder">4</container>
-          <unittitle>Notes on Rancho Hollywood with Jorge Huerta, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1981-1983</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">6</container>
-          <container type="Folder">5</container>
-          <unittitle>Rancho Hollywood, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1990, 1995 undated</unitdate> 
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">6</container>
-          <container type="Folder">6</container>
-          <unittitle>Rancho Hollywood (Español), </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">6</container>
-          <container type="Folder">7</container>
-          <unittitle>Rancho Hollywood Instituto Nacional de Bellas Artes (INBA) - Mexico, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1994-1996</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">6</container>
-          <container type="Folder">8</container>
-          <unittitle>Rancho Hollywood Press, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1995-1998</unitdate>
-        </did>
-      </c04>
-    </c03> 
-    <c03 level="subseries">
-      <did>
-        <unittitle>Los Dorados</unittitle>
-      </did>
-      <c04 level="file">
-        <did>
-          <container type="Box">6</container>
-          <container type="Folder">9</container>
-          <unittitle>Los Dorados, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1979, 1998, 2004, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">6</container>
-          <container type="Folder">10</container>
-          <unittitle>The Golden Ones, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1997-1998</unitdate>
-        </did>
-      </c04>
-    </c03> 
-    <c03 level="subseries">
-      <did>
-        <unittitle>Johnny Tenorio</unittitle>
-      </did>
-      <c04 level="file">
-        <did>
-          <container type="Box">6</container>
-          <container type="Folder">11</container>
-          <unittitle>Carlos Morton Memorandum of Understanding (MOU) Copy / Johnny Tenorio Press, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1983-1998</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">6</container>
-          <container type="Folder">12</container>
-          <unittitle>Don Juan Notas, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">6</container>
-          <container type="Folder">13</container>
-          <unittitle>The Italian Translation of Johnny Tenorio by Carlos Morton, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2020</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">6</container>
-          <container type="Folder">13</container>
-          <unittitle>Johnny Tenorio, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1989</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">7</container>
-          <container type="Folder">1</container>
-          <unittitle>Johnny Tenorio, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1989-1995</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">7</container>
-          <container type="Folder">2</container>
-          <unittitle>Johnny Tenorio (English Translation), </unittitle>
-          <unitdate era="ce" calendar="gregorian">1985</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">7</container>
-          <container type="Folder">3</container>
-          <unittitle>Johnny Tenorio English Translations, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">7</container>
-          <container type="Folder">4</container>
-          <unittitle>Johnny Tenorio English Version, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">7</container>
-          <container type="Folder">5</container>
-          <unittitle>Johnny Tenorio European Tour, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1987-1988, 2016</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">7</container>
-          <container type="Folder">6</container>
-          <unittitle>Johnny Tenorio Seattle, Washington Staged Read? Group Theater, </unittitle> 
-          <unitdate era="ce" calendar="gregorian">1985</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">7</container>
-          <container type="Folder">7</container>
-          <unittitle>Made in the U.S.A: El Don Juan Tenorio Actual, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2002</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">7</container>
-          <container type="Folder">8</container>
-          <unittitle>Notes on the First Production of Johnny Tenorio University of Texas at Austin, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1984</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">7</container>
-          <container type="Folder">9</container>
-          <unittitle>Press and Advertisements for Johnny Tenorio, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1983-1984</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">7</container>
-          <container type="Folder">10</container>
-          <unittitle>Press and Letters for the European Tour of Johnny Tenorio, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1988</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">7</container>
-          <container type="Folder">11</container>
-          <unittitle>PrimaFacie 1988: An Anthology of New American Plays, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1988</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">7</container>
-          <container type="Folder">12</container>
-          <unittitle>Reviews and Spanish Translation for Johnny Tenorio, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1988, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">7</container>
-          <container type="Folder">13</container>
-          <unittitle>Reviews, Music, and Academic Writing for Johnny Tenorio, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2003, 2012, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">8</container>
-          <container type="Folder">1</container>
-          <unittitle>Script and Performance Notes for Johnny Tenorio, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-    </c03> 
-    <c03 level="subseries">
-      <did>
-        <unittitle>Pancho Diablo</unittitle>
-      </did>
-      <c04 level="file">
-        <did>
-          <container type="Box">8</container>
-          <container type="Folder">2</container>
-          <unittitle>Academic Writing for Pancho Diablo, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1987</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">8</container>
-          <container type="Folder">3</container>
-          <unittitle>El Cuento de Pancho Diablo (Original), </unittitle>
-          <unitdate era="ce" calendar="gregorian">1987</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">8</container>
-          <container type="Folder">4</container>
-          <unittitle>New York Shakespeare Festival Latino - Pancho Diablo Correspondence, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1979, 1987-1988</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">8</container>
-          <container type="Folder">5</container>
-          <unittitle>Pancho Diablo, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1987, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">8</container>
-          <container type="Folder">6</container>
-          <unittitle>Pancho Diablo New York Shakespeare Festival Photo Slides, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1988</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">8</container>
-          <container type="Folder">8</container>
-          <unittitle>Pancho Villa: General Pershing, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1982-1983</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">8</container>
-          <container type="Folder">9</container>
-          <unittitle>Programs Pancho Diablo, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1985, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">8</container>
-          <container type="Folder">10</container>
-          <unittitle>Public Relations Pancho Diablo, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1986-1987</unitdate>
-        </did>
-      </c04>         
-    </c03> 
-    <c03 level="subseries">
-      <did>
-        <unittitle>The Savior</unittitle>
-      </did>
-      <c04 level="file">
-        <did>
-          <container type="Box">8</container>
-          <container type="Folder">11</container>
-          <unittitle>Research and Scripts for The Savior, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1973-1974, 2013, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">8</container>
-          <container type="Folder">12</container>
-          <unittitle>Romero de Las Américas, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1999</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">9</container>
-          <container type="Folder">1</container>
-          <unittitle>Romero, el Salvador, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2001-2002, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">9</container>
-          <container type="Folder">2</container>
-          <unittitle>Romero El Salvador Press, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1987, 2002</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">9</container>
-          <container type="Folder">3</container>
-          <unittitle>Romero, el Salvador by Carlos Morton Italian Translation, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1993</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">9</container>
-          <container type="Folder">4</container>
-          <unittitle>El Salvador Español, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2000, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">9</container>
-          <container type="Folder">5</container>
-          <unittitle>Santos, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1994, 2013, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">9</container>
-          <container type="Folder">6</container>
-          <unittitle>Santos Press, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1993</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">9</container>
-          <container type="Folder">7</container>
-          <unittitle>The Savior, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1994, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">9</container>
-          <container type="Folder">8</container>
-          <unittitle>The Savior, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1995, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">9</container>
-          <container type="Folder">9</container>
-          <unittitle>The Savior by Carlos Morton, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1993</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">9</container>
-          <container type="Folder">10</container>
-          <unittitle>Seattle Playwright's Festival - The Savior, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1988</unitdate>
-        </did>
-      </c04>
-    </c03> 
-    <c03 level="subseries">
-      <did>
-        <unittitle>The Miser of Mexico</unittitle>
-      </did>
-      <c04 level="file">
-        <did>
-          <container type="Box">9</container>
-          <container type="Folder">11</container>
-          <unittitle>The Miser of Mexico, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1989-1999, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">9</container>
-          <container type="Folder">12</container>
-          <unittitle>The Miser of Mexico - Press (Includes 2 CDs), </unittitle>
-          <unitdate era="ce" calendar="gregorian">1990-1991, 1995, 2001</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">9</container>
-          <container type="Folder">13</container>
-          <unittitle>Miser of Mexico Production, Virginia Commonwealth University, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2006</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">9</container>
-          <container type="Folder">14</container>
-          <unittitle>Miser of Mexico University of California Riverside Production, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1990-1991</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">9</container>
-          <container type="Folder">15</container>
-          <unittitle>The Miser of Mexico - University of Texas El Paso Production Version, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1989</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">9</container>
-          <container type="Folder">16</container>
-          <unittitle>The Miser of Monterrey (Mexico) Correspondence, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1990, undated</unitdate>
-        </did>
-      </c04>
-    </c03> 
-    <c03 level="subseries">
-      <did>
-        <unittitle>Dreaming on a Sunday in the Alameda</unittitle>
-      </did>
-      <c04 level="file">
-        <did>
-          <container type="Box">9</container>
-          <container type="Folder">17</container>
-          <unittitle>Child Diego, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1994-1995</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">10</container>
-          <container type="Folder">1</container>
-          <unittitle>The Child Diego (Dreaming on a Sunday in the Alameda), </unittitle>
-          <unitdate era="ce" calendar="gregorian">1995, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">10</container>
-          <container type="Folder">2</container>
-          <unittitle>The Child Diego Tucson, Arizona, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1992-1994, 2000, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">10</container>
-          <container type="Folder">3</container>
-          <unittitle>The Child Diego Tucson, Arizona Press, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1992-1995</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">10</container>
-          <container type="Folder">4</container>
-          <unittitle>Dreaming on a Sunday in the Alameda Press, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">10</container>
-          <container type="Folder">5</container>
-          <unittitle>La écfrasis en Dreaming on a Sunday in the Alameda de Carlos Morton, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2007</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">10</container>
-          <container type="Folder">6</container>
-          <unittitle>Phoenix Theatre's Festival of Emerging American Theatre Playwriting Competition Critique, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-    </c03> 
-    <c03 level="subseries">
-      <did>
-        <unittitle>La Malinche</unittitle> 
-      </did>
-      <c04 level="file">
-        <did>
-          <container type="Box">10</container>
-          <container type="Folder">7</container>
-          <unittitle>Academic Writing about La Malinche, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1997</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">10</container>
-          <container type="Folder">8</container>
-          <unittitle>Arizona Theatre Co. La Malinche Production Notes, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1996-1997</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">10</container>
-          <container type="Folder">9</container>
-          <unittitle>La Llorona, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2011-2013</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">10</container>
-          <container type="Folder">10</container>
-          <unittitle>La Malinche, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1995-1997</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">10</container>
-          <container type="Folder">11</container>
-          <unittitle>La Malinche Arizona Theatre Co 1997 Latest version, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1997</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">10</container>
-          <container type="Folder">12</container>
-          <unittitle>La Malinche 4/85 University of Texas, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1985</unitdate>
-        </did>
-      </c04>
-       <c04 level="file">
-        <did>
-          <container type="Box">11</container>
-          <container type="Folder">1</container>
-          <unittitle>La Malinche press, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1985, 1989, 1995-1997, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">11</container>
-          <container type="Folder">2</container>
-          <unittitle>La Malinche - Spanish, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">11</container>
-          <container type="Folder">3</container>
-          <unittitle>Madea/Malinche/Llorona, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1985</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">11</container>
-          <container type="Folder">4</container>
-          <unittitle>Malinche, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1989-1991</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">11</container>
-          <container type="Folder">5</container>
-          <unittitle>Press, Photographs, and Academic Writing about La Malinche, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1985, 2004, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">11</container>
-          <container type="Folder">6</container>
-          <unittitle>The Polish Translation of La Malinche Book, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2016</unitdate>
-        </did>
-      </c04>
-    </c03> 
-    <c03 level="subseries">
-      <did>
-        <unittitle>Esperanza</unittitle> 
-      </did>
-      <c04 level="file">
-        <did>
-          <container type="Box">11</container>
-          <container type="Folder">7</container>
-          <unittitle>Esperanza, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1997-1998</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">11</container>
-          <container type="Folder">8</container>
-          <unittitle>Esperanza, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2000-2003, 2016</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">11</container>
-          <container type="Folder">9</container>
-          <unittitle>Esperanza Press, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2000</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">11</container>
-          <container type="Folder">10</container>
-          <unittitle>Esperanza University of California Riverside, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1965, 1983, 1999 -2003, undated</unitdate>
-        </did>
-      </c04>
-    </c03> 
-    <c03 level="subseries">
-      <did>
-        <unittitle>Lilith</unittitle> 
-      </did>
-      <c04 level="file">
-        <did>
-          <container type="Box">11</container>
-          <container type="Folder">11</container>
-          <unittitle>Lilith, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1977, 1998</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">11</container>
-          <container type="Folder">12</container>
-          <unittitle>Lilith, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">11</container>
-          <container type="Folder">13</container>
-          <unittitle>Research, Scripts, and Advertisements for Lilith, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1982</unitdate>
-        </did>
-      </c04>
-    </c03> 
-    <c03 level="subseries">
-      <did>
-        <unittitle>Brown Baby</unittitle> 
-      </did>
-      <c04 level="file">
-        <did>
-          <container type="Box">11</container>
-          <container type="Folder">14</container>
-          <unittitle>Brown Baby, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">11</container>
-          <container type="Folder">15</container>
-          <unittitle>Brown Baby (Formerly) The Foundling Notes, etc., </unittitle>
-          <unitdate era="ce" calendar="gregorian">1998</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">11</container>
-          <container type="Folder">16</container>
-          <unittitle>Brown Baby Research, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2004-2007</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">11</container>
-          <container type="Folder">17</container>
-          <unittitle>Brown Baby Press, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2003</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">12</container>
-          <container type="Folder">1</container>
-          <unittitle>Brown Baby Production Materials, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1991, 2003, 2006, 2016, 2018, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">12</container>
-          <container type="Folder">2</container>
-          <unittitle>The Foundling, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1991</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">12</container>
-          <container type="Folder">3</container>
-          <unittitle>Foundling Screen Adaptation, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1990</unitdate>
-        </did>
-      </c04>
-    </c03> 
-    <c03 level="subseries">
-      <did>
-        <unittitle>Trumpus Caesar</unittitle> 
-      </did>
-      <c04 level="file">
-        <did>
-          <container type="Box">12</container>
-          <container type="Folder">4</container>
-          <unittitle>Trumpus Caesar Posters, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2018</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">12</container>
-          <container type="Folder">5</container>
-          <unittitle>Trumpus Caesar Research + Original Adaptation of Julius Caesar, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1973, 2010, 2014, 2016-2017, 2020, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">12</container>
-          <container type="Folder">6</container>
-          <unittitle>Trumpus Caesar Rewrites, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2018-2020</unitdate>
-        </did>
-      </c04>
-    </c03> 
-    <c03 level="subseries">
-      <did>
-        <unittitle>Minor Plays</unittitle> 
-      </did>
-      <c04 level="file">
-        <did>
-          <container type="Box">12</container>
-          <container type="Folder">7</container>
-          <unittitle>Blood Wedding Program, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1987</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">12</container>
-          <container type="Folder">8</container>
-          <unittitle>Bound Book of Fieldwork for Zona Rosa, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">12</container>
-          <container type="Folder">9</container>
-          <unittitle>Brown Buffalo, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2013-2016</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">12</container>
-          <container type="Folder">10</container>
-          <unittitle>Brown Buffalo National Association of Latino Arts and Cultures (NALAC), </unittitle>
-          <unitdate era="ce" calendar="gregorian">2014</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">12</container>
-          <container type="Folder">11</container>
-          <unittitle>Brown Buffalo Research + Drafts (1/2), </unittitle>
-          <unitdate era="ce" calendar="gregorian">1967, 2011-2017, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">12</container>
-          <container type="Folder">12</container>
-          <unittitle>Brown Buffalo Research + Drafts (2/2), </unittitle>
-          <unitdate era="ce" calendar="gregorian">1967, 2011-2017, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">12</container>
-          <container type="Folder">13</container>
-          <unittitle>Crown of Thorns, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">12</container>
-          <container type="Folder">14</container>
-          <unittitle>Cuentos, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1984, 1988-1989, 1995</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">13</container>
-          <container type="Folder">1</container>
-          <unittitle>Cuentos, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">13</container>
-          <container type="Folder">2</container>
-          <unittitle>Cuentos Press, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1989, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">13</container>
-          <container type="Folder">3</container>
-          <unittitle>Cuentos TV documentary, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1989-1990</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">13</container>
-          <container type="Folder">4</container>
-          <unittitle>Denver Center Theater Contracts, etc. (Includes floppy disk), </unittitle>
-          <unitdate era="ce" calendar="gregorian">1985-1988, 1993, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">13</container>
-          <container type="Folder">5</container>
-          <unittitle>Desolation Car Lot, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">13</container>
-          <container type="Folder">6</container>
-          <unittitle>Eres un Sueño AKA Frontera Sin Fin Unpublished in Espanol, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1997-1998</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">13</container>
-          <container type="Folder">7</container>
-          <unittitle>Eres un Sueño First Draft, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">13</container>
-          <container type="Folder">8</container>
-          <unittitle>Frank Chin Tony Burciasa Carlos Morton Papers, An Attempt at Collaboration, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1983-1985</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">13</container>
-          <container type="Folder">9</container>
-          <unittitle>The Illegals AKA Frontera Sin Fin, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">13</container>
-          <container type="Folder">10</container>
-          <unittitle>Kan Balaam, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">13</container>
-          <container type="Folder">11</container>
-          <unittitle>Los Corridos, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1983 - 1984</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">13</container>
-          <container type="Folder">12</container>
-          <unittitle>Pablo Neruda’s Burning Patience, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1987</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">13</container>
-          <container type="Folder">13</container>
-          <unittitle>Pastorela Fronteriza, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1993</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">13</container>
-          <container type="Folder">14</container>
-          <unittitle>Pastorela Fronteriza Unpublished Manuscript, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">13</container>
-          <container type="Folder">15</container>
-          <unittitle>Paso Del Norte Programs, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2001-2003</unitdate>
-        </did>
-      </c04>
-       <c04 level="file">
-        <did>
-          <container type="Box">14</container>
-          <container type="Folder">1</container>
-          <unittitle>Paso Del Norte Unpublished Manuscript, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2003, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">14</container>
-          <container type="Folder">2</container>
-          <unittitle>RadioNovela, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1995-1997, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">14</container>
-          <container type="Folder">3</container>
-          <unittitle>Research done for Zona Rosa (Bound), </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">14</container>
-          <container type="Folder">4</container>
-          <unittitle>Smiley Villegas, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1995</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">14</container>
-          <container type="Folder">5</container>
-          <unittitle>Zona Rosa, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2011</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">14</container>
-          <container type="Folder">6</container>
-          <unittitle>Zona Rosa Research, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2008-2011, undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">14</container>
-          <container type="Folder">7</container>
-          <unittitle>Zona Rosa Manuscript, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1996, 2011</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">14</container>
-          <container type="Folder">8</container>
-          <unittitle>Zona Rosa #5, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2011-09-01</unitdate>
-        </did>
-      </c04>
-    </c03> 
-    <c03 level="subseries">
-      <did>
-        <unittitle>Youth Theatre Initiatives</unittitle> 
-      </did>
-      <c04 level="file">
-        <did>
-          <container type="Box">14</container>
-          <container type="Folder">9</container>
-          <unittitle>At Risk Comic Book, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1988-1990</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">14</container>
-          <container type="Folder">10</container>
-          <unittitle>At Risk Play Español Carlos Morton, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1989-1992</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">14</container>
-          <container type="Folder">11</container>
-          <unittitle>At Risk Press, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1989-1992</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">14</container>
-          <container type="Folder">12</container>
-          <unittitle>At Risk Programs, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1989-1991</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">15</container>
-          <container type="Folder">1</container>
-          <unittitle>Dallas (“theater still lives”), </unittitle>
-          <unitdate era="ce" calendar="gregorian">1990-1993</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">15</container>
-          <container type="Folder">2</container>
-          <unittitle>De Zavala (script), </unittitle>
-          <unitdate era="ce" calendar="gregorian">1986-2001</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">15</container>
-          <container type="Folder">3</container>
-          <unittitle>The Drop Out, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">15</container>
-          <container type="Folder">4</container>
-          <unittitle>The Drop Out Correspondence, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1992-1993</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">15</container>
-          <container type="Folder">5</container>
-          <unittitle>The Drop Out Flyer, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">15</container>
-          <container type="Folder">6</container>
-          <unittitle>Drug-O, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1992</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">15</container>
-          <container type="Folder">7</container>
-          <unittitle>La Loteria Programs, </unittitle>
-          <unitdate era="ce" calendar="gregorian">2002-2005</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">15</container>
-          <container type="Folder">8</container>
-          <unittitle>Lorenzo De Zavala Unpublished Manuscript Theater for Youth, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1985-1987</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">15</container>
-          <container type="Folder">9</container>
-          <unittitle>Lorenzo de Zavala Press, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1986</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">15</container>
-          <container type="Folder">10</container>
-          <unittitle>Los Fatherless, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1991-2007</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">15</container>
-          <container type="Folder">11</container>
-          <unittitle>Los Fatherless Press, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1993</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">15</container>
-          <container type="Folder">12</container>
-          <unittitle>Miracle Theater/ “Diego” Children’s Theater, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1992 - 1993</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">15</container>
-          <container type="Folder">13</container>
-          <unittitle>Players Press 4 Plays for Youth, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1991-2002</unitdate>
-        </did>
-      </c04>
-      <c04 level="file">
-        <did>
-          <container type="Box">15</container>
-          <container type="Folder">14</container>
-          <unittitle>Theater for Youth Los Fatherless Notes + Old Scripts, </unittitle>
-          <unitdate era="ce" calendar="gregorian">1989-1991</unitdate>
-        </did>
-      </c04>
-    </c03> 
-    <c03 level="subseries">
-      <did>
-        <unittitle>Unpublished Works</unittitle> </did>
-      <c04 level="file">
-        <did>
-          <container type="Box">15</container>
-          <container type="Folder">15</container>
-          <unittitle>Radio Novela de Pedro Cochimala, </unittitle>
-          <unitdate era="ce" calendar="gregorian">undated</unitdate>
-        </did>
-      </c04>
-    </c03> 
-  </c02> 
-      </c01>     
+        <c02 level="series" id="ser4">
+          <did>
+            <unittitle>Dramatic Works</unittitle>
+          </did>
+          <c03 level="subseries">
+            <did>
+              <unittitle>The Many Deaths of Danny Rosales</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">4</container>
+                <container type="Folder">1</container>
+                <unittitle>Danny Rosales Photo Slides, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">4</container>
+                <container type="Folder">2</container>
+                <unittitle>Danny Rosales - Press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1981-1986</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">4</container>
+                <container type="Folder">3</container>
+                <unittitle>The Many Deaths of Danny Rosales, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">4</container>
+                <container type="Folder">4</container>
+                <unittitle>The Many Deaths of Danny Rosales, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1978-1983</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">4</container>
+                <container type="Folder">5</container>
+                <unittitle>The Many Deaths of Danny Rosales, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1979-1993, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">4</container>
+                <container type="Folder">6</container>
+                <unittitle>The Many Deaths of Danny Rosales by Carlos Morton, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1993</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">4</container>
+                <container type="Folder">7</container>
+                <unittitle>Many Deaths of Danny Rosales Press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1982-1994</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">4</container>
+                <container type="Folder">8</container>
+                <unittitle>Many Deaths of Danny Rosales Production Contract, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1981</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">4</container>
+                <container type="Folder">9</container>
+                <unittitle>The Many Deaths of Danny Rosales Reviews, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1983-1991</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">4</container>
+                <container type="Folder">10</container>
+                <unittitle>The Many Deaths of Danny Rosales University of Texas at Austin, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1982-1985, 2000, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">4</container>
+                <container type="Folder">11</container>
+                <unittitle>Playwriting, New York Shakespeare Festival, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1984-1986, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">4</container>
+                <container type="Folder">12</container>
+                <unittitle>Police Brutality, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1970-1979, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">4</container>
+                <container type="Folder">13</container>
+                <unittitle>Press and Research for The Many Deaths of Danny Rosales, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1976-1978, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">4</container>
+                <container type="Folder">14</container>
+                <unittitle>Press - Research for Play, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1976, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">4</container>
+                <container type="Folder">15</container>
+                <unittitle>Programs, Advertisements, and Audition Information for The Many Deaths of
+                  Danny Rosales, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2019, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">4</container>
+                <container type="Folder">16</container>
+                <unittitle>Publications for The Many Deaths of Danny Rosales, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1981, 1988</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">4</container>
+                <container type="Folder">17</container>
+                <unittitle>Research/Correspondence, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1985</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">5</container>
+                <container type="Folder">1</container>
+                <unittitle>Script for The Many Deaths of Danny Rosales, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1980</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">5</container>
+                <container type="Folder">2</container>
+                <unittitle>Scripts, Academic Writing, Press, and Research for The Many Deaths of
+                  Danny Rosales, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1980-1995, 2018, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">5</container>
+                <container type="Folder">3</container>
+                <unittitle>Scripts for The Many Deaths of Danny Rosales, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1976, 1994</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">5</container>
+                <container type="Folder">4</container>
+                <unittitle>Scripts, Press and Research for The Many Deaths of Danny Rosales, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1976, 1988-1989, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">5</container>
+                <container type="Folder">5</container>
+                <unittitle>Texas Papers/”FEK” Tradition, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1981-1985</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>El Jardín</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">5</container>
+                <container type="Folder">6</container>
+                <unittitle>Der Garten German and Polish Translations, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1989</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">5</container>
+                <container type="Folder">7</container>
+                <unittitle>El Jardín, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1976, 1985-1988, 1992-2009, 2017, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">5</container>
+                <container type="Folder">8</container>
+                <unittitle>El Jardín Español Adaptation by Elpida Carrillo, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1998-1999</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">5</container>
+                <container type="Folder">9</container>
+                <unittitle>El Jardín Press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1980-1984, 1988, 1990-1994, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">5</container>
+                <container type="Folder">10</container>
+                <unittitle>El Jardín - Press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2004</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">5</container>
+                <container type="Folder">11</container>
+                <unittitle>El Jardín Reviews, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1977</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">5</container>
+                <container type="Folder">12</container>
+                <unittitle>El Jardín - The Garden, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">5</container>
+                <container type="Folder">13</container>
+                <unittitle>El Jardín Version en Español, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">5</container>
+                <container type="Folder">14</container>
+                <unittitle>Photo Slides of Miscellaneous El Jardín Performances, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">5</container>
+                <container type="Folder">15</container>
+                <unittitle>Photo Slides of Puerto Rican Traveling Theater El Jardín Performances, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1988</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">5</container>
+                <container type="Folder">16</container>
+                <unittitle>Programs El Jardín, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">5</container>
+                <container type="Folder">17</container>
+                <unittitle>Programs El Jardín, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1970, 1983-1988, 1994, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">5</container>
+                <container type="Folder">18</container>
+                <unittitle>Puerto Rican Traveling Company El Jardín, Contracts and Correspondence, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1988-1989</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">6</container>
+                <container type="Folder">1</container>
+                <unittitle>Reviews and Newspaper Articles El Jardín, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1976-1977, 1988 undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">6</container>
+                <container type="Folder">2</container>
+                <unittitle>Script for El Jardín, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">6</container>
+                <container type="Folder">3</container>
+                <unittitle>Sheet Music and Script for El Jardín, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Rancho Hollywood</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">6</container>
+                <container type="Folder">4</container>
+                <unittitle>Notes on Rancho Hollywood with Jorge Huerta, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1981-1983</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">6</container>
+                <container type="Folder">5</container>
+                <unittitle>Rancho Hollywood, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1990, 1995 undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">6</container>
+                <container type="Folder">6</container>
+                <unittitle>Rancho Hollywood (Español), </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">6</container>
+                <container type="Folder">7</container>
+                <unittitle>Rancho Hollywood Instituto Nacional de Bellas Artes (INBA) - Mexico, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1994-1996</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">6</container>
+                <container type="Folder">8</container>
+                <unittitle>Rancho Hollywood Press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1995-1998</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Los Dorados</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">6</container>
+                <container type="Folder">9</container>
+                <unittitle>Los Dorados, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1979, 1998, 2004, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">6</container>
+                <container type="Folder">10</container>
+                <unittitle>The Golden Ones, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1997-1998</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Johnny Tenorio</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">6</container>
+                <container type="Folder">11</container>
+                <unittitle>Carlos Morton Memorandum of Understanding (MOU) Copy / Johnny Tenorio
+                  Press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1983-1998</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">6</container>
+                <container type="Folder">12</container>
+                <unittitle>Don Juan Notas, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">6</container>
+                <container type="Folder">13</container>
+                <unittitle>The Italian Translation of Johnny Tenorio by Carlos Morton, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2020</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">6</container>
+                <container type="Folder">13</container>
+                <unittitle>Johnny Tenorio, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1989</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">7</container>
+                <container type="Folder">1</container>
+                <unittitle>Johnny Tenorio, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1989-1995</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">7</container>
+                <container type="Folder">2</container>
+                <unittitle>Johnny Tenorio (English Translation), </unittitle>
+                <unitdate era="ce" calendar="gregorian">1985</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">7</container>
+                <container type="Folder">3</container>
+                <unittitle>Johnny Tenorio English Translations, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">7</container>
+                <container type="Folder">4</container>
+                <unittitle>Johnny Tenorio English Version, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">7</container>
+                <container type="Folder">5</container>
+                <unittitle>Johnny Tenorio European Tour, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1987-1988, 2016</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">7</container>
+                <container type="Folder">6</container>
+                <unittitle>Johnny Tenorio Seattle, Washington Staged Read? Group Theater, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1985</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">7</container>
+                <container type="Folder">7</container>
+                <unittitle>Made in the U.S.A: El Don Juan Tenorio Actual, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2002</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">7</container>
+                <container type="Folder">8</container>
+                <unittitle>Notes on the First Production of Johnny Tenorio University of Texas at
+                  Austin, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1984</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">7</container>
+                <container type="Folder">9</container>
+                <unittitle>Press and Advertisements for Johnny Tenorio, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1983-1984</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">7</container>
+                <container type="Folder">10</container>
+                <unittitle>Press and Letters for the European Tour of Johnny Tenorio, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1988</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">7</container>
+                <container type="Folder">11</container>
+                <unittitle>PrimaFacie 1988: An Anthology of New American Plays, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1988</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">7</container>
+                <container type="Folder">12</container>
+                <unittitle>Reviews and Spanish Translation for Johnny Tenorio, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1988, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">7</container>
+                <container type="Folder">13</container>
+                <unittitle>Reviews, Music, and Academic Writing for Johnny Tenorio, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2003, 2012, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">8</container>
+                <container type="Folder">1</container>
+                <unittitle>Script and Performance Notes for Johnny Tenorio, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Pancho Diablo</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">8</container>
+                <container type="Folder">2</container>
+                <unittitle>Academic Writing for Pancho Diablo, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1987</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">8</container>
+                <container type="Folder">3</container>
+                <unittitle>El Cuento de Pancho Diablo (Original), </unittitle>
+                <unitdate era="ce" calendar="gregorian">1987</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">8</container>
+                <container type="Folder">4</container>
+                <unittitle>New York Shakespeare Festival Latino - Pancho Diablo Correspondence, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1979, 1987-1988</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">8</container>
+                <container type="Folder">5</container>
+                <unittitle>Pancho Diablo, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1987, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">8</container>
+                <container type="Folder">6</container>
+                <unittitle>Pancho Diablo New York Shakespeare Festival Photo Slides, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1988</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">8</container>
+                <container type="Folder">8</container>
+                <unittitle>Pancho Villa: General Pershing, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1982-1983</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">8</container>
+                <container type="Folder">9</container>
+                <unittitle>Programs Pancho Diablo, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1985, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">8</container>
+                <container type="Folder">10</container>
+                <unittitle>Public Relations Pancho Diablo, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1986-1987</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>The Savior</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">8</container>
+                <container type="Folder">11</container>
+                <unittitle>Research and Scripts for The Savior, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1973-1974, 2013, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">8</container>
+                <container type="Folder">12</container>
+                <unittitle>Romero de Las Américas, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1999</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">9</container>
+                <container type="Folder">1</container>
+                <unittitle>Romero, el Salvador, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2001-2002, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">9</container>
+                <container type="Folder">2</container>
+                <unittitle>Romero El Salvador Press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1987, 2002</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">9</container>
+                <container type="Folder">3</container>
+                <unittitle>Romero, el Salvador by Carlos Morton Italian Translation, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1993</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">9</container>
+                <container type="Folder">4</container>
+                <unittitle>El Salvador Español, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2000, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">9</container>
+                <container type="Folder">5</container>
+                <unittitle>Santos, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1994, 2013, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">9</container>
+                <container type="Folder">6</container>
+                <unittitle>Santos Press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1993</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">9</container>
+                <container type="Folder">7</container>
+                <unittitle>The Savior, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1994, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">9</container>
+                <container type="Folder">8</container>
+                <unittitle>The Savior, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1995, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">9</container>
+                <container type="Folder">9</container>
+                <unittitle>The Savior by Carlos Morton, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1993</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">9</container>
+                <container type="Folder">10</container>
+                <unittitle>Seattle Playwright's Festival - The Savior, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1988</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>The Miser of Mexico</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">9</container>
+                <container type="Folder">11</container>
+                <unittitle>The Miser of Mexico, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1989-1999, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">9</container>
+                <container type="Folder">12</container>
+                <unittitle>The Miser of Mexico - Press (Includes 2 CDs), </unittitle>
+                <unitdate era="ce" calendar="gregorian">1990-1991, 1995, 2001</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">9</container>
+                <container type="Folder">13</container>
+                <unittitle>Miser of Mexico Production, Virginia Commonwealth University, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2006</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">9</container>
+                <container type="Folder">14</container>
+                <unittitle>Miser of Mexico University of California Riverside Production, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1990-1991</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">9</container>
+                <container type="Folder">15</container>
+                <unittitle>The Miser of Mexico - University of Texas El Paso Production Version, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1989</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">9</container>
+                <container type="Folder">16</container>
+                <unittitle>The Miser of Monterrey (Mexico) Correspondence, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1990, undated</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Dreaming on a Sunday in the Alameda</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">9</container>
+                <container type="Folder">17</container>
+                <unittitle>Child Diego, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1994-1995</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">10</container>
+                <container type="Folder">1</container>
+                <unittitle>The Child Diego (Dreaming on a Sunday in the Alameda), </unittitle>
+                <unitdate era="ce" calendar="gregorian">1995, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">10</container>
+                <container type="Folder">2</container>
+                <unittitle>The Child Diego Tucson, Arizona, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1992-1994, 2000, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">10</container>
+                <container type="Folder">3</container>
+                <unittitle>The Child Diego Tucson, Arizona Press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1992-1995</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">10</container>
+                <container type="Folder">4</container>
+                <unittitle>Dreaming on a Sunday in the Alameda Press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">10</container>
+                <container type="Folder">5</container>
+                <unittitle>La écfrasis en Dreaming on a Sunday in the Alameda de Carlos Morton, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2007</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">10</container>
+                <container type="Folder">6</container>
+                <unittitle>Phoenix Theatre's Festival of Emerging American Theatre Playwriting
+                  Competition Critique, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>La Malinche</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">10</container>
+                <container type="Folder">7</container>
+                <unittitle>Academic Writing about La Malinche, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1997</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">10</container>
+                <container type="Folder">8</container>
+                <unittitle>Arizona Theatre Co. La Malinche Production Notes, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1996-1997</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">10</container>
+                <container type="Folder">9</container>
+                <unittitle>La Llorona, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2011-2013</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">10</container>
+                <container type="Folder">10</container>
+                <unittitle>La Malinche, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1995-1997</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">10</container>
+                <container type="Folder">11</container>
+                <unittitle>La Malinche Arizona Theatre Co 1997 Latest version, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1997</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">10</container>
+                <container type="Folder">12</container>
+                <unittitle>La Malinche 4/85 University of Texas, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1985</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">11</container>
+                <container type="Folder">1</container>
+                <unittitle>La Malinche press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1985, 1989, 1995-1997, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">11</container>
+                <container type="Folder">2</container>
+                <unittitle>La Malinche - Spanish, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">11</container>
+                <container type="Folder">3</container>
+                <unittitle>Madea/Malinche/Llorona, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1985</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">11</container>
+                <container type="Folder">4</container>
+                <unittitle>Malinche, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1989-1991</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">11</container>
+                <container type="Folder">5</container>
+                <unittitle>Press, Photographs, and Academic Writing about La Malinche, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1985, 2004, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">11</container>
+                <container type="Folder">6</container>
+                <unittitle>The Polish Translation of La Malinche Book, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2016</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Esperanza</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">11</container>
+                <container type="Folder">7</container>
+                <unittitle>Esperanza, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1997-1998</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">11</container>
+                <container type="Folder">8</container>
+                <unittitle>Esperanza, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2000-2003, 2016</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">11</container>
+                <container type="Folder">9</container>
+                <unittitle>Esperanza Press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2000</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">11</container>
+                <container type="Folder">10</container>
+                <unittitle>Esperanza University of California Riverside, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1965, 1983, 1999 -2003, undated</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Lilith</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">11</container>
+                <container type="Folder">11</container>
+                <unittitle>Lilith, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1977, 1998</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">11</container>
+                <container type="Folder">12</container>
+                <unittitle>Lilith, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">11</container>
+                <container type="Folder">13</container>
+                <unittitle>Research, Scripts, and Advertisements for Lilith, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1982</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Brown Baby</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">11</container>
+                <container type="Folder">14</container>
+                <unittitle>Brown Baby, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">11</container>
+                <container type="Folder">15</container>
+                <unittitle>Brown Baby (Formerly) The Foundling Notes, etc., </unittitle>
+                <unitdate era="ce" calendar="gregorian">1998</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">11</container>
+                <container type="Folder">16</container>
+                <unittitle>Brown Baby Research, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2004-2007</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">11</container>
+                <container type="Folder">17</container>
+                <unittitle>Brown Baby Press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2003</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">12</container>
+                <container type="Folder">1</container>
+                <unittitle>Brown Baby Production Materials, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1991, 2003, 2006, 2016, 2018, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">12</container>
+                <container type="Folder">2</container>
+                <unittitle>The Foundling, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1991</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">12</container>
+                <container type="Folder">3</container>
+                <unittitle>Foundling Screen Adaptation, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1990</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Trumpus Caesar</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">12</container>
+                <container type="Folder">4</container>
+                <unittitle>Trumpus Caesar Posters, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2018</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">12</container>
+                <container type="Folder">5</container>
+                <unittitle>Trumpus Caesar Research + Original Adaptation of Julius Caesar, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1973, 2010, 2014, 2016-2017, 2020, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">12</container>
+                <container type="Folder">6</container>
+                <unittitle>Trumpus Caesar Rewrites, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2018-2020</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Minor Plays</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">12</container>
+                <container type="Folder">7</container>
+                <unittitle>Blood Wedding Program, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1987</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">12</container>
+                <container type="Folder">8</container>
+                <unittitle>Bound Book of Fieldwork for Zona Rosa, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">12</container>
+                <container type="Folder">9</container>
+                <unittitle>Brown Buffalo, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2013-2016</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">12</container>
+                <container type="Folder">10</container>
+                <unittitle>Brown Buffalo National Association of Latino Arts and Cultures (NALAC), </unittitle>
+                <unitdate era="ce" calendar="gregorian">2014</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">12</container>
+                <container type="Folder">11</container>
+                <unittitle>Brown Buffalo Research + Drafts (1/2), </unittitle>
+                <unitdate era="ce" calendar="gregorian">1967, 2011-2017, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">12</container>
+                <container type="Folder">12</container>
+                <unittitle>Brown Buffalo Research + Drafts (2/2), </unittitle>
+                <unitdate era="ce" calendar="gregorian">1967, 2011-2017, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">12</container>
+                <container type="Folder">13</container>
+                <unittitle>Crown of Thorns, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">12</container>
+                <container type="Folder">14</container>
+                <unittitle>Cuentos, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1984, 1988-1989, 1995</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">13</container>
+                <container type="Folder">1</container>
+                <unittitle>Cuentos, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">13</container>
+                <container type="Folder">2</container>
+                <unittitle>Cuentos Press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1989, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">13</container>
+                <container type="Folder">3</container>
+                <unittitle>Cuentos TV documentary, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1989-1990</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">13</container>
+                <container type="Folder">4</container>
+                <unittitle>Denver Center Theater Contracts, etc. (Includes floppy disk), </unittitle>
+                <unitdate era="ce" calendar="gregorian">1985-1988, 1993, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">13</container>
+                <container type="Folder">5</container>
+                <unittitle>Desolation Car Lot, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">13</container>
+                <container type="Folder">6</container>
+                <unittitle>Eres un Sueño AKA Frontera Sin Fin Unpublished in Espanol, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1997-1998</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">13</container>
+                <container type="Folder">7</container>
+                <unittitle>Eres un Sueño First Draft, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">13</container>
+                <container type="Folder">8</container>
+                <unittitle>Frank Chin Tony Burciasa Carlos Morton Papers, An Attempt at
+                  Collaboration, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1983-1985</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">13</container>
+                <container type="Folder">9</container>
+                <unittitle>The Illegals AKA Frontera Sin Fin, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">13</container>
+                <container type="Folder">10</container>
+                <unittitle>Kan Balaam, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">13</container>
+                <container type="Folder">11</container>
+                <unittitle>Los Corridos, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1983 - 1984</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">13</container>
+                <container type="Folder">12</container>
+                <unittitle>Pablo Neruda’s Burning Patience, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1987</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">13</container>
+                <container type="Folder">13</container>
+                <unittitle>Pastorela Fronteriza, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1993</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">13</container>
+                <container type="Folder">14</container>
+                <unittitle>Pastorela Fronteriza Unpublished Manuscript, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">13</container>
+                <container type="Folder">15</container>
+                <unittitle>Paso Del Norte Programs, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2001-2003</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">14</container>
+                <container type="Folder">1</container>
+                <unittitle>Paso Del Norte Unpublished Manuscript, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2003, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">14</container>
+                <container type="Folder">2</container>
+                <unittitle>RadioNovela, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1995-1997, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">14</container>
+                <container type="Folder">3</container>
+                <unittitle>Research done for Zona Rosa (Bound), </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">14</container>
+                <container type="Folder">4</container>
+                <unittitle>Smiley Villegas, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1995</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">14</container>
+                <container type="Folder">5</container>
+                <unittitle>Zona Rosa, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2011</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">14</container>
+                <container type="Folder">6</container>
+                <unittitle>Zona Rosa Research, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2008-2011, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">14</container>
+                <container type="Folder">7</container>
+                <unittitle>Zona Rosa Manuscript, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1996, 2011</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">14</container>
+                <container type="Folder">8</container>
+                <unittitle>Zona Rosa #5, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2011-09-01</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Youth Theatre Initiatives</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">14</container>
+                <container type="Folder">9</container>
+                <unittitle>At Risk Comic Book, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1988-1990</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">14</container>
+                <container type="Folder">10</container>
+                <unittitle>At Risk Play Español Carlos Morton, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1989-1992</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">14</container>
+                <container type="Folder">11</container>
+                <unittitle>At Risk Press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1989-1992</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">14</container>
+                <container type="Folder">12</container>
+                <unittitle>At Risk Programs, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1989-1991</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">15</container>
+                <container type="Folder">1</container>
+                <unittitle>Dallas (“theater still lives”), </unittitle>
+                <unitdate era="ce" calendar="gregorian">1990-1993</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">15</container>
+                <container type="Folder">2</container>
+                <unittitle>De Zavala (script), </unittitle>
+                <unitdate era="ce" calendar="gregorian">1986-2001</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">15</container>
+                <container type="Folder">3</container>
+                <unittitle>The Drop Out, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">15</container>
+                <container type="Folder">4</container>
+                <unittitle>The Drop Out Correspondence, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1992-1993</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">15</container>
+                <container type="Folder">5</container>
+                <unittitle>The Drop Out Flyer, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">15</container>
+                <container type="Folder">6</container>
+                <unittitle>Drug-O, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1992</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">15</container>
+                <container type="Folder">7</container>
+                <unittitle>La Loteria Programs, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2002-2005</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">15</container>
+                <container type="Folder">8</container>
+                <unittitle>Lorenzo De Zavala Unpublished Manuscript Theater for Youth, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1985-1987</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">15</container>
+                <container type="Folder">9</container>
+                <unittitle>Lorenzo de Zavala Press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1986</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">15</container>
+                <container type="Folder">10</container>
+                <unittitle>Los Fatherless, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1991-2007</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">15</container>
+                <container type="Folder">11</container>
+                <unittitle>Los Fatherless Press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1993</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">15</container>
+                <container type="Folder">12</container>
+                <unittitle>Miracle Theater/ “Diego” Children’s Theater, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1992 - 1993</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">15</container>
+                <container type="Folder">13</container>
+                <unittitle>Players Press 4 Plays for Youth, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1991-2002</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">15</container>
+                <container type="Folder">14</container>
+                <unittitle>Theater for Youth Los Fatherless Notes + Old Scripts, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1989-1991</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Unpublished Works</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">15</container>
+                <container type="Folder">15</container>
+                <unittitle>Radio Novela de Pedro Cochimala, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">16</container>
+                <container type="Folder">1</container>
+                <unittitle>Screenwriting/Columbia Pictures, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1987-1988</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">16</container>
+                <container type="Folder">2</container>
+                <unittitle>The Meeting Unpublished Play, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1980-1991</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">16</container>
+                <container type="Folder">3</container>
+                <unittitle>T.V. Writing/Press/Contract, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1987-1988, 2015</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">16</container>
+                <container type="Folder">4</container>
+                <unittitle>Unnamed Production Script, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1971</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">16</container>
+                <container type="Folder">5</container>
+                <unittitle>Unpublished Plays, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1976, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">16</container>
+                <container type="Folder">6</container>
+                <unittitle>Unpublished Scripts, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+          </c03>          
+        </c02>
+        <c02 level="series" id="ser5"> <did>
+          <unittitle>Written Works</unittitle>
+        </did>
+        <c03 level="subseries"> <did>
+            <unittitle>Freelance Works</unittitle> </did>
+          <c04 level="file"> <did>
+              <container type="Box">16</container>
+              <container type="Folder">7</container>
+              <unittitle>Articles, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1971-1985</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">16</container>
+              <container type="Folder">8</container>
+              <unittitle>Articles Freelance to Send Out, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1981-2016</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">16</container>
+              <container type="Folder">9</container>
+              <unittitle>Freelance, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1990</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">16</container>
+              <container type="Folder">10</container>
+              <unittitle>Freelance Articles Xerox, 1971-1988 (1/2), </unittitle>
+              <unitdate era="ce" calendar="gregorian">1971-1988</unitdate> </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">17</container>
+              <container type="Folder">1</container>
+              <unittitle>Freelance Articles Xerox, 1971-1988 (2/2), </unittitle>
+              <unitdate era="ce" calendar="gregorian">1971-1988</unitdate> </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">17</container>
+              <container type="Folder">2</container>
+              <unittitle>Freelance by Author, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1971-1996</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">17</container>
+              <container type="Folder">3</container>
+              <unittitle>Freelance Articles Correspondence, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1981-1986</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">17</container>
+              <container type="Folder">4</container>
+              <unittitle>Freelance Cultural Clash T.V. Fox Television, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1987-1993</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">17</container>
+              <container type="Folder">5</container>
+              <unittitle>Freelance Newspaper Articles Austin + San Antonio, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1983-1984</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">17</container>
+              <container type="Folder">6</container>
+              <unittitle>Freelance Writing by Chuck, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1990</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">17</container>
+              <container type="Folder">7</container>
+              <unittitle>Miscellaneous Articles by Carlos Morton, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1970-2019</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">17</container>
+              <container type="Folder">8</container>
+              <unittitle>Miscellaneous History Research Carlos Morton, </unittitle>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">17</container>
+              <container type="Folder">9</container>
+              <unittitle>Newspaper Clippings and Production Advertisements from Album, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1974, 1978, 1983, undated</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">17</container>
+              <container type="Folder">10</container>
+              <unittitle>Research, Drafts, and Correspondence about Freelance Writing Projects and University of Texas, </unittitle>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">17</container>
+              <container type="Folder">11</container>
+              <unittitle>Research for Freelance Articles, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1985-1986</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">18</container>
+              <container type="Folder">1</container>
+              <unittitle>Research on Texas History, </unittitle>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+          </c04>
+        </c03> <c03 level="subseries"> <did>
+            <unittitle>Poetic Works</unittitle>
+          </did>
+          <c04 level="file"> <did>
+              <container type="Box">18</container>
+              <container type="Folder">2</container>
+              <unittitle>Poetry, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1968-1978</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">18</container>
+              <container type="Folder">3</container>
+              <unittitle>Poetry Press, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2013</unitdate>
+            </did>
+          </c04>
+        </c03> <c03 level="subseries"> <did>
+            <unittitle>Translation Work</unittitle>
+          </did>
+          <c04 level="file"> <did>
+              <container type="Box">18</container>
+              <container type="Folder">4</container>
+              <unittitle>The Fickle Finger of Lady Death, </unittitle>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">18</container>
+              <container type="Folder">5</container>
+              <unittitle>The Fickle Finger of Lady Death and Other Plays Translated by Carlos Morton, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1996</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">18</container>
+              <container type="Folder">6</container>
+              <unittitle>The Fickle Finger of Lady Death Press, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1996, undated</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">18</container>
+              <container type="Folder">7</container>
+              <unittitle>Fickle Finger Translation, </unittitle>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">18</container>
+              <container type="Folder">8</container>
+              <unittitle>Profane Games Press, </unittitle>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">18</container>
+              <container type="Folder">9</container>
+              <unittitle>Profane Games Programs, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1989</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">18</container>
+              <container type="Folder">10</container>
+              <unittitle>Programs, Press, and Correspondence about The Fickle Finger of Lady Death, The Tree, and Other Translations by Carlos Morton, </unittitle>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">18</container>
+              <container type="Folder">11</container>
+              <unittitle>The Tree - Program, </unittitle>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+          </c04>
+          <c04 level="file">
+            <did>
+              <container type="Box">18</container>
+              <container type="Folder">12</container>
+              <unittitle>University of Cincinnati Translation Project, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1990,1993-1997</unitdate>
+            </did>
+          </c04>
+        </c03> </c02> <c02 level="series" id="ser6"> <did>
+          <unittitle>Multiple Works</unittitle> </did>
+        <c03 level="file"> <did>
+            <container type="Box">18</container>
+            <container type="Folder">13</container>
+            <unittitle>Contracts, </unittitle>
+            <unitdate era="ce" calendar="gregorian">1980-1984</unitdate>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Box">18</container>
+            <container type="Folder">14</container>
+            <unittitle>Correspondence about Plays and Submissions to Writing Competitions, </unittitle>
+            <unitdate era="ce" calendar="gregorian">1989-1998</unitdate>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Box">19</container>
+            <container type="Folder">1</container>
+            <unittitle>Correspondence, </unittitle>
+            <unitdate era="ce" calendar="gregorian">1983-2018</unitdate>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Box">19</container>
+            <container type="Folder">2</container>
+            <unittitle>Correspondence, Plays, Publications Dormant File (1/2), </unittitle>
+            <unitdate era="ce" calendar="gregorian">1972-2005</unitdate>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Box">19</container>
+            <container type="Folder">3</container>
+            <unittitle>Correspondence, Plays, Publications Dormant File (2/2), </unittitle>
+            <unitdate era="ce" calendar="gregorian">1972-2005</unitdate>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Box">19</container>
+            <container type="Folder">4</container>
+            <unittitle>Correspondence, Plays, Publications Dormant File, </unittitle>
+            <unitdate era="ce" calendar="gregorian">1978-1997</unitdate>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Box">19</container>
+            <container type="Folder">5</container>
+            <unittitle>French Translations of Lilith and Dreaming on a Sunday in the Alameda, </unittitle>
+            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Box">19</container>
+            <container type="Folder">6</container>
+            <unittitle>Letters and Contracts for The Many Deaths of Danny Rosales and Freelance Writing, </unittitle>
+            <unitdate era="ce" calendar="gregorian">1981-1989</unitdate>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Box">20</container>
+            <container type="Folder">1</container>
+            <unittitle>Letters &amp; Correspondence, </unittitle> <unitdate era="ce" calendar="gregorian">1970-2019</unitdate>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Box">20</container>
+            <container type="Folder">2</container>
+            <unittitle>Miscellaneous files, </unittitle>
+            <unitdate era="ce" calendar="gregorian">1980-1981, 2008, 2013, 2015, undated</unitdate>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Box">20</container>
+            <container type="Folder">3</container>
+            <unittitle>Pancho Diablo + Miscellaneous Jardín Slides, </unittitle>
+            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Box">20</container>
+            <container type="Folder">4</container>
+            <unittitle>Rights/Title/Interest Exchange of Espiritu, La Malinche, Johnny Tenorio, </unittitle>
+            <unitdate era="ce" calendar="gregorian">1985-1986</unitdate>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Box">20</container>
+            <container type="Folder">5</container>
+            <unittitle>Photographic Slides of Danny Rosales, Rancho Hollywood, and Other Productions, </unittitle>
+            <unitdate era="ce" calendar="gregorian">undated</unitdate>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Box">20</container>
+            <container type="Folder">6</container>
+            <unittitle>Photographs from Johnny Tenorio, Pancho Diablo and Other Productions, </unittitle>
+            <unitdate era="ce" calendar="gregorian">1979-2000</unitdate>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Box">20</container>
+            <container type="Folder">7</container>
+            <unittitle>Playwriting stuff (Mio) articles for Paso del Norte and Brown Baby, </unittitle>
+            <unitdate era="ce" calendar="gregorian">2008</unitdate>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Box">20</container>
+            <container type="Folder">8</container>
+            <unittitle>Plays Correspondence etc. also Publication, </unittitle>
+            <unitdate era="ce" calendar="gregorian">1987-1992, 2000-2006</unitdate>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Box">20</container>
+            <container type="Folder">9</container>
+            <unittitle>Profane Games, The Tree, and Other Productions Translated by Carlos Morton Photographs from Photo Album, </unittitle>
+            <unitdate era="ce" calendar="gregorian">1987-1996, undated</unitdate>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Box">20</container>
+            <container type="Folder">10</container>
+            <unittitle>Programs, Advertisements, and Articles for The Fickle Finger of Lady Death and El Jardín, </unittitle>
+            <unitdate era="ce" calendar="gregorian">1993, 1996, 2001, 2015</unitdate>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Box">20</container>
+            <container type="Folder">11</container>
+            <unittitle>Programs, Advertisements, Reviews, and Academic Writing about Frontera Sin Fin and Suerte Ilegal, </unittitle>
+            <unitdate era="ce" calendar="gregorian">2004, 2007, 2012, 2014</unitdate>
+          </did>
+        </c03>
+        <c03 level="file">
+          <did>
+            <container type="Box">20</container>
+            <container type="Folder">12</container>
+            <unittitle>Programs and Advertisements for The Many Deaths of Danny Rosales and Dreaming on a Sunday in the Alameda, </unittitle>
+            <unitdate era="ce" calendar="gregorian">1980-2002</unitdate>
+          </did>
+        </c03>
+      </c02>
+      </c01>
     </dsc>
   </archdesc>
 </ead>
