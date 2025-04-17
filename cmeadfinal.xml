@@ -443,7 +443,7 @@
           <p>Part 2 of this collection consists of material purchased in 2020 and processed in 2025 </p>
         </scopecontent>
 
-<c02 level="series" id="ser4"> 
+  <c02 level="series" id="ser4"> 
     <did>
       <unittitle>Dramatic Works</unittitle>
     </did>
@@ -1932,8 +1932,7 @@
       </c04>
     </c03> 
   </c02> 
-
-    </c01>     
+      </c01>     
     </dsc>
   </archdesc>
 </ead>
