@@ -55,7 +55,7 @@
       <unitid label="Call No.:" encodinganalog="099" countrycode="US" repositorycode="US-txula">BENSON-MS MORTON, CARLOS</unitid>
       <unitid label="OCLC Record No.:" encodinganalog="001" countrycode="US" repositorycode="US-txula">23353329</unitid>
       <physdesc label="Extent:" encodinganalog="300$a">
-        <extent>10 linear foot</extent><!-- 10 linear inches, 13 color slides, 7 posters  -->
+        <extent>10 linear foot</extent>
       </physdesc>
       <repository label="Repository:" encodinganalog="852$a">
         <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://www.lib.utexas.edu/about/locations/benson">
@@ -72,7 +72,9 @@
     </bioghist>
     <scopecontent encodinganalog="520$b">
       <head>Scope and Contents Note</head>
-      <p>The collection is arranged into seven series: 1. Dramatic Works, 2. Written Works, 3. Multiple Works, 4. Educational/Professional Materials, 5. Personal Materials, 6. Audiovisual Material, and 7. Oversize Material.</p>
+      <p>Part 1 of the collection is organized in three series: 1. Literary productions, 2. Research and notes, and 3. Materials about Carlos Morton and his works. Also includes a folder of uncataloged later additions to the collection.</p>
+      <p>Consists of plays and essays by Carlos Morton, the bulk of which date from 1979 to 1984, along with materials relating to his plays. Among the play titles included in the collection are <title render="italic">Rancho Hollywood,</title> <title render="italic">Johnny Tenorio,</title> <title render="italic">Espíritu</title>, and <title render="italic">La malinche.</title> Extensive research materials on the murder of Richard Morales (on which the play <title render="italic">The Many Deaths of Danny Rosales</title> was based) are also included. Also included are programs, posters, and articles about Morton's work.</p>
+      <p>Part 2 of the collection is arranged into seven series: 1. Dramatic Works, 2. Written Works, 3. Multiple Works, 4. Educational/Professional Materials, 5. Personal Materials, 6. Audiovisual Material, and 7. Oversize Material.</p>
       <p>The materials in this collection date from roughly 1960 - 2020 and primarily document Dr. Carlos Morton’s career as a playwright in Texas, California, and abroad. Among the play titles included in the collection are <title render="italic">Rancho Hollywood</title>, <title>El Jardín</title>, <title render="italic">Johnny Tenorio</title>, <title render="italic">The Many Deaths of Danny Rosales</title>, <title render="italic">La Malinche</title>, and <title render="italic">Dreaming on a Sunday in the Alameda</title>. The materials also document Dr. Morton’s positions in theaters, cultural organizations, and academic institutions, as well as his relationships with various performances of his work. The collection includes some material about Dr. Morton’s personal life that documents his bonds and relationships with fellow authors and scholars.</p>
       <p>The documents consist primarily of playbills and promotional materials for Morton’s plays; scripts; research for plays; academic and freelance writing; poems; correspondence; and contracts for both his plays and professional career. The collection also includes articles, press, and academic writing about Dr. Morton and his work; photographs of performances of Dr. Morton’s plays; comics potentially written by Dr. Morton; event ephemera; compact cassette tapes; CDs; and a 7in. vinyl record.</p>
       <p>Series 1, Dramatic Works, includes a subseries for the following plays by Dr. Morton: <title render="italic">The Many Deaths of Danny Rosales</title>, <title render="italic">El Jardín</title>, <title render="italic">Rancho Hollywood</title>, <title render="italic">Los Dorados</title>, <title render="italic">Johnny Tenorio</title>, <title render="italic">Pancho Diablo</title>, <title render="italic">The Savior</title>, <title render="italic">The Miser of Mexico</title>, <title render="italic">Dreaming on a Sunday in the Alameda</title>, <title render="italic">La Malinche</title>, <title render="italic">Esperanza</title>, <title render="italic">Lilith</title>, <title>Brown Baby</title>, and <title render="italic">Trumpus Caesar</title>. Additionally, there are also 3 separate subseries for Dr. Morton’s Minor Plays, Youth Theatre Initiatives, and Unpublished Works.</p>
@@ -162,8 +164,8 @@
 
     <relatedmaterial encodinganalog="544 1">
       <head>Related Material</head>
-      <p>Silvia Gonzalez S. Papers</p>
-      <p>Carlos Villalongin Dramatic Company Records</p>
+      <p><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://txarchives.org/utlac/finding_aids/00203.xml">Silvia Gonzalez S. Papers</archref></p>
+      <p><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://txarchives.org/utlac/finding_aids/00147.xml">Carlos Villalongin Dramatic Company Records</archref></p>
     </relatedmaterial>
     <dsc type="combined">
       <head>Box and Folder Inventory</head>
