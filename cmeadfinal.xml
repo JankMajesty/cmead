@@ -601,7 +601,8 @@
                 <container type="Box">4</container>
                 <container type="Folder">5</container>
                 <unittitle>The Many Deaths of Danny Rosales, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1979-1993, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1979-1993, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -641,7 +642,9 @@
                 <container type="Box">4</container>
                 <container type="Folder">10</container>
                 <unittitle>The Many Deaths of Danny Rosales University of Texas at Austin, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1982-1985, 2000, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1982-1985, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2000, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -649,7 +652,9 @@
                 <container type="Box">4</container>
                 <container type="Folder">11</container>
                 <unittitle>Playwriting, New York Shakespeare Festival, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1984-1986, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1984-1986, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+
               </did>
             </c04>
             <c04 level="file">
@@ -657,7 +662,9 @@
                 <container type="Box">4</container>
                 <container type="Folder">12</container>
                 <unittitle>Police Brutality, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1970-1979, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1970-1979, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+
               </did>
               <scopecontent>
                 <p>Violence.</p>
@@ -668,7 +675,9 @@
                 <container type="Box">4</container>
                 <container type="Folder">13</container>
                 <unittitle>Press and Research for The Many Deaths of Danny Rosales, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1976-1978, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1976-1978, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+
               </did>
             </c04>
             <c04 level="file">
@@ -676,7 +685,9 @@
                 <container type="Box">4</container>
                 <container type="Folder">14</container>
                 <unittitle>Press - Research for Play, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1976, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1976, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+
               </did>
             </c04>
             <c04 level="file">
@@ -685,7 +696,9 @@
                 <container type="Folder">15</container>
                 <unittitle>Programs, Advertisements, and Audition Information for The Many Deaths of
                   Danny Rosales, </unittitle>
-                <unitdate era="ce" calendar="gregorian">2019, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">2019, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+
               </did>
             </c04>
             <c04 level="file">
@@ -693,7 +706,9 @@
                 <container type="Box">4</container>
                 <container type="Folder">16</container>
                 <unittitle>Publications for The Many Deaths of Danny Rosales, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1981, 1988</unitdate>
+                <unitdate era="ce" calendar="gregorian">1981, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1988</unitdate>
+
               </did>
             </c04>
             <c04 level="file">
@@ -718,7 +733,9 @@
                 <container type="Folder">2</container>
                 <unittitle>Scripts, Academic Writing, Press, and Research for The Many Deaths of
                   Danny Rosales, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1980-1995, 2018, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1980-1995, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2018, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -727,6 +744,7 @@
                 <container type="Folder">3</container>
                 <unittitle>Scripts for The Many Deaths of Danny Rosales, </unittitle>
                 <unitdate era="ce" calendar="gregorian">1976, 1994</unitdate>
+                <unitdate era="ce" calendar="gregorian">1994</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -734,7 +752,9 @@
                 <container type="Box">5</container>
                 <container type="Folder">4</container>
                 <unittitle>Scripts, Press and Research for The Many Deaths of Danny Rosales, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1976, 1988-1989, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1976, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1988-1989, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -763,7 +783,11 @@
                 <container type="Box">5</container>
                 <container type="Folder">7</container>
                 <unittitle>El Jardín, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1976, 1985-1988, 1992-2009, 2017, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1976, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1985-1988, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1992-2009, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2017, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -779,7 +803,10 @@
                 <container type="Box">5</container>
                 <container type="Folder">9</container>
                 <unittitle>El Jardín Press, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1980-1984, 1988, 1990-1994, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1980-1984, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1988, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1990-1994, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -844,6 +871,9 @@
                 <container type="Folder">17</container>
                 <unittitle>Programs El Jardín, </unittitle>
                 <unitdate era="ce" calendar="gregorian">1970, 1983-1988, 1994, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1983-1988, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1994, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -859,7 +889,9 @@
                 <container type="Box">6</container>
                 <container type="Folder">1</container>
                 <unittitle>Reviews and Newspaper Articles El Jardín, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1976-1977, 1988 undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1976-1977, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1988, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -896,7 +928,9 @@
                 <container type="Box">6</container>
                 <container type="Folder">5</container>
                 <unittitle>Rancho Hollywood, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1990, 1995 undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1990, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1995, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -933,7 +967,10 @@
                 <container type="Box">6</container>
                 <container type="Folder">9</container>
                 <unittitle>Los Dorados, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1979, 1998, 2004, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1979, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1998, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2004, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1019,7 +1056,8 @@
                 <container type="Box">7</container>
                 <container type="Folder">5</container>
                 <unittitle>Johnny Tenorio European Tour, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1987-1988, 2016</unitdate>
+                <unitdate era="ce" calendar="gregorian">1987-1988, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2016</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1076,7 +1114,8 @@
                 <container type="Box">7</container>
                 <container type="Folder">12</container>
                 <unittitle>Reviews and Spanish Translation for Johnny Tenorio, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1988, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1988, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1084,7 +1123,9 @@
                 <container type="Box">7</container>
                 <container type="Folder">13</container>
                 <unittitle>Reviews, Music, and Academic Writing for Johnny Tenorio, </unittitle>
-                <unitdate era="ce" calendar="gregorian">2003, 2012, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">2003, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2012, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1121,7 +1162,8 @@
                 <container type="Box">8</container>
                 <container type="Folder">4</container>
                 <unittitle>New York Shakespeare Festival Latino - Pancho Diablo Correspondence, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1979, 1987-1988</unitdate>
+                <unitdate era="ce" calendar="gregorian">1979, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1987-1988</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1129,7 +1171,8 @@
                 <container type="Box">8</container>
                 <container type="Folder">5</container>
                 <unittitle>Pancho Diablo, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1987, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1987, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1154,6 +1197,7 @@
                 <container type="Folder">9</container>
                 <unittitle>Programs Pancho Diablo, </unittitle>
                 <unitdate era="ce" calendar="gregorian">1985, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1174,7 +1218,9 @@
                 <container type="Box">8</container>
                 <container type="Folder">11</container>
                 <unittitle>Research and Scripts for The Savior, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1973-1974, 2013, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1973-1974, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2013, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1190,7 +1236,8 @@
                 <container type="Box">9</container>
                 <container type="Folder">1</container>
                 <unittitle>Romero, el Salvador, </unittitle>
-                <unitdate era="ce" calendar="gregorian">2001-2002, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">2001-2002, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1198,7 +1245,8 @@
                 <container type="Box">9</container>
                 <container type="Folder">2</container>
                 <unittitle>Romero El Salvador Press, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1987, 2002</unitdate>
+                <unitdate era="ce" calendar="gregorian">1987, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2002</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1214,7 +1262,8 @@
                 <container type="Box">9</container>
                 <container type="Folder">4</container>
                 <unittitle>El Salvador Español, </unittitle>
-                <unitdate era="ce" calendar="gregorian">2000, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">2000, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1222,7 +1271,9 @@
                 <container type="Box">9</container>
                 <container type="Folder">5</container>
                 <unittitle>Santos, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1994, 2013, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1994, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2013, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1238,7 +1289,8 @@
                 <container type="Box">9</container>
                 <container type="Folder">7</container>
                 <unittitle>The Savior, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1994, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1994, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1246,7 +1298,8 @@
                 <container type="Box">9</container>
                 <container type="Folder">8</container>
                 <unittitle>The Savior, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1995, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1995, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1275,7 +1328,8 @@
                 <container type="Box">9</container>
                 <container type="Folder">11</container>
                 <unittitle>The Miser of Mexico, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1989-1999, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1989-1999, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1283,7 +1337,9 @@
                 <container type="Box">9</container>
                 <container type="Folder">12</container>
                 <unittitle>The Miser of Mexico - Press (Includes 2 CDs), </unittitle>
-                <unitdate era="ce" calendar="gregorian">1990-1991, 1995, 2001</unitdate>
+                <unitdate era="ce" calendar="gregorian">1990-1991, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1995, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2001</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1315,7 +1371,8 @@
                 <container type="Box">9</container>
                 <container type="Folder">16</container>
                 <unittitle>The Miser of Monterrey (Mexico) Correspondence, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1990, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1990, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
           </c03>
@@ -1336,7 +1393,8 @@
                 <container type="Box">10</container>
                 <container type="Folder">1</container>
                 <unittitle>The Child Diego (Dreaming on a Sunday in the Alameda), </unittitle>
-                <unitdate era="ce" calendar="gregorian">1995, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1995, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1344,7 +1402,9 @@
                 <container type="Box">10</container>
                 <container type="Folder">2</container>
                 <unittitle>The Child Diego Tucson, Arizona, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1992-1994, 2000, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1992-1994, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2000, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1438,7 +1498,10 @@
                 <container type="Box">11</container>
                 <container type="Folder">1</container>
                 <unittitle>La Malinche press, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1985, 1989, 1995-1997, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1985, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1989, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1995-1997, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1470,7 +1533,9 @@
                 <container type="Box">11</container>
                 <container type="Folder">5</container>
                 <unittitle>Press, Photographs, and Academic Writing about La Malinche, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1985, 2004, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1985, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2004, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1499,7 +1564,8 @@
                 <container type="Box">11</container>
                 <container type="Folder">8</container>
                 <unittitle>Esperanza, </unittitle>
-                <unitdate era="ce" calendar="gregorian">2000-2003, 2016</unitdate>
+                <unitdate era="ce" calendar="gregorian">2000-2003, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2016</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1515,7 +1581,10 @@
                 <container type="Box">11</container>
                 <container type="Folder">10</container>
                 <unittitle>Esperanza University of California Riverside, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1965, 1983, 1999 -2003, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1965, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1983, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1999-2003, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
           </c03>
@@ -1528,7 +1597,8 @@
                 <container type="Box">11</container>
                 <container type="Folder">11</container>
                 <unittitle>Lilith, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1977, 1998</unitdate>
+                <unitdate era="ce" calendar="gregorian">1977, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1998</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1589,7 +1659,12 @@
                 <container type="Box">12</container>
                 <container type="Folder">1</container>
                 <unittitle>Brown Baby Production Materials, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1991, 2003, 2006, 2016, 2018, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1991, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2003, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2006, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2016, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2018, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1626,7 +1701,12 @@
                 <container type="Box">12</container>
                 <container type="Folder">5</container>
                 <unittitle>Trumpus Caesar Research + Original Adaptation of Julius Caesar, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1973, 2010, 2014, 2016-2017, 2020, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1973, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2010, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2014, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2016-2017, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2020, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1679,7 +1759,9 @@
                 <container type="Box">12</container>
                 <container type="Folder">11</container>
                 <unittitle>Brown Buffalo Research + Drafts (1/2), </unittitle>
-                <unitdate era="ce" calendar="gregorian">1967, 2011-2017, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1967, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2011-2017, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1687,7 +1769,9 @@
                 <container type="Box">12</container>
                 <container type="Folder">12</container>
                 <unittitle>Brown Buffalo Research + Drafts (2/2), </unittitle>
-                <unitdate era="ce" calendar="gregorian">1967, 2011-2017, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1967, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2011-2017, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1703,7 +1787,9 @@
                 <container type="Box">12</container>
                 <container type="Folder">14</container>
                 <unittitle>Cuentos, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1984, 1988-1989, 1995</unitdate>
+                <unitdate era="ce" calendar="gregorian">1984, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1988-1989, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1995</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1719,7 +1805,8 @@
                 <container type="Box">13</container>
                 <container type="Folder">2</container>
                 <unittitle>Cuentos Press, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1989, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1989, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1734,9 +1821,14 @@
               <did>
                 <container type="Box">13</container>
                 <container type="Folder">4</container>
-                <unittitle>Denver Center Theater Contracts, etc. (Includes floppy disk), </unittitle>
-                <unitdate era="ce" calendar="gregorian">1985-1988, 1993, undated</unitdate>
+                <unittitle>Denver Center Theater Contracts, etc., </unittitle>
+                <unitdate era="ce" calendar="gregorian">1985-1988, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1993, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
+              <scopecontent>
+                <p>Includes floppy disk</p>
+              </scopecontent>
             </c04>
             <c04 level="file">
               <did>
@@ -1832,7 +1924,8 @@
                 <container type="Box">14</container>
                 <container type="Folder">1</container>
                 <unittitle>Paso Del Norte Unpublished Manuscript, </unittitle>
-                <unitdate era="ce" calendar="gregorian">2003, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">2003, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1840,7 +1933,8 @@
                 <container type="Box">14</container>
                 <container type="Folder">2</container>
                 <unittitle>RadioNovela, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1995-1997, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1995-1997, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1872,7 +1966,8 @@
                 <container type="Box">14</container>
                 <container type="Folder">6</container>
                 <unittitle>Zona Rosa Research, </unittitle>
-                <unitdate era="ce" calendar="gregorian">2008-2011, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">2008-2011, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -1880,7 +1975,8 @@
                 <container type="Box">14</container>
                 <container type="Folder">7</container>
                 <unittitle>Zona Rosa Manuscript, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1996, 2011</unitdate>
+                <unitdate era="ce" calendar="gregorian">1996, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2011</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -2074,7 +2170,8 @@
                 <container type="Box">16</container>
                 <container type="Folder">3</container>
                 <unittitle>T.V. Writing/Press/Contract, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1987-1988, 2015</unitdate>
+                <unitdate era="ce" calendar="gregorian">1987-1988, </unitdate>
+                <unitdate era="ce" calendar="gregorian">2015</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -2090,7 +2187,8 @@
                 <container type="Box">16</container>
                 <container type="Folder">5</container>
                 <unittitle>Unpublished Plays, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1976, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1976, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -2212,7 +2310,10 @@
                 <container type="Box">17</container>
                 <container type="Folder">9</container>
                 <unittitle>Newspaper Clippings and Production Advertisements from Album, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1974, 1978, 1983, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1974, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1978, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1983, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -2288,7 +2389,8 @@
                 <container type="Box">18</container>
                 <container type="Folder">6</container>
                 <unittitle>The Fickle Finger of Lady Death Press, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1996, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1996, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -2337,7 +2439,8 @@
                 <container type="Box">18</container>
                 <container type="Folder">12</container>
                 <unittitle>University of Cincinnati Translation Project, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1990,1993-1997</unitdate>
+                <unitdate era="ce" calendar="gregorian">1990, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1993-1997</unitdate>
               </did>
             </c04>
           </c03>
@@ -2424,7 +2527,11 @@
               <container type="Box">20</container>
               <container type="Folder">2</container>
               <unittitle>Miscellaneous files, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1980-1981, 2008, 2013, 2015, undated</unitdate>
+              <unitdate era="ce" calendar="gregorian">1980-1981, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2008, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2013, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2015, </unitdate>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
             </did>
           </c03>
           <c03 level="file">
@@ -2473,7 +2580,8 @@
               <container type="Box">20</container>
               <container type="Folder">8</container>
               <unittitle>Plays Correspondence etc. also Publication, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1987-1992, 2000-2006</unitdate>
+              <unitdate era="ce" calendar="gregorian">1987-1992, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2000-2006</unitdate>
             </did>
           </c03>
           <c03 level="file">
@@ -2482,7 +2590,8 @@
               <container type="Folder">9</container>
               <unittitle>Profane Games, The Tree, and Other Productions Translated by Carlos Morton
                 Photographs from Photo Album, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1987-1996, undated</unitdate>
+              <unitdate era="ce" calendar="gregorian">1987-1996, </unitdate>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
             </did>
           </c03>
           <c03 level="file">
@@ -2491,7 +2600,10 @@
               <container type="Folder">10</container>
               <unittitle>Programs, Advertisements, and Articles for The Fickle Finger of Lady Death
                 and El Jardín, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1993, 1996, 2001, 2015</unitdate>
+              <unitdate era="ce" calendar="gregorian">1993, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1996, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2001, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2015</unitdate>
             </did>
           </c03>
           <c03 level="file">
@@ -2500,7 +2612,10 @@
               <container type="Folder">11</container>
               <unittitle>Programs, Advertisements, Reviews, and Academic Writing about Frontera Sin
                 Fin and Suerte Ilegal, </unittitle>
-              <unitdate era="ce" calendar="gregorian">2004, 2007, 2012, 2014</unitdate>
+              <unitdate era="ce" calendar="gregorian">2004, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2007, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2012, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2014</unitdate>
             </did>
           </c03>
           <c03 level="file">
