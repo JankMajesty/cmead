@@ -117,7 +117,7 @@
           render="italic">The Many Deaths of Danny Rosales</title> was based) are also included.
         Also included are programs, posters, and articles about Morton's work.</p>
       <p>Part 2: Additions</p>
-      <p>Part 2: Additions is arranged into seven series: 1. Dramatic Works, 2. Written Works, 3.
+      <p>Part 2 Additions is arranged into seven series: 1. Dramatic Works, 2. Written Works, 3.
         Multiple Works, 4. Educational/Professional Materials, 5. Personal Materials, 6. Audiovisual
         Material, and 7. Oversize Material.</p>
       <p>The materials in this collection date from roughly 1960 - 2020 and primarily document Dr.
@@ -198,7 +198,7 @@
     <prefercite encodinganalog="524">
       <head>Preferred Citation</head>
       <p>Carlos Morton Papers, Nettie Lee Benson Latin American Collection, University of Texas
-        Libraries, The University of Texas at Austin.</p>
+      Libraries, The University of Texas at Austin.</p>
     </prefercite>
     <acqinfo encodinganalog="541">
       <head>Acquisition Information</head>
@@ -209,7 +209,7 @@
       <head>Processing Information</head>
       <p>Previous processing work by Benson staff, before 1992.</p>
       <p>Part 2 of the collection processed by Ashton Jones, Lucas McGill, Jonathan Leary, and
-        Charlene Mandimutsira (UT School of Information interns), Spring, 2025.</p>
+      Charlene Mandimutsira (UT School of Information interns), Spring, 2025.</p>
     </processinfo>
 
     <controlaccess>
@@ -533,7 +533,7 @@
             <container type="Folder">7</container>
             <unittitle>Photograph and slides, </unittitle>
             <unitdate era="ce" calendar="gregorian" certainty="approximate" normal="1975/1984">
-              undated</unitdate>
+            undated</unitdate>
           </did>
         </c02>
         <c02 level="file">
@@ -554,7 +554,7 @@
           <unittitle>Part 2: Additions</unittitle>
         </did>
         <scopecontent>
-          <p>Part 2 of this collection consists of material purchased in 2020 and processed in 2025 </p>
+          <p>Part 2 of this collection consists of material purchased in 2020 and processed in 2025</p>
         </scopecontent>
         <c02 level="series" id="ser4">
           <did>
