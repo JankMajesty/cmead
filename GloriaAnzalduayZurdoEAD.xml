@@ -1,0 +1,922 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:isbn:1-931666-22-9 ead.xsd" relatedencoding="MARC21">
+  <!-- Template for BLAC use. Incorporates elements added after the switch to Schema. Created by Carla Alvarez, 2016. -->
+  <eadheader audience="internal" langencoding="iso639-2b" countryencoding="iso3166-1" repositoryencoding="iso15511" scriptencoding="iso15924" dateencoding="iso8601" findaidstatus="edited-full-draft">
+    <eadid countrycode="US" mainagencycode="US-txula" url="https://txarchives.org/utlac/finding_aids/00538.xml">urn:taro:utexas.blac.00538</eadid>
+    <filedesc>
+      <titlestmt>
+        <titleproper encodinganalog="245$a">Society for the Study of Gloria Anzald&#xfa;a and El Mundo Zurdo Conference Records</titleproper>
+        <author encodinganalog="245$c">Nettie Lee Benson Latin American Collection</author>
+      </titlestmt>
+      <publicationstmt>
+        <publisher encodinganalog="260$b">Nettie Lee Benson Latin American Collection</publisher>
+        <date encodinganalog="260$c" era="ce" calendar="gregorian" normal="2021">2021</date>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>Finding aid encoded by Carla O. Alvarez, <date>2021</date>
+      </creation>
+      <langusage>Finding aid written in <language langcode="eng" scriptcode="Latn">English.</language></langusage>
+      <descrules>Describing Archives: A Content Standard (DACS)</descrules>
+    </profiledesc>
+    <revisiondesc>
+      <change>
+        <date>2021</date>
+        <item>Carla O. Alvarez updated finding aid after processing.</item>
+      </change>
+			<change>
+				<date normal="2021-11">2021 November</date>
+				<item>Edited by Devon Murphy to update control access terms and formatting based on the TARO Control Access List.</item>
+			</change>
+    </revisiondesc>
+  </eadheader>
+  <archdesc level="collection" type="inventory" audience="external" relatedencoding="MARC21">
+    <did>
+      <head>Descriptive Summary</head>
+      <origination label="Creator:">
+        <corpname source="lcnaf" encodinganalog="110">Society for the Study of Gloria Anzald&#xfa;a</corpname>
+      </origination>
+      <unittitle label="Title:" encodinganalog="245$a">Society for the Study of Gloria Anzald&#xfa;a and El Mundo Zurdo Conference Records</unittitle>
+      <unitdate label="Dates:" encodinganalog="245$f" type="inclusive" normal="2006/2020" era="ce" calendar="gregorian">2006-2020</unitdate>
+      <unitid label="Accession No.:" encodinganalog="099" countrycode="US" repositorycode="US-txula">2012-07</unitid>
+      <physdesc label="Extent:" encodinganalog="300$a">
+        <extent>5 linear feet</extent>
+      </physdesc>
+      <langmaterial label="Language:" encodinganalog="546$a">
+        <language langcode="eng" scriptcode="Latn">English, </language>
+        <language langcode="spa" scriptcode="Latn">Spanish</language>
+      </langmaterial>   
+      <repository label="Repository:" encodinganalog="852$a">
+        <extref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://www.lib.utexas.edu/about/locations/benson">
+          <corpname><subarea>Benson Latin American Collection,</subarea> The University of Texas at Austin</corpname>
+        </extref>
+      </repository>
+      <abstract label="Abstract:" encodinganalog="520$a">Collection documents El Mundo Zurdo Conference, an event organized by the Society for the Study of Gloria Anzald&#xfa;a (SSGA). The collection includes programs, video recordings, and ephemera.</abstract>
+    </did>
+    
+    <bioghist encodinganalog="545">
+      <head>Historical Note</head>
+      <p>The Society for the Study of Gloria Anzald&#xfa;a (SSGA) was founded in 2007 by Dr. Norma E. Cant&#xfa; to honor the life and legacy of Gloria Evangelina Anzald&#xfa;a.</p>
+      <p>In 2007 the G&#xfc;eras y Prietas symposium was organized by Norma E. Cant&#xfa;, Jackie Cuevas, AnaLouise Keating, Amelia Montes, Elaine Perez, Sonia Sald&#xed;var-Hull, Glenda Schaffer, and Rita Urquijo-Ruiz.</p>
+      <p>El Mundo Zurdo conference (EMZ) is convened by the society every 18 months. Conference particiants include scholars, artists, and community members who engage with Anzald&#xfa;a's work.</p>
+      
+      <chronlist>
+        <listhead>
+          <head01>Events</head01>
+        </listhead>
+        <chronitem>
+          <date normal="2007-11-03">2007 November 03</date>
+          <event>G&#xfc;eras y Prietas Symposium. University of Texas at San Antonio</event>
+        </chronitem>
+        <chronitem>
+          <date normal="2009-05-16/2009-05-17">2009 May 16-17</date>
+          <event>Conference. University of Texas at San Antonio</event>
+        </chronitem>
+        <chronitem>
+          <date normal="2010-11-04/2010-11-06">2010 November 4-6</date>
+          <event>Art and Performance. University of Texas at San Antonio</event>
+        </chronitem>
+        <chronitem>
+          <date normal="2012-05-16/2012-05-19">2012 May 16-19</date>
+          <event>Conference. University of Texas at San Antonio</event>
+        </chronitem>
+        <chronitem>
+          <date normal="2013-11-14/2013-11-16">2013 November 14-16</date>
+          <event>Activism, Philosophy, and Pedagogy. University of Texas at San Antonio</event>
+        </chronitem>
+        <chronitem>
+          <date normal="2015-05-27/2015-05-30">2015 May 27-30</date>
+          <event>Memoria y Conocimiento: Interdisciplinary Anzalduan Studies / Archive, Legacy, and Thought. University of Texas at Austin</event>
+        </chronitem>
+        <chronitem>
+          <date normal="2016-11-03/2016-11-05">2016 November 3-5</date>
+          <event>Nepantla: Theories and Practices. University of Texas at San Antonio</event>
+        </chronitem>
+        <chronitem>
+          <date normal="2018-05-17/2018-05-19">2018 May 17-19</date>
+          <event>10th conference. Borderlands 1987-2017: The 30th anniversary of Borderlands/La Frontera: The New Mestiza</event>
+        </chronitem>
+        <chronitem>
+          <date normal="2019-10-31/2019-11-02">2019 October 31-November 02</date>
+          <event>Planetary Citizenship: Anzalduan Thought Across Communities, Histories, Cultures. Trinity University (San Antonio, Texas)</event>
+        </chronitem>
+        <chronitem>
+          <date normal="2020-09-26">2020 September 26</date>
+          <event>Tiempos Nepantla / Nepantla Times. Virtual/online event.</event>
+        </chronitem>
+      </chronlist>
+    </bioghist>
+    <scopecontent encodinganalog="520$b">
+      <head>Scope and Contents Note</head>
+      <p>The collection is organized into four series: Administrative and Subject Files, Publications, Digital Content, and Artifacts and Memorabilia.</p>
+      <p>The <ref target="ser1">Administrative and Subject Files</ref> includes early SSGA membership lists, agendas, flyers, and conference planning files. The planning files include program/schedule information, flyers, certificates of attendance, evaluation and release forms.</p>
+      <p><ref target="ser2">Publications</ref> series includes the official symposium program for G&#xfc;eras y Prietas and a set of conference programs. This series also includes selected works presented at El Mundo Zurdo conferences, a book of works presented at the symposium, and a proof copy of the Borderlands/La Frontera critical edition (forthcoming summer/fall 2021).</p> 
+      <p><ref target="ser3">Digital Content</ref> includes conference planning files, photographs, and El Mundo Zurdo video recordings. The series is organized by carrier format: flash drive, memory SD cards, and compact discs. The compact discs mainly include DVD-R discs and some CD-R discs.</p>
+      <p><ref target="ser4">Artifacts and Memorabilia</ref> includes candles, memory stones with Anzalduan quotes, conference bags, T-shirts, and posters.</p>
+    </scopecontent>
+    
+    <accessrestrict encodinganalog="506">
+      <head>Access Restrictions</head>
+      <p>Advance notice is required to access material from Box 5. Other material unrestricted.</p>
+    </accessrestrict>
+    <userestrict encodinganalog="540">
+      <head>Use Restrictions</head>
+      <p>Standard copyright restrictions apply.</p>
+    </userestrict>
+
+    <controlaccess>
+      <head>Index Terms</head>
+      <controlaccess>
+        <head>Subjects (Persons)</head>
+        <persname source="lcnaf" encodinganalog="600">Anzald&#xfa;a, Gloria</persname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Organizations)</head>
+        <corpname source="lcnaf" encodinganalog="610">Society for the Study of Gloria Anzald&#xfa;a</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Subjects (Meetings)</head>
+        <corpname source="lcnaf" encodinganalog="611">Mundo Zurdo (Conference)</corpname>
+      </controlaccess>
+      <controlaccess>
+        <head>Places</head>
+        <geogname source="lcnaf" encodinganalog="651">Texas</geogname>
+      </controlaccess>
+      <controlaccess>
+        <head>Document Types</head>
+        <genreform source="lcgft" encodinganalog="655">conference materials</genreform>
+      </controlaccess>
+    </controlaccess>
+    
+    <relatedmaterial encodinganalog="544 1">
+      <head>Related Material</head>
+      <p><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://txarchives.org/utlac/finding_aids/00189.xml">Gloria Evangelina Anzald&#xfa;a Papers</archref></p>
+      <p><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://txarchives.org/utlac/finding_aids/00406.xml">Records of the Memorial and Tribute to Gloria Anzald&#xfa;a</archref></p>
+      <p><archref xmlns:xlink="http://www.w3.org/1999/xlink" xlink:type="simple" xlink:show="new" xlink:actuate="onRequest" xlink:href="https://txarchives.org/utlac/finding_aids/00533.xml">Collection on Gloria Evangelina Anzald&#xfa;a</archref></p>
+    </relatedmaterial>
+    
+    <!-- BEGIN Administrative Information -->
+    <prefercite encodinganalog="524">
+      <head>Preferred Citation</head>
+      <p>Society for the Study of Gloria Anzald&#xfa;a and El Mundo Zurdo Conference Records, Nettie Lee Benson Latin American Collection, University of Texas Libraries, The University of Texas at Austin.</p>
+    </prefercite>
+    <acqinfo encodinganalog="541">
+      <head>Acquisition Information</head>
+      <p>Donation.</p>
+      <p>Accession numbers: 2012-07, 2019-36, 2021-07</p>
+    </acqinfo>
+    <processinfo encodinganalog="583">
+      <head>Processing Information</head>
+      <p>Collection processed by Carla O. Alvarez, 2021.</p>
+		</processinfo>
+    <accruals encodinganalog="584">
+      <head>Additions</head>
+      <p>Further materials are expected for this collection.</p>
+    </accruals>
+<!-- END Administrative Information -->
+    
+    <!-- BEGIN Description of Subordinate Components  -->
+    <dsc type="combined">
+      <head>Box and Folder Inventory</head>
+
+      <c01 level="series" id="ser1">
+        <did>
+          <unittitle>Administrative and Subject Files</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">1</container>
+            <unittitle>Agendas, </unittitle>
+            <unitdate era="ce" calendar="gregorian" normal="2007">2007, </unitdate>
+            <unitdate era="ce" calendar="gregorian" normal="2009/2010">2009-2010</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">2</container>
+            <unittitle>Correspondence (printed emails), </unittitle>
+            <unitdate era="ce" calendar="gregorian" normal="2007">2007</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">3</container>
+            <unittitle>General files, flyers, </unittitle>
+            <unitdate era="ce" calendar="gregorian" normal="2007/2009">2007-2009</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">4</container>
+            <unittitle>Membership contact list, </unittitle>
+            <unitdate era="ce" calendar="gregorian" normal="2006">2006</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">5</container>
+            <unittitle>Membership list, </unittitle>
+            <unitdate era="ce" calendar="gregorian" normal="2007">2007</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">6</container>
+            <unittitle>Newsletter (Words from the Director), </unittitle>
+            <unitdate era="ce" calendar="gregorian" certainty="approximate" normal="2007">circa 2007</unitdate>
+          </did>
+        </c02>        
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <container type="Folder">7</container>
+            <unittitle>The Adelante Project consent to publish signed forms, </unittitle>
+            <unitdate era="ce" calendar="gregorian" normal="2008">2008</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">1</container>
+            <unittitle>Planning files</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="Box">1</container>
+              <container type="Folder">8</container>
+              <unittitle>Symposium/conference planning, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2007">2007</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">1</container>
+              <container type="Folder">9</container>
+              <unittitle>G&#xfc;eras y Prietas symposium presenters list, papers, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2007">2007</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">1</container>
+              <container type="Folder">10</container>
+              <unittitle>Program Committee files, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2008/2009">2008-2009</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">1</container>
+              <container type="Folder">11</container>
+              <unittitle>Conference planning (program/schedule, certificates of participation), </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2008/2009">2008-2009</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">1</container>
+              <container type="Folder">12</container>
+              <unittitle>Panel proposals, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2009">2009</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">1</container>
+              <container type="Folder">13</container>
+              <unittitle>Conference planning (flyers, clipping, release forms, evaluations, cetificates), </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2010">2010</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">1</container>
+              <container type="Folder">14</container>
+              <unittitle>Conference planning, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2012">2012</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">1</container>
+              <container type="Folder">15</container>
+              <unittitle>Conference planning (schedule, evaluation form), </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2013">2013</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">1</container>
+              <container type="Folder">16</container>
+              <unittitle>Conference planning (files, flyers, blank certificate), </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">2</container>
+              <container type="Folder">1</container>
+              <unittitle>Conference planning, art competition submissions, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">2</container>
+              <container type="Folder">2</container>
+              <unittitle>Conference planning (program, evaluation forms, release forms), </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">2</container>
+              <container type="Folder">3</container>
+              <unittitle>Conference planning, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2018">2018</unitdate>
+            </did>
+            <scopecontent><p>Includes program, evaluation forms, newsletters, postcard size flyer, and altar installation material (images, notes).</p></scopecontent>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">2</container>
+              <container type="Folder">4</container>
+              <unittitle>Conference planning (evaluations, flyer, ofrendas de palabras), </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2019">2019</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <unittitle>Permission to photograph/video tape/live stream forms</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="Box">2</container>
+              <container type="Folder">5</container>
+              <unitdate era="ce" calendar="gregorian" normal="2018">2018</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">2</container>
+              <container type="Folder">6</container>
+              <unitdate era="ce" calendar="gregorian" normal="2019">2019</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <container type="Folder">7</container>
+            <unittitle>Marathon reading of Borderlands/La Frontera (Anzald&#xfa;a reading in New York City), </unittitle>
+            <unitdate era="ce" calendar="gregorian" normal="2019">2019</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="ser2">
+        <did>
+          <unittitle>Publications</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="Box">2</container>
+            <unittitle>Programs</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="Box">2</container>
+              <container type="Folder">8</container>
+              <unittitle>G&#xfc;eras y Prietas: Celebrating 20 years of Borderlands/La Frontera official symposium program, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2007">2007</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">2</container>
+              <container type="Folder">9</container>
+              <unittitle>Conference, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2009">2009</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">2</container>
+              <container type="Folder">10</container>
+              <unittitle>Conference, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2010">2010</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">1</container>
+              <unittitle>Conference, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2012">2012</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">2</container>
+              <unittitle>Conference, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2013">2013</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">3</container>
+              <unittitle>Conference, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2015">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">4</container>
+              <unittitle>Conference, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2016">2016</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">5</container>
+              <unittitle>Conference, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2018">2018</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">3</container>
+              <container type="Folder">6</container>
+              <unittitle>Conference, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2019">2019</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">7</container>
+            <unittitle>La Voz de Esperanza, San Antonio, Texas (Volume 17, Issue 6) Anzald&#xfa;a on the cover, </unittitle>
+            <unitdate era="ce" calendar="gregorian" normal="2004-07/2004-08">2004 July/August</unitdate>
+          </did>
+        </c02>        
+        <c02 level="file">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">8</container>
+            <unittitle>GAL Project newsletter #2 (Gloria Anzald&#xfa;a Legacy Project), </unittitle>
+            <unitdate era="ce" calendar="gregorian" normal="2007-10">2007 October</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">9</container>
+            <unittitle>This Bridge We Call Home: Finding Gloria (Volume 1, second edition), </unittitle>
+            <unitdate era="ce" calendar="gregorian" normal="2007">2007</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">10</container>
+            <unittitle>G&#xfc;eras y Prietas: Celebrating 20 years of Borderlands/La Frontera edited by Norma E. Cant&#xfa; and Christina L. Gutierrez, </unittitle>
+            <unitdate era="ce" calendar="gregorian" normal="2009">2009</unitdate>
+          </did>
+          <scopecontent><p>Published by The Adelante Project.</p></scopecontent>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">3</container>
+            <container type="Folder">11</container>
+            <unittitle>El Mundo Zurdo 2: Selected works of the 2010 meeting of the Society for the Study of Gloria Anzald&#xfa;a edited by Sonia Sald&#xed;var-Hull, Norma Alarc&#xf3;n, and Rita E. Urquijo-Ruiz, </unittitle>
+            <unitdate era="ce" calendar="gregorian" normal="2012">2012</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">1</container>
+            <unittitle>El Mundo Zurdo 7: Selected works of the 2018 meeting of the Society for the Study of Gloria Anzald&#xfa;a edited by Sara A. Ram&#xed;rez, Larissa M. Mercado-L&#xf3;pez, and Sonia Sald&#xed;var-Hull, </unittitle>
+            <unitdate era="ce" calendar="gregorian" normal="2019">2019</unitdate>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">4</container>
+            <container type="Folder">2</container>
+            <unittitle>Borderlands/La Frontera Critical Edition edited by Ricardo F. Vivancos-P&#xe9;rez and Norma Elia Cant&#xfa; (proof copy), </unittitle>
+            <unitdate era="ce" calendar="gregorian" certainty="approximate" normal="2020">circa 2020</unitdate>
+          </did>
+        </c02>
+      </c01>
+      <c01 level="series" id="ser3">
+        <did>
+          <unittitle>Digital Content</unittitle>
+        </did>
+        <accessrestrict><p>Advance notice is required to access material from Box 5.</p></accessrestrict>
+        <c02 level="file">
+          <did>
+            <container type="Box">5</container>
+            <container type="Item">1</container>
+            <unittitle>El Mundo Zurdo, Society for Study of Gloria Anzald&#xfa;a (flash drive, PNY 64GB)</unittitle>
+          </did>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">5</container>
+            <unittitle>Memory SD (secure digital) cards</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="Box">5</container>
+              <container type="Item">2</container>
+              <unittitle>Number 1 (SanDisk Extreme Plus, SD HC, 90 MB/32 GB)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">5</container>
+              <container type="Item">3</container>
+              <unittitle>Number 2 (SanDisk Ultra Plus, SD HC, 48 MB/32 GB), </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2016">2016</unitdate>
+            </did>
+            <scopecontent><p>Envelope note indicates that card number 2 has pictures, 2016.</p></scopecontent>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">5</container>
+              <container type="Item">4</container>
+              <unittitle>Number 3 (SanDisk Extreme, SD HC, 90 MB/16 GB)</unittitle>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">5</container>
+              <container type="Item">5</container>
+              <unittitle>Number 4 (Lexar Professional, SD XC, 95 MB/64 GB)</unittitle>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">5</container>
+            <unittitle>Compact discs</unittitle>
+          </did>
+          <scopecontent><p>Mainly DVD-R and some CD-R discs.</p></scopecontent>
+          <c03 level="file">
+            <did>
+              <container type="Box">5</container>
+              <unitdate era="ce" calendar="gregorian" normal="2007/2008">2007-2008</unitdate>
+            </did>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">6</container>
+                <unittitle>Anzald&#xfa;a Symposium G&#xfc;eras y Prietas (participants, flyers, schedule, agendas, itinerary)</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">7</container>
+                <unittitle>Borderlands/La Frontera Poetry Readings, Trinity University (San Antonio, Texas), </unittitle>
+                <unitdate era="ce" calendar="gregorian" normal="2007-11-02">2007 Novermber 02</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">8-9</container>
+                <unittitle>G&#xfc;eras y Prietas: Celebrating 20 years of Borderlands/La Frontera, Disc 1 Blessing and Welcome (2 copies)</unittitle>
+                <unitdate era="ce" calendar="gregorian" normal="2007-11-03">2007 November 03</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">10</container>
+                <unittitle>G&#xfc;eras y Prietas: Celebrating 20 years of Borderlands/La Frontera, Disc 2 Session I The U.S. Mexican Border: Anzald&#xfa;a and Border Studies</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">11-12</container>
+                <unittitle>G&#xfc;eras y Prietas: Celebrating 20 years of Borderlands/La Frontera, Disc 3 Session II Anzald&#xfa;a and Queer Studies (2 copies)</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">13-14</container>
+                <unittitle>G&#xfc;eras y Prietas: Celebrating 20 years of Borderlands/La Frontera, Disc 4 Lunch Hour presentations (2 copies)</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">15-16</container>
+                <unittitle>G&#xfc;eras y Prietas: Celebrating 20 years of Borderlands/La Frontera, Disc 5 Session III The U.S. Mexican Border: Anzald&#xfa;a y Mexico (2 copies), </unittitle>
+                <unitdate era="ce" calendar="gregorian" normal="2007-11-03">2007 November 03</unitdate>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">17-18</container>
+                <unittitle>G&#xfc;eras y Prietas: Celebrating 20 years of Borderlands/La Frontera, Disc 6 Questions and Answers from Disc 5 Session III (2 copies)</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">19-20</container>
+                <unittitle>G&#xfc;eras y Prietas: Celebrating 20 years of Borderlands/La Frontera, Disc 7 Session IV Anzald&#xfa;a Studies: International Perspectives (2 copies)</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">21</container>
+                <unittitle>Conversations with Patsy Light and Dr. Norma Cant&#xfa;, </unittitle>
+                <unitdate era="ce" calendar="gregorian" normal="2008">2008</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">5</container>
+              <unitdate era="ce" calendar="gregorian" normal="2009">2009</unitdate>
+            </did>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">22</container>
+                <unittitle>Anzald&#xfa;a Conference files</unittitle>
+              </did>
+              <scopecontent><p>Label: Registration, program, agendas, schedules, memos and letters. El Mundo Zurdo 2009.</p></scopecontent>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">23-25</container>
+                <unittitle>The International Conference on the Life and Works of Gloria Anzald&#xfa;a Disc 1 (3 copies), </unittitle>
+                <unitdate era="ce" calendar="gregorian" normal="2009-05-16">2009 May 16</unitdate>
+              </did>
+              <scopecontent><p>Opening ceremony: Dr. Norma Cant&#xfa;, Dr. Sonia Sald&#xed;var-Hull. Blessing Grandma Emma Ortega. Plenary 1: Randy Conner.</p></scopecontent>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">26-28</container>
+                <unittitle>The International Conference on the Life and Works of Gloria Anzald&#xfa;a Disc 2 Promoting Critical Thinking Among Elementary Students with Literature Authored by Gloria Anzald&#xfa;a (3 copies)</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">29</container>
+                <unittitle>The International Conference on the Life and Works of Gloria Anzald&#xfa;a - International and Transfrontera Issues</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">30</container>
+                <unittitle>The International Conference on the Life and Works of Gloria Anzald&#xfa;a - Closing Plenary, </unittitle>
+                <unitdate era="ce" calendar="gregorian" normal="2009-05-17">2009 May 17</unitdate>
+              </did>
+              <scopecontent><p>Gloria Anzald&#xfa;a Composing a Life: Poes&#xed;a, Teor&#xed;a, Historia. Speakers include Alicia Gaspar de Alba, Antonia Casta&#xf1;eda, and Emma Perez.</p></scopecontent>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">31</container>
+                <unittitle>The International Conference on the Life and Works of Gloria Anzald&#xfa;a - Plenary 2, </unittitle>
+                <unitdate era="ce" calendar="gregorian" normal="2009-05-17">2009 May 17</unitdate>
+              </did>
+              <scopecontent><p>El Mundo S/Zurdo: Past Present and Future, AnaLouise Keating.</p></scopecontent>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">32</container>
+                <unittitle>The International Conference on the Life and Works of Gloria Anzald&#xfa;a Photographs</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">33</container>
+                <unittitle>El Mundo Zurdo 2009 Exhibit and Artist Panel Photographs</unittitle>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">5</container>
+              <unitdate era="ce" calendar="gregorian" normal="2010/2012">2010-2012</unitdate>
+            </did>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">34</container>
+                <unittitle>El Mundo Zurdo 2010 (program, budget, letters, moderators, flyers)</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">35</container>
+                <unittitle>SSGA 2011 Files for El Mundo Zurdo 2012</unittitle>
+              </did>
+            </c04>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">36</container>
+                <unittitle>SSGA 2012</unittitle>
+              </did>
+              <scopecontent><p>Compact disc label: art, programs, newsletters, agendas, budget, forms, letters-thank you.</p></scopecontent>
+            </c04>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">5</container>
+              <unitdate era="ce" calendar="gregorian" normal="2013">2013</unitdate>
+            </did>
+            <c04 level="item">
+              <did>
+                <container type="Box">5</container>
+                <container type="Item">37-44</container>
+                <unittitle>El Mundo Zurdo 2013 Disc 1-8</unittitle>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+      </c01>
+      <c01 level="series" id="ser4">
+        <did>
+          <unittitle>Artifacts and Memorabilia</unittitle>
+        </did>
+        <c02 level="file">
+          <did>
+            <container type="Box">6</container>
+            <unittitle>Candles</unittitle>
+          </did>
+          <scopecontent>
+            <p>En español: El Retorno. El Valle celebra nuestra Gloria. English translation: The Return. The Valley celebrates our Gloria. A reference to the Rio Grande Valley region in Texas.</p>
+            <p>Plastic containers (1 orange, 1 red) with a paper on one side that has image of Gloria Anzaldua. On the other side/back there is a quote.</p>
+          </scopecontent>
+          <c03 level="file">
+            <did>
+              <container type="Box">6</container>
+              <container type="Item">1</container>
+              <unittitle>Orange container, quote by Lauren Espinoza, </unittitle>
+              <unitdate era="ce" calendar="gregorian" certainty="approximate" normal="2006/2020">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">6</container>
+              <container type="Item">2</container>
+              <unittitle>Red container, quote by Erika Garza, </unittitle>
+              <unitdate era="ce" calendar="gregorian" certainty="approximate" normal="2006/2020">undated</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">6</container>
+            <unittitle>Memory stones</unittitle>
+          </did>
+          <scopecontent><p>El Mundo Zurdo 2012, rocks have quotes from Anzalduan texts and are painted different colors.</p></scopecontent>
+          <c03 level="file">
+            <did>
+              <container type="Box">6</container>
+              <container type="Item">3</container>
+              <unittitle>Be the healing of the wound! (dark blue/navy blue), </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2012">2012</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">6</container>
+              <container type="Item">4</container>
+              <unittitle>I change myself, I change the world (green), </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2012">2012</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">6</container>
+              <container type="Item">5</container>
+              <unittitle>Now let us shift! (red), </unittitle>
+              <unitdate era="ce" calendar="gregorian" certainty="approximate" normal="2012">circa 2012</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">7</container>
+            <unittitle>Conference bags</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="Box">7</container>
+              <container type="Item">1</container>
+              <unittitle>Black bag with image in color, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2009">2009</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">7</container>
+              <container type="Item">2</container>
+              <unittitle>Black bag with image in color, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2010">2010</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">7</container>
+              <container type="Item">3</container>
+              <unittitle>Black bag with image in color, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2012">2012</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">7</container>
+              <container type="Item">4</container>
+              <unittitle>Canvas/tan bag with purple bottom and handle (10th EMZ conference), </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2018">2018</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">7</container>
+            <unittitle>T-Shirts</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="Box">7</container>
+              <container type="Item">5</container>
+              <unittitle>Red shirt, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2010">2010</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">7</container>
+              <container type="Item">6</container>
+              <unittitle>Blue shirt, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2012">2012</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">7</container>
+              <container type="Item">7</container>
+              <unittitle>Light blue with images and text in black, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2018">2018</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">7</container>
+              <container type="Item">8</container>
+              <unittitle>Tan color shirt, image on front of art work by Liliana Wilson, </unittitle>
+              <unitdate era="ce" calendar="gregorian" normal="2019">2019</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="file">
+          <did>
+            <container type="Box">7</container>
+            <container type="Item">9</container>
+            <unittitle>Conference posters, </unittitle>
+            <unitdate era="ce" calendar="gregorian" normal="2009">2009, </unitdate>
+            <unitdate era="ce" calendar="gregorian" normal="2010">2010, </unitdate>
+            <unitdate era="ce" calendar="gregorian" normal="2012">2012, </unitdate>
+            <unitdate era="ce" calendar="gregorian" normal="2019">2019</unitdate>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+    <!-- END Description of Subordinate Components -->
+  </archdesc>
+</ead>
