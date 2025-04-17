@@ -2098,391 +2098,418 @@
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
-          </c03>          
+          </c03>
         </c02>
-        <c02 level="series" id="ser5"> <did>
-          <unittitle>Written Works</unittitle>
-        </did>
-        <c03 level="subseries"> <did>
-            <unittitle>Freelance Works</unittitle> </did>
-          <c04 level="file"> <did>
-              <container type="Box">16</container>
-              <container type="Folder">7</container>
-              <unittitle>Articles, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1971-1985</unitdate>
+        <c02 level="series" id="ser5">
+          <did>
+            <unittitle>Written Works</unittitle>
+          </did>
+          <c03 level="subseries">
+            <did>
+              <unittitle>Freelance Works</unittitle>
             </did>
-          </c04>
-          <c04 level="file">
+            <c04 level="file">
+              <did>
+                <container type="Box">16</container>
+                <container type="Folder">7</container>
+                <unittitle>Articles, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1971-1985</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">16</container>
+                <container type="Folder">8</container>
+                <unittitle>Articles Freelance to Send Out, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1981-2016</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">16</container>
+                <container type="Folder">9</container>
+                <unittitle>Freelance, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1990</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">16</container>
+                <container type="Folder">10</container>
+                <unittitle>Freelance Articles Xerox, 1971-1988 (1/2), </unittitle>
+                <unitdate era="ce" calendar="gregorian">1971-1988</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">17</container>
+                <container type="Folder">1</container>
+                <unittitle>Freelance Articles Xerox, 1971-1988 (2/2), </unittitle>
+                <unitdate era="ce" calendar="gregorian">1971-1988</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">17</container>
+                <container type="Folder">2</container>
+                <unittitle>Freelance by Author, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1971-1996</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">17</container>
+                <container type="Folder">3</container>
+                <unittitle>Freelance Articles Correspondence, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1981-1986</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">17</container>
+                <container type="Folder">4</container>
+                <unittitle>Freelance Cultural Clash T.V. Fox Television, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1987-1993</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">17</container>
+                <container type="Folder">5</container>
+                <unittitle>Freelance Newspaper Articles Austin + San Antonio, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1983-1984</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">17</container>
+                <container type="Folder">6</container>
+                <unittitle>Freelance Writing by Chuck, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1990</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">17</container>
+                <container type="Folder">7</container>
+                <unittitle>Miscellaneous Articles by Carlos Morton, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1970-2019</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">17</container>
+                <container type="Folder">8</container>
+                <unittitle>Miscellaneous History Research Carlos Morton, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">17</container>
+                <container type="Folder">9</container>
+                <unittitle>Newspaper Clippings and Production Advertisements from Album, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1974, 1978, 1983, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">17</container>
+                <container type="Folder">10</container>
+                <unittitle>Research, Drafts, and Correspondence about Freelance Writing Projects and
+                  University of Texas, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">17</container>
+                <container type="Folder">11</container>
+                <unittitle>Research for Freelance Articles, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1985-1986</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">18</container>
+                <container type="Folder">1</container>
+                <unittitle>Research on Texas History, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
             <did>
-              <container type="Box">16</container>
-              <container type="Folder">8</container>
-              <unittitle>Articles Freelance to Send Out, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1981-2016</unitdate>
+              <unittitle>Poetic Works</unittitle>
             </did>
-          </c04>
-          <c04 level="file">
+            <c04 level="file">
+              <did>
+                <container type="Box">18</container>
+                <container type="Folder">2</container>
+                <unittitle>Poetry, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1968-1978</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">18</container>
+                <container type="Folder">3</container>
+                <unittitle>Poetry Press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">2013</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries">
             <did>
-              <container type="Box">16</container>
-              <container type="Folder">9</container>
-              <unittitle>Freelance, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1990</unitdate>
+              <unittitle>Translation Work</unittitle>
             </did>
-          </c04>
-          <c04 level="file">
+            <c04 level="file">
+              <did>
+                <container type="Box">18</container>
+                <container type="Folder">4</container>
+                <unittitle>The Fickle Finger of Lady Death, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">18</container>
+                <container type="Folder">5</container>
+                <unittitle>The Fickle Finger of Lady Death and Other Plays Translated by Carlos
+                  Morton, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1996</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">18</container>
+                <container type="Folder">6</container>
+                <unittitle>The Fickle Finger of Lady Death Press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1996, undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">18</container>
+                <container type="Folder">7</container>
+                <unittitle>Fickle Finger Translation, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">18</container>
+                <container type="Folder">8</container>
+                <unittitle>Profane Games Press, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">18</container>
+                <container type="Folder">9</container>
+                <unittitle>Profane Games Programs, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1989</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">18</container>
+                <container type="Folder">10</container>
+                <unittitle>Programs, Press, and Correspondence about The Fickle Finger of Lady
+                  Death, The Tree, and Other Translations by Carlos Morton, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">18</container>
+                <container type="Folder">11</container>
+                <unittitle>The Tree - Program, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">18</container>
+                <container type="Folder">12</container>
+                <unittitle>University of Cincinnati Translation Project, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1990,1993-1997</unitdate>
+              </did>
+            </c04>
+          </c03>
+        </c02>
+        <c02 level="series" id="ser6">
+          <did>
+            <unittitle>Multiple Works</unittitle>
+          </did>
+          <c03 level="file">
             <did>
-              <container type="Box">16</container>
-              <container type="Folder">10</container>
-              <unittitle>Freelance Articles Xerox, 1971-1988 (1/2), </unittitle>
-              <unitdate era="ce" calendar="gregorian">1971-1988</unitdate> </did>
-          </c04>
-          <c04 level="file">
+              <container type="Box">18</container>
+              <container type="Folder">13</container>
+              <unittitle>Contracts, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1980-1984</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
             <did>
-              <container type="Box">17</container>
+              <container type="Box">18</container>
+              <container type="Folder">14</container>
+              <unittitle>Correspondence about Plays and Submissions to Writing Competitions, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1989-1998</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">19</container>
               <container type="Folder">1</container>
-              <unittitle>Freelance Articles Xerox, 1971-1988 (2/2), </unittitle>
-              <unitdate era="ce" calendar="gregorian">1971-1988</unitdate> </did>
-          </c04>
-          <c04 level="file">
+              <unittitle>Correspondence, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1983-2018</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
             <did>
-              <container type="Box">17</container>
+              <container type="Box">19</container>
               <container type="Folder">2</container>
-              <unittitle>Freelance by Author, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1971-1996</unitdate>
+              <unittitle>Correspondence, Plays, Publications Dormant File (1/2), </unittitle>
+              <unitdate era="ce" calendar="gregorian">1972-2005</unitdate>
             </did>
-          </c04>
-          <c04 level="file">
+          </c03>
+          <c03 level="file">
             <did>
-              <container type="Box">17</container>
+              <container type="Box">19</container>
               <container type="Folder">3</container>
-              <unittitle>Freelance Articles Correspondence, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1981-1986</unitdate>
+              <unittitle>Correspondence, Plays, Publications Dormant File (2/2), </unittitle>
+              <unitdate era="ce" calendar="gregorian">1972-2005</unitdate>
             </did>
-          </c04>
-          <c04 level="file">
+          </c03>
+          <c03 level="file">
             <did>
-              <container type="Box">17</container>
+              <container type="Box">19</container>
               <container type="Folder">4</container>
-              <unittitle>Freelance Cultural Clash T.V. Fox Television, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1987-1993</unitdate>
+              <unittitle>Correspondence, Plays, Publications Dormant File, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1978-1997</unitdate>
             </did>
-          </c04>
-          <c04 level="file">
+          </c03>
+          <c03 level="file">
             <did>
-              <container type="Box">17</container>
+              <container type="Box">19</container>
               <container type="Folder">5</container>
-              <unittitle>Freelance Newspaper Articles Austin + San Antonio, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1983-1984</unitdate>
+              <unittitle>French Translations of Lilith and Dreaming on a Sunday in the Alameda, </unittitle>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
             </did>
-          </c04>
-          <c04 level="file">
+          </c03>
+          <c03 level="file">
             <did>
-              <container type="Box">17</container>
+              <container type="Box">19</container>
               <container type="Folder">6</container>
-              <unittitle>Freelance Writing by Chuck, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1990</unitdate>
+              <unittitle>Letters and Contracts for The Many Deaths of Danny Rosales and Freelance
+                Writing, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1981-1989</unitdate>
             </did>
-          </c04>
-          <c04 level="file">
+          </c03>
+          <c03 level="file">
             <did>
-              <container type="Box">17</container>
-              <container type="Folder">7</container>
-              <unittitle>Miscellaneous Articles by Carlos Morton, </unittitle>
+              <container type="Box">20</container>
+              <container type="Folder">1</container>
+              <unittitle>Letters &amp; Correspondence, </unittitle>
               <unitdate era="ce" calendar="gregorian">1970-2019</unitdate>
             </did>
-          </c04>
-          <c04 level="file">
+          </c03>
+          <c03 level="file">
             <did>
-              <container type="Box">17</container>
-              <container type="Folder">8</container>
-              <unittitle>Miscellaneous History Research Carlos Morton, </unittitle>
+              <container type="Box">20</container>
+              <container type="Folder">2</container>
+              <unittitle>Miscellaneous files, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1980-1981, 2008, 2013, 2015, undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">20</container>
+              <container type="Folder">3</container>
+              <unittitle>Pancho Diablo + Miscellaneous Jardín Slides, </unittitle>
               <unitdate era="ce" calendar="gregorian">undated</unitdate>
             </did>
-          </c04>
-          <c04 level="file">
+          </c03>
+          <c03 level="file">
             <did>
-              <container type="Box">17</container>
-              <container type="Folder">9</container>
-              <unittitle>Newspaper Clippings and Production Advertisements from Album, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1974, 1978, 1983, undated</unitdate>
-            </did>
-          </c04>
-          <c04 level="file">
-            <did>
-              <container type="Box">17</container>
-              <container type="Folder">10</container>
-              <unittitle>Research, Drafts, and Correspondence about Freelance Writing Projects and University of Texas, </unittitle>
-              <unitdate era="ce" calendar="gregorian">undated</unitdate>
-            </did>
-          </c04>
-          <c04 level="file">
-            <did>
-              <container type="Box">17</container>
-              <container type="Folder">11</container>
-              <unittitle>Research for Freelance Articles, </unittitle>
+              <container type="Box">20</container>
+              <container type="Folder">4</container>
+              <unittitle>Rights/Title/Interest Exchange of Espiritu, La Malinche, Johnny Tenorio, </unittitle>
               <unitdate era="ce" calendar="gregorian">1985-1986</unitdate>
             </did>
-          </c04>
-          <c04 level="file">
+          </c03>
+          <c03 level="file">
             <did>
-              <container type="Box">18</container>
-              <container type="Folder">1</container>
-              <unittitle>Research on Texas History, </unittitle>
-              <unitdate era="ce" calendar="gregorian">undated</unitdate>
-            </did>
-          </c04>
-        </c03> <c03 level="subseries"> <did>
-            <unittitle>Poetic Works</unittitle>
-          </did>
-          <c04 level="file"> <did>
-              <container type="Box">18</container>
-              <container type="Folder">2</container>
-              <unittitle>Poetry, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1968-1978</unitdate>
-            </did>
-          </c04>
-          <c04 level="file">
-            <did>
-              <container type="Box">18</container>
-              <container type="Folder">3</container>
-              <unittitle>Poetry Press, </unittitle>
-              <unitdate era="ce" calendar="gregorian">2013</unitdate>
-            </did>
-          </c04>
-        </c03> <c03 level="subseries"> <did>
-            <unittitle>Translation Work</unittitle>
-          </did>
-          <c04 level="file"> <did>
-              <container type="Box">18</container>
-              <container type="Folder">4</container>
-              <unittitle>The Fickle Finger of Lady Death, </unittitle>
-              <unitdate era="ce" calendar="gregorian">undated</unitdate>
-            </did>
-          </c04>
-          <c04 level="file">
-            <did>
-              <container type="Box">18</container>
+              <container type="Box">20</container>
               <container type="Folder">5</container>
-              <unittitle>The Fickle Finger of Lady Death and Other Plays Translated by Carlos Morton, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1996</unitdate>
+              <unittitle>Photographic Slides of Danny Rosales, Rancho Hollywood, and Other
+                Productions, </unittitle>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
             </did>
-          </c04>
-          <c04 level="file">
+          </c03>
+          <c03 level="file">
             <did>
-              <container type="Box">18</container>
+              <container type="Box">20</container>
               <container type="Folder">6</container>
-              <unittitle>The Fickle Finger of Lady Death Press, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1996, undated</unitdate>
+              <unittitle>Photographs from Johnny Tenorio, Pancho Diablo and Other Productions, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1979-2000</unitdate>
             </did>
-          </c04>
-          <c04 level="file">
+          </c03>
+          <c03 level="file">
             <did>
-              <container type="Box">18</container>
+              <container type="Box">20</container>
               <container type="Folder">7</container>
-              <unittitle>Fickle Finger Translation, </unittitle>
-              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              <unittitle>Playwriting stuff (Mio) articles for Paso del Norte and Brown Baby, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2008</unitdate>
             </did>
-          </c04>
-          <c04 level="file">
+          </c03>
+          <c03 level="file">
             <did>
-              <container type="Box">18</container>
+              <container type="Box">20</container>
               <container type="Folder">8</container>
-              <unittitle>Profane Games Press, </unittitle>
-              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              <unittitle>Plays Correspondence etc. also Publication, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1987-1992, 2000-2006</unitdate>
             </did>
-          </c04>
-          <c04 level="file">
+          </c03>
+          <c03 level="file">
             <did>
-              <container type="Box">18</container>
+              <container type="Box">20</container>
               <container type="Folder">9</container>
-              <unittitle>Profane Games Programs, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1989</unitdate>
+              <unittitle>Profane Games, The Tree, and Other Productions Translated by Carlos Morton
+                Photographs from Photo Album, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1987-1996, undated</unitdate>
             </did>
-          </c04>
-          <c04 level="file">
+          </c03>
+          <c03 level="file">
             <did>
-              <container type="Box">18</container>
+              <container type="Box">20</container>
               <container type="Folder">10</container>
-              <unittitle>Programs, Press, and Correspondence about The Fickle Finger of Lady Death, The Tree, and Other Translations by Carlos Morton, </unittitle>
-              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              <unittitle>Programs, Advertisements, and Articles for The Fickle Finger of Lady Death
+                and El Jardín, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1993, 1996, 2001, 2015</unitdate>
             </did>
-          </c04>
-          <c04 level="file">
+          </c03>
+          <c03 level="file">
             <did>
-              <container type="Box">18</container>
+              <container type="Box">20</container>
               <container type="Folder">11</container>
-              <unittitle>The Tree - Program, </unittitle>
-              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              <unittitle>Programs, Advertisements, Reviews, and Academic Writing about Frontera Sin
+                Fin and Suerte Ilegal, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2004, 2007, 2012, 2014</unitdate>
             </did>
-          </c04>
-          <c04 level="file">
+          </c03>
+          <c03 level="file">
             <did>
-              <container type="Box">18</container>
+              <container type="Box">20</container>
               <container type="Folder">12</container>
-              <unittitle>University of Cincinnati Translation Project, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1990,1993-1997</unitdate>
+              <unittitle>Programs and Advertisements for The Many Deaths of Danny Rosales and
+                Dreaming on a Sunday in the Alameda, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1980-2002</unitdate>
             </did>
-          </c04>
-        </c03> </c02> <c02 level="series" id="ser6"> <did>
-          <unittitle>Multiple Works</unittitle> </did>
-        <c03 level="file"> <did>
-            <container type="Box">18</container>
-            <container type="Folder">13</container>
-            <unittitle>Contracts, </unittitle>
-            <unitdate era="ce" calendar="gregorian">1980-1984</unitdate>
-          </did>
-        </c03>
-        <c03 level="file">
-          <did>
-            <container type="Box">18</container>
-            <container type="Folder">14</container>
-            <unittitle>Correspondence about Plays and Submissions to Writing Competitions, </unittitle>
-            <unitdate era="ce" calendar="gregorian">1989-1998</unitdate>
-          </did>
-        </c03>
-        <c03 level="file">
-          <did>
-            <container type="Box">19</container>
-            <container type="Folder">1</container>
-            <unittitle>Correspondence, </unittitle>
-            <unitdate era="ce" calendar="gregorian">1983-2018</unitdate>
-          </did>
-        </c03>
-        <c03 level="file">
-          <did>
-            <container type="Box">19</container>
-            <container type="Folder">2</container>
-            <unittitle>Correspondence, Plays, Publications Dormant File (1/2), </unittitle>
-            <unitdate era="ce" calendar="gregorian">1972-2005</unitdate>
-          </did>
-        </c03>
-        <c03 level="file">
-          <did>
-            <container type="Box">19</container>
-            <container type="Folder">3</container>
-            <unittitle>Correspondence, Plays, Publications Dormant File (2/2), </unittitle>
-            <unitdate era="ce" calendar="gregorian">1972-2005</unitdate>
-          </did>
-        </c03>
-        <c03 level="file">
-          <did>
-            <container type="Box">19</container>
-            <container type="Folder">4</container>
-            <unittitle>Correspondence, Plays, Publications Dormant File, </unittitle>
-            <unitdate era="ce" calendar="gregorian">1978-1997</unitdate>
-          </did>
-        </c03>
-        <c03 level="file">
-          <did>
-            <container type="Box">19</container>
-            <container type="Folder">5</container>
-            <unittitle>French Translations of Lilith and Dreaming on a Sunday in the Alameda, </unittitle>
-            <unitdate era="ce" calendar="gregorian">undated</unitdate>
-          </did>
-        </c03>
-        <c03 level="file">
-          <did>
-            <container type="Box">19</container>
-            <container type="Folder">6</container>
-            <unittitle>Letters and Contracts for The Many Deaths of Danny Rosales and Freelance Writing, </unittitle>
-            <unitdate era="ce" calendar="gregorian">1981-1989</unitdate>
-          </did>
-        </c03>
-        <c03 level="file">
-          <did>
-            <container type="Box">20</container>
-            <container type="Folder">1</container>
-            <unittitle>Letters &amp; Correspondence, </unittitle> <unitdate era="ce" calendar="gregorian">1970-2019</unitdate>
-          </did>
-        </c03>
-        <c03 level="file">
-          <did>
-            <container type="Box">20</container>
-            <container type="Folder">2</container>
-            <unittitle>Miscellaneous files, </unittitle>
-            <unitdate era="ce" calendar="gregorian">1980-1981, 2008, 2013, 2015, undated</unitdate>
-          </did>
-        </c03>
-        <c03 level="file">
-          <did>
-            <container type="Box">20</container>
-            <container type="Folder">3</container>
-            <unittitle>Pancho Diablo + Miscellaneous Jardín Slides, </unittitle>
-            <unitdate era="ce" calendar="gregorian">undated</unitdate>
-          </did>
-        </c03>
-        <c03 level="file">
-          <did>
-            <container type="Box">20</container>
-            <container type="Folder">4</container>
-            <unittitle>Rights/Title/Interest Exchange of Espiritu, La Malinche, Johnny Tenorio, </unittitle>
-            <unitdate era="ce" calendar="gregorian">1985-1986</unitdate>
-          </did>
-        </c03>
-        <c03 level="file">
-          <did>
-            <container type="Box">20</container>
-            <container type="Folder">5</container>
-            <unittitle>Photographic Slides of Danny Rosales, Rancho Hollywood, and Other Productions, </unittitle>
-            <unitdate era="ce" calendar="gregorian">undated</unitdate>
-          </did>
-        </c03>
-        <c03 level="file">
-          <did>
-            <container type="Box">20</container>
-            <container type="Folder">6</container>
-            <unittitle>Photographs from Johnny Tenorio, Pancho Diablo and Other Productions, </unittitle>
-            <unitdate era="ce" calendar="gregorian">1979-2000</unitdate>
-          </did>
-        </c03>
-        <c03 level="file">
-          <did>
-            <container type="Box">20</container>
-            <container type="Folder">7</container>
-            <unittitle>Playwriting stuff (Mio) articles for Paso del Norte and Brown Baby, </unittitle>
-            <unitdate era="ce" calendar="gregorian">2008</unitdate>
-          </did>
-        </c03>
-        <c03 level="file">
-          <did>
-            <container type="Box">20</container>
-            <container type="Folder">8</container>
-            <unittitle>Plays Correspondence etc. also Publication, </unittitle>
-            <unitdate era="ce" calendar="gregorian">1987-1992, 2000-2006</unitdate>
-          </did>
-        </c03>
-        <c03 level="file">
-          <did>
-            <container type="Box">20</container>
-            <container type="Folder">9</container>
-            <unittitle>Profane Games, The Tree, and Other Productions Translated by Carlos Morton Photographs from Photo Album, </unittitle>
-            <unitdate era="ce" calendar="gregorian">1987-1996, undated</unitdate>
-          </did>
-        </c03>
-        <c03 level="file">
-          <did>
-            <container type="Box">20</container>
-            <container type="Folder">10</container>
-            <unittitle>Programs, Advertisements, and Articles for The Fickle Finger of Lady Death and El Jardín, </unittitle>
-            <unitdate era="ce" calendar="gregorian">1993, 1996, 2001, 2015</unitdate>
-          </did>
-        </c03>
-        <c03 level="file">
-          <did>
-            <container type="Box">20</container>
-            <container type="Folder">11</container>
-            <unittitle>Programs, Advertisements, Reviews, and Academic Writing about Frontera Sin Fin and Suerte Ilegal, </unittitle>
-            <unitdate era="ce" calendar="gregorian">2004, 2007, 2012, 2014</unitdate>
-          </did>
-        </c03>
-        <c03 level="file">
-          <did>
-            <container type="Box">20</container>
-            <container type="Folder">12</container>
-            <unittitle>Programs and Advertisements for The Many Deaths of Danny Rosales and Dreaming on a Sunday in the Alameda, </unittitle>
-            <unitdate era="ce" calendar="gregorian">1980-2002</unitdate>
-          </did>
-        </c03>
-      </c02>
+          </c03>
+        </c02>
       </c01>
     </dsc>
   </archdesc>
