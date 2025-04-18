@@ -643,7 +643,7 @@
               <did>
                 <container type="Box">4</container>
                 <container type="Folder">10</container>
-                <unittitle>The Many Deaths of Danny Rosales University of Texas at Austin, </unittitle>
+                <unittitle><title render="italic">The Many Deaths of Danny Rosales</title> University of Texas at Austin, </unittitle>
                 <unitdate era="ce" calendar="gregorian">1982-1985, </unitdate>
                 <unitdate era="ce" calendar="gregorian">2000, </unitdate>
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
@@ -675,7 +675,7 @@
               <did>
                 <container type="Box">4</container>
                 <container type="Folder">13</container>
-                <unittitle>Press and Research for The Many Deaths of Danny Rosales, </unittitle>
+                <unittitle>Press and Research for <title render="italic">The Many Deaths of Danny Rosales,</title> </unittitle>
                 <unitdate era="ce" calendar="gregorian">1976-1978, </unitdate>
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
 
@@ -695,8 +695,8 @@
               <did>
                 <container type="Box">4</container>
                 <container type="Folder">15</container>
-                <unittitle>Programs, Advertisements, and Audition Information for The Many Deaths of
-                  Danny Rosales, </unittitle>
+                <unittitle>Programs, Advertisements, and Audition Information for <title render="italic">The Many Deaths of
+                  Danny Rosales, </title></unittitle>
                 <unitdate era="ce" calendar="gregorian">2019, </unitdate>
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
 
@@ -744,7 +744,7 @@
                 <container type="Box">5</container>
                 <container type="Folder">3</container>
                 <unittitle>Scripts for The Many Deaths of Danny Rosales, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1976, 1994</unitdate>
+                <unitdate era="ce" calendar="gregorian">1976, </unitdate>
                 <unitdate era="ce" calendar="gregorian">1994</unitdate>
               </did>
             </c04>
