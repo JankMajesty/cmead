@@ -2635,7 +2635,9 @@
               <container type="Box">21</container>
               <container type="Folder">1</container>
               <unittitle>Programs for Pancho Diablo and Rancho Hollywood, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1984, 1987, 1996</unitdate>
+              <unitdate era="ce" calendar="gregorian">1984, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1987, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1996</unitdate>
             </did>
           </c03>
           <c03 level="file">
@@ -2643,7 +2645,9 @@
               <container type="Box">21</container>
               <container type="Folder">2</container>
               <unittitle>Promotional Materials and Photos from Rancho Hollywood, Danny Rosales, and Other Productions, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1982, undated</unitdate>
+              <unitdate era="ce" calendar="gregorian">1982, </unitdate>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+
             </did>
           </c03>
           <c03 level="file">
@@ -2659,7 +2663,10 @@
               <container type="Box">21</container>
               <container type="Folder">4</container>
               <unittitle>Reviews - Published, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1970, 1988-1992, 2006, undated</unitdate>
+              <unitdate era="ce" calendar="gregorian">1970, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1988-1992, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2006, </unitdate>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
             </did>
           </c03>
           <c03 level="file">
@@ -2667,7 +2674,8 @@
               <container type="Box">21</container>
               <container type="Folder">5</container>
               <unittitle>Scripts, Academic Writing, and Festival Latino Materials for Pancho Diablo and El Jardín, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1987, 1989</unitdate>
+              <unitdate era="ce" calendar="gregorian">1987, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1989</unitdate>
             </did>
           </c03>
           <c03 level="file">
@@ -2675,7 +2683,11 @@
               <container type="Box">21</container>
               <container type="Folder">6</container>
               <unittitle>Scripts and Correspondence about Lorenzo de Zavala, El Paso Dram on a Bolivian Night, and Employment, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1980 October 1, 1983, 1985 June 21, 1989-1990, 2017-2018</unitdate>
+              <unitdate era="ce" calendar="gregorian">1980 October 1, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1983, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1985 June 21, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1989-1990, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2017-2018</unitdate>
             </did>
           </c03>
           <c03 level="file">
@@ -2699,7 +2711,9 @@
               <container type="Box">21</container>
               <container type="Folder">9</container>
               <unittitle>Scripts for Pancho Diablo and El Jardín, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1974, 1976, 1993</unitdate>
+              <unitdate era="ce" calendar="gregorian">1974, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1976, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1993</unitdate>
             </did>
           </c03>
           <c03 level="file">
@@ -2719,6 +2733,338 @@
             </did>
           </c03>
         </c02>
+        <c02 level="series" id="ser7">
+          <did>
+            <unittitle>Educational/Professional Materials</unittitle>
+          </did>
+          <c03 level="file"> <did>
+              <container type="Box">22</container>
+              <container type="Folder">1</container>
+              <unittitle>Alberto Huerta, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1984-1985</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">22</container>
+              <container type="Folder">2</container>
+              <unittitle>Alexander St. Press, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2000-2019</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">22</container>
+              <container type="Folder">3</container>
+              <unittitle>Appointment to Chicana/o Studies Professor in the Department of Dramatic Art at the University of California-Davis, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1994</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">22</container>
+              <container type="Folder">4</container>
+              <unittitle>Archbishop Romero: Martyr of Salvador, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1981</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">22</container>
+              <container type="Folder">5</container>
+              <unittitle>Arizona Teatro Del Valle, Tucson Pima Arts Council, and Arizona Commission of the Arts Correspondence, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1988-1990</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">22</container>
+              <container type="Folder">6</container>
+              <unittitle>Arte Publico (University of Houston Related), </unittitle>
+              <unitdate era="ce" calendar="gregorian">1983-2020</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">22</container>
+              <container type="Folder">7</container>
+              <unittitle>Attendance of CDE Conference in Bamberg Germany, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2004</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">22</container>
+              <container type="Folder">8</container>
+              <unittitle>Austin, Texas, </unittitle>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">22</container>
+              <container type="Folder">9</container>
+              <unittitle>Border Festivals University of California Riverside, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1991-2001</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">22</container>
+              <container type="Folder">10</container>
+              <unittitle>Business Files, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1988</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">22</container>
+              <container type="Folder">11</container>
+              <unittitle>Carlos Morton, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1988-2012</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">22</container>
+              <container type="Folder">12</container>
+              <unittitle>Carlos Morton, Department of Theater, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1984-2001</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">22</container>
+              <container type="Folder">13</container>
+              <unittitle>Center for Chicano Studies University of California at Santa Barbara, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2002-2004</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">22</container>
+              <container type="Folder">14</container>
+              <unittitle>The Chicano/Latino Literary Prize: An Anthology of Prize-Winning Fiction, Poetry, and Drama, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2008</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">23</container>
+              <container type="Folder">1</container>
+              <unittitle>Consulting Correspondence, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1988-2004</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">23</container>
+              <container type="Folder">2</container>
+              <unittitle>Costa Rica Education Abroad Program (EAP) Director, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1990-1999</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">23</container>
+              <container type="Folder">3</container>
+              <unittitle>Cuba, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1981</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">23</container>
+              <container type="Folder">4</container>
+              <unittitle>Early Miscellaneous Writing by Carlos Morton: Drama and Fiction Poetry, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1968-1976, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2005</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">23</container>
+              <container type="Folder">5</container>
+              <unittitle>El Milagro Ediciones Mexican Press, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1987-1989, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1993-2000</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">23</container>
+              <container type="Folder">6</container>
+              <unittitle>Faculty Residency University of California at Riverside, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1996-1997</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">23</container>
+              <container type="Folder">7</container>
+              <unittitle>Festival Press, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1987-2001</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">23</container>
+              <container type="Folder">8</container>
+              <unittitle>Festival Programs, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1984-2004</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">23</container>
+              <container type="Folder">9</container>
+              <unittitle>Festival Windmill, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2000</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">23</container>
+              <container type="Folder">10</container>
+              <unittitle>Foam Board for Carlos Morton Guest Talk, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2006</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">23</container>
+              <container type="Folder">11</container>
+              <unittitle>Fulbright Grant Mexico, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1989-1990</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">23</container>
+              <container type="Folder">12</container>
+              <unittitle>Guadalupe Cultural Arts Center (G.C.A.C.), </unittitle>
+              <unitdate era="ce" calendar="gregorian">1982-1988</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">24</container>
+              <container type="Folder">1</container>
+              <unittitle>Gestos Año 25, Número 49, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2010</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">24</container>
+              <container type="Folder">2</container>
+              <unittitle>Interviews, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1989</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">24</container>
+              <container type="Folder">3</container>
+              <unittitle>Laredo Community College, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1985-1998</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">24</container>
+              <container type="Folder">4</container>
+              <unittitle>Las Fetes internationales du Theatre 2012; "The Family" Theater Company, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2012</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">24</container>
+              <container type="Folder">5</container>
+              <unittitle>Letters from Annick Treguer, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1985-1986</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">24</container>
+              <container type="Folder">6</container>
+              <unittitle>Merit Review, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2012-2017</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">24</container>
+              <container type="Folder">7</container>
+              <unittitle>Mexican-American Studies, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1981-1989</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">24</container>
+              <container type="Folder">8</container>
+              <unittitle>Mexican Community Chicago, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1997-2007</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">24</container>
+              <container type="Folder">9</container>
+              <unittitle>Mexican Studies: Texas Pangs, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1985-1991, </unitdate>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">24</container>
+              <container type="Folder">10</container>
+              <unittitle>Migration, Narration, Identity: Cross-Cultural Perspectives by Peter Leese, Carly McLaughlin, and Wladyslaw Witalisz, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2012</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">24</container>
+              <container type="Folder">11</container>
+              <unittitle>Mime Troupe, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1979-1982</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">24</container>
+              <container type="Folder">12</container>
+              <unittitle>Miscellaneous Consulting Correspondence, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1979-2010</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">24</container>
+              <container type="Folder">13</container>
+              <unittitle>Miscellaneous Documents and Awards, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1984-1985, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2006, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2013, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">24</container>
+              <container type="Folder">14</container>
+              <unittitle>Miscellaneous Magazines with Articles Written by and about Carlos Morton, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1970, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1978, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1988</unitdate>
+            </did>
+          </c03>
+        </c02>        
       </c01>
     </dsc>
   </archdesc>
