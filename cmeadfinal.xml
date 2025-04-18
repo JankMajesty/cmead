@@ -3464,7 +3464,8 @@
           <did>
             <unittitle>Audiovisual Materials</unittitle>
           </did>
-          <c03 level="subseries"> <did>
+          <c03 level="subseries"> 
+            <did>
               <unittitle>Photographs and Photo Slides</unittitle>
             </did>
             <c04 level="file"> <did>
@@ -3516,7 +3517,154 @@
               </did>
             </c04>
           </c03> 
-        </c02>               
+          <c03 level="subseries"> 
+            <did>
+              <unittitle>Tapes for Grabados en Instituto Mexicano de la Radio - Novela 'Eres un Sueño' Mexico</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">30</container>
+                <container type="Folder">1</container>
+                <unittitle>Secretaria de Relaciones Exteriores - Eres un Sueño (1-6), </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>            
+            <c04 level="file">
+              <did>
+                <container type="Box">30</container>
+                <container type="Folder">2</container>
+                <unittitle>Secretaria de Relaciones Exteriores - Eres un Sueño (7-12), </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>            
+            <c04 level="file">
+              <did>
+                <container type="Box">30</container>
+                <container type="Folder">3</container>
+                <unittitle>Secretaria de Relaciones Exteriores - Eres un Sueño (13-18), </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>            
+            <c04 level="file">
+              <did>
+                <container type="Box">30</container>
+                <container type="Folder">4</container>
+                <unittitle>Secretaria de Relaciones Exteriores - Eres un Sueño (19-24), </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>            
+            <c04 level="file">
+              <did>
+                <container type="Box">30</container>
+                <container type="Folder">5</container>
+                <unittitle>Secretaria de Relaciones Exteriores - Eres un Sueño (25-30), </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>            
+            <c04 level="file">
+              <did>
+                <container type="Box">30</container>
+                <container type="Folder">6</container>
+                <unittitle>Secretaria de Relaciones Exteriores - Eres un Sueño (31-36), </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">30</container>
+                <container type="Folder">7</container>
+                <unittitle>Secretaria de Relaciones Exteriores - Eres un Sueño (37-42), </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>            
+            <c04 level="file">
+              <did>
+                <container type="Box">30</container>
+                <container type="Folder">8</container>
+                <unittitle>Secretaria de Relaciones Exteriores - Eres un Sueño (43-48), </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>            
+            <c04 level="file">
+              <did>
+                <container type="Box">30</container>
+                <container type="Folder">9</container>
+                <unittitle>Secretaria de Relaciones Exteriores - Eres un Sueño (49-54), </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>            
+            <c04 level="file">
+              <did>
+                <container type="Box">30</container>
+                <container type="Folder">10</container>
+                <unittitle>Secretaria de Relaciones Exteriores - Eres un Sueño (55-60), </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+          </c03>
+          <c03 level="subseries"> 
+            <did>
+              <unittitle>Tapes of Interviews Conducted by Carlos Morton for Articles and Plays</unittitle>
+            </did>
+            <c04 level="file">
+              <did>
+                <container type="Box">31</container>
+                <container type="Folder">1</container>
+                <unittitle>Bob Sanburn, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">31</container>
+                <container type="Folder">2</container>
+                <unittitle>Carlos Morton - Mexico Up Close, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1992 July 14</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">31</container>
+                <container type="Folder">3</container>
+                <unittitle>Conversation on Drop Out Video Between Asa Maxey and Nacho Acosta, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1990 October</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">31</container>
+                <container type="Folder">4</container>
+                <unittitle>Enzymes / Fernando Careaga,  </unittitle>
+                <unitdate era="ce" calendar="gregorian">1987 October 16, </unitdate>
+                <unitdate era="ce" calendar="gregorian">1987 November 25</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">31</container>
+                <container type="Folder">5</container>
+                <unittitle>Jazz (Fake Book) / Melodies of Play, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">31</container>
+                <container type="Folder">6</container>
+                <unittitle>Journey - The Gang Alternative KLIF “The Bob Ray Sanders Show”, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1991 December 16</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">31</container>
+                <container type="Folder">7</container>
+                <unittitle>“Promotoras” Legacies Series - MediaRites Portland, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1994</unitdate>
+              </did>
+            </c04>
+          </c03>
+        </c02>
       </c01>
     </dsc>
   </archdesc>
