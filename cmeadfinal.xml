@@ -3665,6 +3665,60 @@
             </c04>
           </c03>
         </c02>
+        <c02 level="series" id="ser10">
+          <did>
+            <unittitle>Oversize Materials</unittitle>
+          </did>
+          <c03 level="file">
+            <did>
+              <container type="Box">32</container>
+              <container type="Folder">1</container>
+              <unittitle>Additions from 1991-53 Accession, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1979, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1983, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1987-1989, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1991, </unitdate>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">32</container>
+              <container type="Folder">2</container>
+              <unittitle>Articles Written About and by Carlos Morton, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1989-2009</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">32</container>
+              <container type="Folder">3</container>
+              <unittitle>Brown Baby Research, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1974</unitdate>
+              <unitdate era="ce" calendar="gregorian">1984</unitdate>
+              <unitdate era="ce" calendar="gregorian">1990-1991</unitdate>
+              <unitdate era="ce" calendar="gregorian">2006</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">32</container>
+              <container type="Folder">4</container>
+              <unittitle>Miscellaneous Magazines with Articles Written by and About Carlos Morton, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1978-1979</unitdate>
+              <unitdate era="ce" calendar="gregorian">1982</unitdate>
+              <unitdate era="ce" calendar="gregorian">1989-1990</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">32</container>
+              <container type="Folder">5</container>
+              <unittitle>The Press - Enterprise, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2003 March 7</unitdate>
+            </did>
+          </c03>
+        </c02>
       </c01>
     </dsc>
   </archdesc>
