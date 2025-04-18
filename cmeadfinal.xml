@@ -871,7 +871,7 @@
                 <container type="Box">5</container>
                 <container type="Folder">17</container>
                 <unittitle>Programs El Jardín, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1970, 1983-1988, 1994, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1970, </unitdate>
                 <unitdate era="ce" calendar="gregorian">1983-1988, </unitdate>
                 <unitdate era="ce" calendar="gregorian">1994, </unitdate>
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
@@ -891,7 +891,7 @@
                 <container type="Folder">1</container>
                 <unittitle>Reviews and Newspaper Articles El Jardín, </unittitle>
                 <unitdate era="ce" calendar="gregorian">1976-1977, </unitdate>
-                <unitdate era="ce" calendar="gregorian">1988, undated</unitdate>
+                <unitdate era="ce" calendar="gregorian">1988, </unitdate>
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
@@ -1988,7 +1988,7 @@
                 <container type="Box">14</container>
                 <container type="Folder">8</container>
                 <unittitle>Zona Rosa #5, </unittitle>
-                <unitdate era="ce" calendar="gregorian">2011-09-01</unitdate>
+                <unitdate era="ce" calendar="gregorian">2011 September 1</unitdate>
               </did>
             </c04>
           </c03>
@@ -2121,7 +2121,7 @@
                 <container type="Box">15</container>
                 <container type="Folder">12</container>
                 <unittitle>Miracle Theater/ “Diego” Children’s Theater, </unittitle>
-                <unitdate era="ce" calendar="gregorian">1992 - 1993</unitdate>
+                <unitdate era="ce" calendar="gregorian">1992-1993</unitdate>
               </did>
             </c04>
             <c04 level="file">
@@ -3717,9 +3717,9 @@
               <container type="Box">32</container>
               <container type="Folder">3</container>
               <unittitle>Brown Baby Research, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1974</unitdate>
-              <unitdate era="ce" calendar="gregorian">1984</unitdate>
-              <unitdate era="ce" calendar="gregorian">1990-1991</unitdate>
+              <unitdate era="ce" calendar="gregorian">1974, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1984, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1990-1991, </unitdate>
               <unitdate era="ce" calendar="gregorian">2006</unitdate>
             </did>
           </c03>
@@ -3728,8 +3728,8 @@
               <container type="Box">32</container>
               <container type="Folder">4</container>
               <unittitle>Miscellaneous Magazines with Articles Written by and About Carlos Morton, </unittitle>
-              <unitdate era="ce" calendar="gregorian">1978-1979</unitdate>
-              <unitdate era="ce" calendar="gregorian">1982</unitdate>
+              <unitdate era="ce" calendar="gregorian">1978-1979, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1982, </unitdate>
               <unitdate era="ce" calendar="gregorian">1989-1990</unitdate>
             </did>
           </c03>
