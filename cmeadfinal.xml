@@ -212,6 +212,10 @@
       <p>Part 2 of the collection processed by Ashton Jones, Lucas McGill, Jonathan Leary, and
         Charlene Mandimutsira (UT School of Information interns), Spring, 2025.</p>
     </processinfo>
+    <accruals encodinganalog="584">
+      <head>Additions</head>
+      <p>Further materials are expected for this collection.</p> 
+    </accruals>
 
     <controlaccess>
       <head>Index Terms</head>
@@ -3742,14 +3746,6 @@
             </did>
           </c03>
         </c02>
-      </c01>
-      <c01 level="subgrp">
-        <did>
-          <unittitle>Part 3: Additions</unittitle>
-        </did>
-        <scopecontent>
-          <p>Part 3 of this collection consists of material donated after 2020</p>
-        </scopecontent>
       </c01>
     </dsc>
   </archdesc>
