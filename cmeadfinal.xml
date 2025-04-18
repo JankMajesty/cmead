@@ -3250,7 +3250,273 @@
               <unitdate era="ce" calendar="gregorian">1997</unitdate>
             </did>
           </c03>
-        </c02>        
+          <c03 level="file">
+            <did>
+              <container type="Box">27</container>
+              <container type="Folder">1</container>
+              <unittitle>University of California Institute for Mexico and the United States - Secretaria de Relaciones Exteriores (SRE) Critical Issues Paper and Other Correspondence, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1985, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1991-1996, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1999-2001, </unitdate>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">27</container>
+              <container type="Folder">2</container>
+              <unittitle>University of California at Los Angeles Festival Documents, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1996-1997, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2000-2002</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">27</container>
+              <container type="Folder">3</container>
+              <unittitle>University of California at Santa Barbara Projects, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1986-1987, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2000, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2006</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">27</container>
+              <container type="Folder">4</container>
+              <unittitle>University of Oklahoma Press Correspondence, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2002-2018, </unitdate>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">27</container>
+              <container type="Folder">5</container>
+              <unittitle>United States Mission Germany, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2006</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">27</container>
+              <container type="Folder">6</container>
+              <unittitle>United States Information Service, Tegucigalpa, Honduras, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1994-2002</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">27</container>
+              <container type="Folder">7</container>
+              <unittitle>University of Texas at Austin PhD Program, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1981-1987</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">27</container>
+              <container type="Folder">8</container>
+              <unittitle>Visiting Professor University of Warsaw, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2012, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2014</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">27</container>
+              <container type="Folder">9</container>
+              <unittitle>Workshops/Conferences, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2003-2017</unitdate>
+            </did>
+          </c03>
+        </c02>
+        <c02 level="series" id="ser8">
+          <did>
+            <unittitle>Personal Materials</unittitle>
+          </did>
+          <c03 level="file"> <did>
+              <container type="Box">28</container>
+              <container type="Folder">1</container>
+              <unittitle>Academic Writing, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1990-1991, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1998</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">28</container>
+              <container type="Folder">2</container>
+              <unittitle>Academic Writing about Carlos Morton, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1986 May</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">28</container>
+              <container type="Folder">3</container>
+              <unittitle>Academic Writing about Carlos Morton, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2008 December</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">28</container>
+              <container type="Folder">4</container>
+              <unittitle>Articles and Personal Correspondence: Chicano/Latino Authors and Directors, Politicians, and Other Chicano Literature Memos, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1972-2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">28</container>
+              <container type="Folder">5</container>
+              <unittitle>Astrological Chart for Carlos Morton by Romulus Zamora, </unittitle>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">28</container>
+              <container type="Folder">6</container>
+              <unittitle>Authors of the Pass of the North, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1999</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">28</container>
+              <container type="Folder">7</container>
+              <unittitle>Awards, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1960, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1972, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1979, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1987, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1996, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2000-2009, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2015, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2018</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">28</container>
+              <container type="Folder">8</container>
+              <unittitle>Brujula: Special Issue of OLLANTAY Theater Magazine (Vol IV, no.1, 1996) with Guest Editors Carlos Morton and Lee A. Daniel, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1993-1997</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">28</container>
+              <container type="Folder">9</container>
+              <unittitle>Cambodia and Vietnam Trip, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2018</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">28</container>
+              <container type="Folder">10</container>
+              <unittitle>Carnaval of New Latino/a Work, </unittitle>
+              <unitdate era="ce" calendar="gregorian">2015</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">28</container>
+              <container type="Folder">11</container>
+              <unittitle>Curatorial Work, </unittitle>
+              <unitdate era="ce" calendar="gregorian">undated</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">28</container>
+              <container type="Folder">12</container>
+              <unittitle>Non Play Press and Awards, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1970-1973, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1977, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1987-1989, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1991, </unitdate>
+              <unitdate era="ce" calendar="gregorian">1999-2000, </unitdate>
+              <unitdate era="ce" calendar="gregorian">2013-2017</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">28</container>
+              <container type="Folder">13</container>
+              <unittitle>On the Move: Carlos Morton, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1988 August 7</unitdate>
+            </did>
+          </c03>
+          <c03 level="file">
+            <did>
+              <container type="Box">28</container>
+              <container type="Folder">14</container>
+              <unittitle>Professor Lee Daniel Writing About Carlos Morton, </unittitle>
+              <unitdate era="ce" calendar="gregorian">1987-1991</unitdate>
+            </did>
+          </c03>
+        </c02> 
+        <c02 level="series" id="ser9">
+          <did>
+            <unittitle>Audiovisual Materials</unittitle>
+          </did>
+          <c03 level="subseries"> <did>
+              <unittitle>Photographs and Photo Slides</unittitle>
+            </did>
+            <c04 level="file"> <did>
+                <container type="Box">28</container>
+                <container type="Folder">15</container>
+                <unittitle>Cuba Photo Slides, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1981 August</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">29</container>
+                <container type="Folder">1</container>
+                <unittitle>Historieta Photo Slides, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">29</container>
+                <container type="Folder">2</container>
+                <unittitle>Nicaragua Photo Slides, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1983 June</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">29</container>
+                <container type="Folder">3</container>
+                <unittitle>Photographs, Photo Slides, Negatives, and Contact Sheets, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1981-1983, </unitdate>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">29</container>
+                <container type="Folder">4</container>
+                <unittitle>Photographs of Unknown Performance, </unittitle>
+                <unitdate era="ce" calendar="gregorian">undated</unitdate>
+              </did>
+            </c04>
+            <c04 level="file">
+              <did>
+                <container type="Box">29</container>
+                <container type="Folder">5</container>
+                <unittitle>San Antonio Photo Slides, </unittitle>
+                <unitdate era="ce" calendar="gregorian">1983</unitdate>
+              </did>
+            </c04>
+          </c03> 
+        </c02>               
       </c01>
     </dsc>
   </archdesc>
