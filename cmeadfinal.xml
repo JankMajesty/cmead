@@ -205,7 +205,6 @@
       <head>Index Terms</head>
       <controlaccess>
         <head>Subjects (Persons)</head>
-        <subject source="local" encodinganalog="650">Morton, Carlos--Archives</subject>
         <persname source="lcnaf" encodinganalog="600">Morton, Carlos</persname>
         <persname source="lcnaf" encodinganalog="600">Morales, Richard</persname>
         <persname source="lcnaf" encodinganalog="600">Acosta, Oscar Zeta</persname>
@@ -352,14 +351,14 @@
             <did>
               <container type="Box">1</container>
               <container type="Folder">10</container>
-              <unittitle><title render="italic">Espiritu</title></unittitle>
+              <unittitle>Espiritu</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="Box">1</container>
               <container type="Folder">11</container>
-              <unittitle><title render="italic">Johnny Tenorio</title> drafts 1-2, </unittitle>
+              <unittitle>Johnny Tenorio drafts 1-2, </unittitle>
               <unitdate era="ce" calendar="gregorian" normal="1983">1983</unitdate>
             </did>
           </c03>
@@ -367,7 +366,7 @@
             <did>
               <container type="Box">1</container>
               <container type="Folder">12</container>
-              <unittitle><title render="italic">Johnny Tenorio</title> draft 3, </unittitle>
+              <unittitle>Johnny Tenorio draft 3, </unittitle>
               <unitdate era="ce" calendar="gregorian" normal="1984">1984</unitdate>
             </did>
           </c03>
@@ -375,8 +374,7 @@
             <did>
               <container type="Box">1</container>
               <container type="Folder">13</container>
-              <unittitle><title render="italic">La Malinche,</title>
-              </unittitle>
+              <unittitle>La Malinche, </unittitle>
               <unitdate era="ce" calendar="gregorian" normal="1984/1985">1984-1985</unitdate>
             </did>
           </c03>
@@ -384,21 +382,21 @@
             <did>
               <container type="Box">1</container>
               <container type="Folder">14</container>
-              <unittitle><title render="italic">The Many Deaths of Danny Morales</title></unittitle>
+              <unittitle>The Many Deaths of Danny Morales</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="Box">1</container>
               <container type="Folder">15</container>
-              <unittitle><title render="italic">Rancho Hollywood</title> - drafts</unittitle>
+              <unittitle>Rancho Hollywood - drafts</unittitle>
             </did>
           </c03>
           <c03 level="file">
             <did>
               <container type="Box">1</container>
               <container type="Folder">16</container>
-              <unittitle><title render="italic">Rancho Hollywood</title> - published version, </unittitle>
+              <unittitle>Rancho Hollywood - published version, </unittitle>
               <unitdate era="ce" calendar="gregorian" normal="1979">1979</unitdate>
             </did>
           </c03>
@@ -406,7 +404,7 @@
             <did>
               <container type="Box">1</container>
               <container type="Folder">17</container>
-              <unittitle><title render="italic">Rancho Hollywood</title> - correspondence and notes, </unittitle>
+              <unittitle>Rancho Hollywood - correspondence and notes, </unittitle>
               <unitdate era="ce" calendar="gregorian" normal="1981/1982">1981-1982</unitdate>
             </did>
           </c03>
@@ -530,8 +528,7 @@
           <did>
             <container type="Box">3</container>
             <container type="Folder">8</container>
-            <unittitle><title render="italic">A Brief History of the Mexican in Austin and Travis
-              County from 1730-1930</title> (draft), </unittitle>
+            <unittitle>A Brief History of the Mexican in Austin and Travis County from 1730-1930 (draft), </unittitle>
             <unitdate era="ce" calendar="gregorian" normal="1992">1992</unitdate>
           </did>
           <scopecontent>
@@ -656,7 +653,7 @@
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
               <scopecontent>
-                <p>This folder includes violent imagery. Viewer discretion is advised.</p>
+                <p>Some of the language and/or images in this folder depict graphic and violent content, including but not limited to police violence.</p>
               </scopecontent>
             </c04>
             <c04 level="file">
@@ -1626,7 +1623,7 @@
               <did>
                 <container type="Box">11</container>
                 <container type="Folder">15</container>
-                <unittitle>Brown Baby (Formerly) The Foundling Notes, etc., </unittitle>
+                <unittitle>Brown Baby (Formerly) The Foundling Notes,  </unittitle>
                 <unitdate era="ce" calendar="gregorian">1998</unitdate>
               </did>
             </c04>
@@ -1813,7 +1810,7 @@
               <did>
                 <container type="Box">13</container>
                 <container type="Folder">4</container>
-                <unittitle>Denver Center Theater Contracts, etc., </unittitle>
+                <unittitle>Denver Center Theater Contracts, </unittitle>
                 <unitdate era="ce" calendar="gregorian">1985-1988, </unitdate>
                 <unitdate era="ce" calendar="gregorian">1993, </unitdate>
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
@@ -2493,8 +2490,7 @@
             <did>
               <container type="Box">19</container>
               <container type="Folder">5</container>
-              <unittitle>French Translations of <title render="italic">Lilith</title> and <title
-                  render="italic">Dreaming on a Sunday in the Alameda</title>, </unittitle>
+              <unittitle>French Translations of Lilith and Dreaming on a Sunday in the Alameda, </unittitle>
               <unitdate era="ce" calendar="gregorian">undated</unitdate>
             </did>
           </c03>
@@ -2511,7 +2507,7 @@
             <did>
               <container type="Box">20</container>
               <container type="Folder">1</container>
-              <unittitle>Letters &amp; Correspondence, </unittitle>
+              <unittitle>Letters and Correspondence, </unittitle>
               <unitdate era="ce" calendar="gregorian">1970-2019</unitdate>
             </did>
           </c03>
@@ -2536,7 +2532,7 @@
             <did>
               <container type="Box">20</container>
               <container type="Folder">3</container>
-              <unittitle><title render="italic">Pancho Diablo</title> + Miscellaneous Jardín Slides, </unittitle>
+              <unittitle>Pancho Diablo + Miscellaneous Jardín Slides, </unittitle>
               <unitdate era="ce" calendar="gregorian">undated</unitdate>
             </did>
           </c03>
@@ -2577,7 +2573,7 @@
             <did>
               <container type="Box">20</container>
               <container type="Folder">8</container>
-              <unittitle>Plays Correspondence etc. also Publication, </unittitle>
+              <unittitle>Plays Correspondence also Publication, </unittitle>
               <unitdate era="ce" calendar="gregorian">1987-1992, </unitdate>
               <unitdate era="ce" calendar="gregorian">2000-2006</unitdate>
             </did>
@@ -3002,7 +2998,7 @@
             <did>
               <container type="Box">24</container>
               <container type="Folder">7</container>
-              <unittitle>Mexican-American Studies, </unittitle>
+              <unittitle>Mexican American Studies, </unittitle>
               <unitdate era="ce" calendar="gregorian">1981-1989</unitdate>
             </did>
           </c03>
@@ -3073,7 +3069,7 @@
             <did>
               <container type="Box">25</container>
               <container type="Folder">1</container>
-              <unittitle>Miscellaneous Papers, Programs, Service, etc, </unittitle>
+              <unittitle>Miscellaneous Papers, Programs, Service, </unittitle>
               <unitdate era="ce" calendar="gregorian">2011-2016</unitdate>
             </did>
           </c03>
@@ -3533,7 +3529,7 @@
               <unittitle>Tapes for Grabados en Instituto Mexicano de la Radio - Novela 'Eres un
                 Sueño' Mexico</unittitle>
             </did>
-            <c04 level="file">
+            <c04 level="item">
               <did>
                 <container type="Box">29</container>
                 <container type="Folder">1</container>
@@ -3541,7 +3537,7 @@
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
-            <c04 level="file">
+            <c04 level="item">
               <did>
                 <container type="Box">29</container>
                 <container type="Folder">2</container>
@@ -3549,7 +3545,7 @@
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
-            <c04 level="file">
+            <c04 level="item">
               <did>
                 <container type="Box">29</container>
                 <container type="Folder">3</container>
@@ -3557,7 +3553,7 @@
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
-            <c04 level="file">
+            <c04 level="item">
               <did>
                 <container type="Box">29</container>
                 <container type="Folder">4</container>
@@ -3565,7 +3561,7 @@
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
-            <c04 level="file">
+            <c04 level="item">
               <did>
                 <container type="Box">29</container>
                 <container type="Folder">5</container>
@@ -3573,7 +3569,7 @@
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
-            <c04 level="file">
+            <c04 level="item">
               <did>
                 <container type="Box">29</container>
                 <container type="Folder">6</container>
@@ -3581,7 +3577,7 @@
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
-            <c04 level="file">
+            <c04 level="item">
               <did>
                 <container type="Box">29</container>
                 <container type="Folder">7</container>
@@ -3589,7 +3585,7 @@
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
-            <c04 level="file">
+            <c04 level="item">
               <did>
                 <container type="Box">29</container>
                 <container type="Folder">8</container>
@@ -3597,7 +3593,7 @@
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
-            <c04 level="file">
+            <c04 level="item">
               <did>
                 <container type="Box">29</container>
                 <container type="Folder">9</container>
@@ -3605,7 +3601,7 @@
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
-            <c04 level="file">
+            <c04 level="item">
               <did>
                 <container type="Box">29</container>
                 <container type="Folder">10</container>
@@ -3618,7 +3614,7 @@
             <did>
               <unittitle>Tapes of Interviews Conducted by Carlos Morton for Articles and Plays</unittitle>
             </did>
-            <c04 level="file">
+            <c04 level="item">
               <did>
                 <container type="Box">29</container>
                 <container type="Folder">11</container>
@@ -3626,7 +3622,7 @@
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
-            <c04 level="file">
+            <c04 level="item">
               <did>
                 <container type="Box">29</container>
                 <container type="Folder">12</container>
@@ -3634,7 +3630,7 @@
                 <unitdate era="ce" calendar="gregorian">1992 July 14</unitdate>
               </did>
             </c04>
-            <c04 level="file">
+            <c04 level="item">
               <did>
                 <container type="Box">29</container>
                 <container type="Folder">13</container>
@@ -3642,7 +3638,7 @@
                 <unitdate era="ce" calendar="gregorian">1990 October</unitdate>
               </did>
             </c04>
-            <c04 level="file">
+            <c04 level="item">
               <did>
                 <container type="Box">29</container>
                 <container type="Folder">14</container>
@@ -3651,7 +3647,7 @@
                 <unitdate era="ce" calendar="gregorian">1987 November 25</unitdate>
               </did>
             </c04>
-            <c04 level="file">
+            <c04 level="item">
               <did>
                 <container type="Box">29</container>
                 <container type="Folder">15</container>
@@ -3659,7 +3655,7 @@
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
             </c04>
-            <c04 level="file">
+            <c04 level="item">
               <did>
                 <container type="Box">29</container>
                 <container type="Folder">16</container>
@@ -3667,7 +3663,7 @@
                 <unitdate era="ce" calendar="gregorian">1991 December 16</unitdate>
               </did>
             </c04>
-            <c04 level="file">
+            <c04 level="item">
               <did>
                 <container type="Box">29</container>
                 <container type="Folder">17</container>
