@@ -1225,7 +1225,7 @@
               <did>
                 <container type="Box">9</container>
                 <container type="Folder">1</container>
-                <unittitle>Romero, el Salvador, </unittitle>
+                <unittitle>Romero, El Salvador, </unittitle>
                 <unitdate era="ce" calendar="gregorian">2001-2002, </unitdate>
                 <unitdate era="ce" calendar="gregorian">undated</unitdate>
               </did>
@@ -1243,7 +1243,7 @@
               <did>
                 <container type="Box">9</container>
                 <container type="Folder">3</container>
-                <unittitle>Romero, el Salvador by Carlos Morton Italian Translation, </unittitle>
+                <unittitle>Romero, El Salvador by Carlos Morton Italian Translation, </unittitle>
                 <unitdate era="ce" calendar="gregorian">1993</unitdate>
               </did>
             </c04>
